@@ -25,8 +25,8 @@
          <div class="row">
            {% for workModel in WorkModelList %} 
             <div class="card">
-              <a href="javascript:;" >
-                <img data-src="holder.js/100px280?theme=thumb" alt="Card image cap" src="{{workModel.href}}" height="200" class="rounded mx-auto d-block" >
+              <a href="{{workModel.href}}" >
+                <img  alt="{{ workModel.name }}" src="{{workModel.imgsrc}}" height="200" class="rounded mx-auto d-block" >
               </a>
               <p class="card-text">
               名称 ：{{ workModel.name }}<br/>
@@ -34,6 +34,7 @@
               引擎 : {{ workModel.engine}} <br/>
               平台 : {{ workModel.platform }}<br/>
               文档 : {{ workModel.isdoc}}<br/>
+              <!--
               LOD ：{{ workModel.islod}}<br/>
               PBR : {{ workModel.ispbr}} <br/>
               碰撞 : {{ workModel.iscollision}} <br/>
@@ -44,7 +45,8 @@
               材质数量 : {{ workModel.materialscount }}<br/>
               动画数量 ：{{ workModel.animcount }}<br/>
               特效数量 : {{ workModel.effectcount }}<br/>
-              </p>
+             --> 
+             </p>
             </div>  
             {% endfor %}
 

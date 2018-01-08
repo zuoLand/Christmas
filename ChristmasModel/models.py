@@ -11,8 +11,9 @@ class RefModel(models.Model):
 
 
 class WorkModel(models.Model):
-    name=models.CharField(max_length=100)
-    href=models.CharField(max_length=500)
+    name=models.CharField(max_length=200)
+    imgsrc=models.CharField(max_length=300)
+    href=models.CharField(max_length=300)
     fps=models.CharField(max_length=5)
     engine=models.CharField(max_length=10)
     platform=models.CharField(max_length=10)
