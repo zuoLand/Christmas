@@ -1,0 +1,21 @@
+{% extends "base.html" %}
+
+{% block context %}
+    <main role="main">
+
+      <!-- Main jumbotron for a primary marketing message or call to action -->
+       <div class="container">
+           <h1>&nbsp;</h1>
+           <p class="lead"></p>
+
+          {% for refmodel in RefModelList %}
+            <div class="row">
+             <div class="col-md-8"><a href="{{ refmodel.href }} ">{{ refmodel.name }}</a></div>
+             <div class="col-md-4">{{ refmodel.class_name }}</div>
+	</div>
+          {% endfor %}
+
+
+
+       </div>
+{% endblock context %}

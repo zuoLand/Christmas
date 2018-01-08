@@ -1,0 +1,57 @@
+{% extends "base.html" %}
+
+
+{% block context %}
+      <section class="jumbotron text-center">
+        <div class="container">
+          <h1 class="jumbotron-heading">作品展示</h1>
+          <p class="lead text-muted">
+          山花落幽户,中有忘机客.<br/>
+          小人槿花心,朝在夕不存.</p>
+          <!--
+          <p>
+            <a href="#" class="btn btn-primary">Main call to action</a>
+            <a href="#" class="btn btn-secondary">Secondary action</a>
+          </p>
+        -->
+        </div>
+      </section>
+      <hr/>
+
+       <div class="album text-muted">
+        <div class="container">
+
+         <!-- -->
+         <div class="row">
+           {% for workModel in WorkModelList %} 
+            <div class="card">
+              <a href="javascript:;" >
+                <img data-src="holder.js/100px280?theme=thumb" alt="Card image cap" src="{{workModel.href}}" height="200" class="rounded mx-auto d-block" >
+              </a>
+              <p class="card-text">
+              名称 ：{{ workModel.name }}<br/>
+              FPS ：{{ workModel.fps }}<br/>
+              引擎 : {{ workModel.engine}} <br/>
+              平台 : {{ workModel.platform }}<br/>
+              文档 : {{ workModel.isdoc}}<br/>
+              LOD ：{{ workModel.islod}}<br/>
+              PBR : {{ workModel.ispbr}} <br/>
+              碰撞 : {{ workModel.iscollision}} <br/>
+              顶点数量 : {{ workModel.vertexcount }}<br/>
+              模型数量 : {{ workModel.meshcount}}<br/>
+              贴图数量 ：{{ workModel.texturecount}}<br/>
+              贴图精度 ：{{ workModel.texturesize }}<br/>
+              材质数量 : {{ workModel.materialscount }}<br/>
+              动画数量 ：{{ workModel.animcount }}<br/>
+              特效数量 : {{ workModel.effectcount }}<br/>
+              </p>
+            </div>  
+            {% endfor %}
+
+        </div>
+        </div>
+      </div>
+    </main>
+
+
+{% endblock context %}

@@ -1,0 +1,57 @@
+{% extends "base.html" %}
+
+{% block context %}
+
+      <!-- Main jumbotron for a primary marketing message or call to action -->
+      <div class="jumbotron">
+        <div class="container">
+          <h1 class="display-3">你好, 未来!</h1>
+          <p>
+            北冥有鱼，其名为鲲<br/>
+          </p>          
+          <p><a class="btn btn-primary btn-lg" href="{{SITE_ADDRESS_PRE}}://{{SITE_ADDRESS}}/work" role="button">查看更多 &raquo;</a></p>
+        </div>
+      </div>
+
+      <div class="container">
+        <!-- Example row of columns -->
+        <div class="row">
+          <div class="col-md-4">
+            <h2>作品</h2>
+            <p>
+              201704-手枪模型<br/>
+              201705-Tesla Model X模型<br/>
+              201706-建筑_超市模型<br/>
+              201707-建筑_住宅模型<br/>
+              201710-邮轮模型<br/>
+              ...
+            </p>
+            <p><a class="btn btn-secondary" href="{{SITE_ADDRESS_PRE}}://{{SITE_ADDRESS}}/work" role="button">查看详情 &raquo;</a></p>
+          </div>
+          <div class="col-md-4">
+            <h2>知识分享</h2>
+            <p>
+              模型制作<br/>
+              阿里云环境配置<br/>
+              CentOS软件安装<br/>
+              ...
+            </p>
+            <p><a class="btn btn-secondary" href="{{SITE_ADDRESS_PRE}}://{{SITE_ADDRESS}}/ref" role="button">查看详情 &raquo;</a></p>
+          </div>
+          <div class="col-md-4">
+            <h2>介绍</h2>
+            <p>
+              环境艺术制作<br/>
+              程序优化<br/>
+              知识分享<br/>
+              ...
+            </p>
+            <p><a class="btn btn-secondary" href="{{SITE_ADDRESS_PRE}}://{{SITE_ADDRESS}}/introduction" role="button">查看详情&raquo;</a></p>
+          </div>
+        </div>
+
+        <hr>
+
+      </div> <!-- /container -->
+
+{% endblock context %}
