@@ -2166,3 +2166,2332 @@ Quit the server with CONTROL-C.
 [08/Jan/2018 12:40:56] "GET /admin/ChristmasModel/refmodel/ HTTP/1.0" 200 8554
 [08/Jan/2018 12:40:56] "GET /admin/jsi18n/ HTTP/1.0" 200 3217
 [08/Jan/2018 12:40:56] "GET /static/admin/img/icon-yes.svg HTTP/1.0" 200 436
+[08/Jan/2018 12:56:25] "GET / HTTP/1.0" 200 4557
+[08/Jan/2018 13:13:54] "GET / HTTP/1.0" 200 4557
+[08/Jan/2018 13:13:55] "GET /static/res/bootstrap-4.0.0/css/bootstrap.css HTTP/1.0" 200 159202
+[08/Jan/2018 13:13:55] "GET /static/res/bootstrap-4.0.0/css/bootstrap-reboot.css HTTP/1.0" 200 4964
+[08/Jan/2018 13:13:55] "GET /static/res/bootstrap-4.0.0/css/bootstrap-grid.css HTTP/1.0" 200 32403
+[08/Jan/2018 13:13:55] "GET /static/res/bootstrap-4.0.0/css/jumbotron.css HTTP/1.0" 200 107
+[08/Jan/2018 13:13:55] "GET /static/res/bootstrap-4.0.0/css/grid.css HTTP/1.0" 200 366
+[08/Jan/2018 13:13:55] "GET /static/res/bootstrap-4.0.0/css/album.css HTTP/1.0" 200 790
+[08/Jan/2018 13:13:55] "GET /static/res/bootstrap-4.0.0/js/bootstrap.min.js HTTP/1.0" 200 50564
+[08/Jan/2018 13:13:55] "GET /static/res/bootstrap-4.0.0/js/jquery-3.2.1.min.js HTTP/1.0" 200 86659
+[08/Jan/2018 13:13:57] "GET /static/res/bootstrap-markdown/js/bootstrap-markdown.js HTTP/1.0" 200 49558
+[08/Jan/2018 13:13:59] "GET /static/res/bootstrap-4.0.0/js/popper.min.js HTTP/1.0" 200 19197
+[08/Jan/2018 13:13:59] "GET /static/res/bootstrap-4.0.0/js/holder.min.js HTTP/1.0" 200 32283
+[08/Jan/2018 13:24:03] "GET / HTTP/1.0" 200 4557
+[08/Jan/2018 13:24:05] "GET /ref HTTP/1.0" 200 7023
+[08/Jan/2018 13:24:06] "GET /work HTTP/1.0" 200 127304
+[08/Jan/2018 15:15:00] "GET / HTTP/1.0" 200 4557
+Not Found: /apple-touch-icon-precomposed.png
+[08/Jan/2018 15:15:00] "GET /apple-touch-icon-precomposed.png HTTP/1.0" 404 2561
+Not Found: /apple-touch-icon.png
+[08/Jan/2018 15:15:00] "GET /apple-touch-icon.png HTTP/1.0" 404 2525
+Not Found: /favicon.ico
+[08/Jan/2018 15:15:00] "GET /favicon.ico HTTP/1.0" 404 2498
+Not Found: /favicon.ico
+[08/Jan/2018 15:15:01] "GET /favicon.ico HTTP/1.0" 404 2498
+Not Found: /apple-touch-icon-precomposed.png
+[08/Jan/2018 15:15:01] "GET /apple-touch-icon-precomposed.png HTTP/1.0" 404 2561
+Not Found: /apple-touch-icon.png
+[08/Jan/2018 15:15:01] "GET /apple-touch-icon.png HTTP/1.0" 404 2525
+Not Found: /favicon.ico
+[08/Jan/2018 15:15:01] "GET /favicon.ico HTTP/1.0" 404 2498
+Not Found: /favicon.ico
+[08/Jan/2018 15:15:01] "GET /favicon.ico HTTP/1.0" 404 2498
+[08/Jan/2018 15:15:01] "GET / HTTP/1.0" 200 4557
+Not Found: /apple-touch-icon-precomposed.png
+[08/Jan/2018 15:15:01] "GET /apple-touch-icon-precomposed.png HTTP/1.0" 404 2561
+Not Found: /apple-touch-icon.png
+[08/Jan/2018 15:15:01] "GET /apple-touch-icon.png HTTP/1.0" 404 2525
+Not Found: /favicon.ico
+[08/Jan/2018 15:15:01] "GET /favicon.ico HTTP/1.0" 404 2498
+Not Found: /favicon.ico
+[08/Jan/2018 15:15:01] "GET /favicon.ico HTTP/1.0" 404 2498
+Not Found: /apple-touch-icon-precomposed.png
+[08/Jan/2018 15:15:01] "GET /apple-touch-icon-precomposed.png HTTP/1.0" 404 2561
+Not Found: /apple-touch-icon.png
+[08/Jan/2018 15:15:01] "GET /apple-touch-icon.png HTTP/1.0" 404 2525
+Not Found: /favicon.ico
+[08/Jan/2018 15:15:01] "GET /favicon.ico HTTP/1.0" 404 2498
+Not Found: /favicon.ico
+[08/Jan/2018 15:15:01] "GET /favicon.ico HTTP/1.0" 404 2498
+[08/Jan/2018 16:23:19] "GET / HTTP/1.0" 200 4557
+Not Found: /apple-touch-icon-precomposed.png
+[08/Jan/2018 16:23:19] "GET /apple-touch-icon-precomposed.png HTTP/1.0" 404 2561
+Not Found: /apple-touch-icon.png
+[08/Jan/2018 16:23:19] "GET /apple-touch-icon.png HTTP/1.0" 404 2525
+Not Found: /favicon.ico
+[08/Jan/2018 16:23:19] "GET /favicon.ico HTTP/1.0" 404 2498
+Not Found: /favicon.ico
+[08/Jan/2018 16:23:19] "GET /favicon.ico HTTP/1.0" 404 2498
+Not Found: /apple-touch-icon-precomposed.png
+[08/Jan/2018 16:23:19] "GET /apple-touch-icon-precomposed.png HTTP/1.0" 404 2561
+Not Found: /apple-touch-icon.png
+[08/Jan/2018 16:23:19] "GET /apple-touch-icon.png HTTP/1.0" 404 2525
+Not Found: /favicon.ico
+[08/Jan/2018 16:23:19] "GET /favicon.ico HTTP/1.0" 404 2498
+Not Found: /favicon.ico
+[08/Jan/2018 16:23:19] "GET /favicon.ico HTTP/1.0" 404 2498
+[08/Jan/2018 16:23:19] "GET / HTTP/1.0" 200 4557
+Not Found: /apple-touch-icon-precomposed.png
+[08/Jan/2018 16:23:19] "GET /apple-touch-icon-precomposed.png HTTP/1.0" 404 2561
+Not Found: /apple-touch-icon.png
+[08/Jan/2018 16:23:19] "GET /apple-touch-icon.png HTTP/1.0" 404 2525
+Not Found: /favicon.ico
+[08/Jan/2018 16:23:19] "GET /favicon.ico HTTP/1.0" 404 2498
+Not Found: /favicon.ico
+[08/Jan/2018 16:23:19] "GET /favicon.ico HTTP/1.0" 404 2498
+Not Found: /apple-touch-icon-precomposed.png
+[08/Jan/2018 16:23:19] "GET /apple-touch-icon-precomposed.png HTTP/1.0" 404 2561
+Not Found: /apple-touch-icon.png
+[08/Jan/2018 16:23:19] "GET /apple-touch-icon.png HTTP/1.0" 404 2525
+Not Found: /favicon.ico
+[08/Jan/2018 16:23:19] "GET /favicon.ico HTTP/1.0" 404 2498
+Not Found: /favicon.ico
+[08/Jan/2018 16:23:19] "GET /favicon.ico HTTP/1.0" 404 2498
+[08/Jan/2018 16:30:08] "GET / HTTP/1.0" 200 4557
+Not Found: /apple-touch-icon-precomposed.png
+[08/Jan/2018 16:30:08] "GET /apple-touch-icon-precomposed.png HTTP/1.0" 404 2561
+Not Found: /apple-touch-icon.png
+[08/Jan/2018 16:30:08] "GET /apple-touch-icon.png HTTP/1.0" 404 2525
+Not Found: /favicon.ico
+[08/Jan/2018 16:30:08] "GET /favicon.ico HTTP/1.0" 404 2498
+Not Found: /favicon.ico
+[08/Jan/2018 16:30:08] "GET /favicon.ico HTTP/1.0" 404 2498
+Not Found: /apple-touch-icon-precomposed.png
+[08/Jan/2018 16:30:08] "GET /apple-touch-icon-precomposed.png HTTP/1.0" 404 2561
+Not Found: /apple-touch-icon.png
+[08/Jan/2018 16:30:09] "GET /apple-touch-icon.png HTTP/1.0" 404 2525
+Not Found: /favicon.ico
+[08/Jan/2018 16:30:09] "GET /favicon.ico HTTP/1.0" 404 2498
+Not Found: /favicon.ico
+[08/Jan/2018 16:30:09] "GET /favicon.ico HTTP/1.0" 404 2498
+[08/Jan/2018 16:30:09] "GET / HTTP/1.0" 200 4557
+Not Found: /apple-touch-icon-precomposed.png
+[08/Jan/2018 16:30:09] "GET /apple-touch-icon-precomposed.png HTTP/1.0" 404 2561
+Not Found: /apple-touch-icon.png
+[08/Jan/2018 16:30:09] "GET /apple-touch-icon.png HTTP/1.0" 404 2525
+Not Found: /favicon.ico
+[08/Jan/2018 16:30:09] "GET /favicon.ico HTTP/1.0" 404 2498
+Not Found: /favicon.ico
+[08/Jan/2018 16:30:09] "GET /favicon.ico HTTP/1.0" 404 2498
+Not Found: /apple-touch-icon-precomposed.png
+[08/Jan/2018 16:30:09] "GET /apple-touch-icon-precomposed.png HTTP/1.0" 404 2561
+Not Found: /apple-touch-icon.png
+[08/Jan/2018 16:30:09] "GET /apple-touch-icon.png HTTP/1.0" 404 2525
+Not Found: /favicon.ico
+[08/Jan/2018 16:30:09] "GET /favicon.ico HTTP/1.0" 404 2498
+Not Found: /favicon.ico
+[08/Jan/2018 16:30:09] "GET /favicon.ico HTTP/1.0" 404 2498
+[08/Jan/2018 16:39:31] "GET / HTTP/1.0" 200 4557
+Not Found: /apple-touch-icon-152x152-precomposed.png
+[08/Jan/2018 16:39:32] "GET /apple-touch-icon-152x152-precomposed.png HTTP/1.0" 404 2585
+Not Found: /apple-touch-icon-152x152.png
+[08/Jan/2018 16:39:32] "GET /apple-touch-icon-152x152.png HTTP/1.0" 404 2549
+Not Found: /apple-touch-icon-precomposed.png
+[08/Jan/2018 16:39:32] "GET /apple-touch-icon-precomposed.png HTTP/1.0" 404 2561
+Not Found: /apple-touch-icon.png
+[08/Jan/2018 16:39:32] "GET /apple-touch-icon.png HTTP/1.0" 404 2525
+Not Found: /favicon.ico
+[08/Jan/2018 16:39:32] "GET /favicon.ico HTTP/1.0" 404 2498
+Not Found: /favicon.ico
+[08/Jan/2018 16:39:32] "GET /favicon.ico HTTP/1.0" 404 2498
+Not Found: /apple-touch-icon-152x152-precomposed.png
+[08/Jan/2018 16:39:32] "GET /apple-touch-icon-152x152-precomposed.png HTTP/1.0" 404 2585
+Not Found: /apple-touch-icon-152x152.png
+[08/Jan/2018 16:39:32] "GET /apple-touch-icon-152x152.png HTTP/1.0" 404 2549
+Not Found: /apple-touch-icon-precomposed.png
+[08/Jan/2018 16:39:32] "GET /apple-touch-icon-precomposed.png HTTP/1.0" 404 2561
+Not Found: /apple-touch-icon.png
+[08/Jan/2018 16:39:32] "GET /apple-touch-icon.png HTTP/1.0" 404 2525
+Not Found: /favicon.ico
+[08/Jan/2018 16:39:32] "GET /favicon.ico HTTP/1.0" 404 2498
+Not Found: /favicon.ico
+[08/Jan/2018 16:39:32] "GET /favicon.ico HTTP/1.0" 404 2498
+[08/Jan/2018 17:03:02] "GET / HTTP/1.0" 200 4557
+[08/Jan/2018 19:22:36] "GET / HTTP/1.0" 200 4557
+Not Found: /explicit_not_exist_path
+[08/Jan/2018 19:22:36] "GET /explicit_not_exist_path HTTP/1.0" 404 2534
+Not Found: /index.html
+[08/Jan/2018 19:22:37] "GET /index.html HTTP/1.0" 404 2495
+Not Found: /index.php
+[08/Jan/2018 19:22:37] "GET /index.php HTTP/1.0" 404 2492
+Not Found: /index.jsp
+[08/Jan/2018 19:22:37] "GET /index.jsp HTTP/1.0" 404 2492
+[08/Jan/2018 19:22:37] "GET /admin/ HTTP/1.0" 302 0
+[08/Jan/2018 19:22:37] "GET /admin/login/?next=/admin/ HTTP/1.0" 200 1650
+Not Found: /favicon.ico
+[08/Jan/2018 19:22:37] "GET /favicon.ico HTTP/1.0" 404 2498
+Not Found: /robots.txt
+[08/Jan/2018 19:22:37] "GET /robots.txt HTTP/1.0" 404 2495
+Not Found: /README
+[08/Jan/2018 19:22:37] "GET /README HTTP/1.0" 404 2483
+[08/Jan/2018 19:22:37] "GET /static/admin/css/base.css HTTP/1.0" 200 16066
+[08/Jan/2018 19:22:37] "GET /static/admin/js/admin/RelatedObjectLookups.js HTTP/1.0" 200 6591
+[08/Jan/2018 19:22:37] "GET /static/admin/css/dashboard.css HTTP/1.0" 200 412
+[08/Jan/2018 19:22:37] "GET /static/admin/img/icon-no.gif HTTP/1.0" 404 1676
+[08/Jan/2018 19:22:38] "GET /static/admin/js/LICENSE-JQUERY.txt HTTP/1.0" 404 1694
+[08/Jan/2018 19:22:38] "GET /static/admin/fonts/Roboto-Light-webfont.woff HTTP/1.0" 200 81348
+[08/Jan/2018 19:22:38] "GET /static/admin/css/fonts.css HTTP/1.0" 200 423
+[08/Jan/2018 19:22:38] "GET /static/admin/img/icon-no.svg HTTP/1.0" 200 560
+Not Found: /404.html
+[08/Jan/2018 19:22:38] "GET /404.html HTTP/1.0" 404 2489
+Not Found: /500.html
+[08/Jan/2018 19:22:38] "GET /500.html HTTP/1.0" 404 2489
+Not Found: /stylesheets/application.css
+[08/Jan/2018 19:22:38] "GET /stylesheets/application.css HTTP/1.0" 404 2546
+Not Found: /wp-login.php
+[08/Jan/2018 19:22:38] "GET /wp-login.php HTTP/1.0" 404 2501
+Not Found: /readme.html
+[08/Jan/2018 19:22:38] "GET /readme.html HTTP/1.0" 404 2498
+Not Found: /license.txt
+[08/Jan/2018 19:22:38] "GET /license.txt HTTP/1.0" 404 2498
+Not Found: /wp-includes/js/wplink.js
+[08/Jan/2018 19:22:38] "GET /wp-includes/js/wplink.js HTTP/1.0" 404 2537
+Not Found: /wp-admin/js/customize-controls.js
+[08/Jan/2018 19:22:38] "GET /wp-admin/js/customize-controls.js HTTP/1.0" 404 2564
+Not Found: /wp-admin/js/nav-menu.js
+[08/Jan/2018 19:22:39] "GET /wp-admin/js/nav-menu.js HTTP/1.0" 404 2534
+Not Found: /wp-includes/js/plupload/handlers.js
+[08/Jan/2018 19:22:39] "GET /wp-includes/js/plupload/handlers.js HTTP/1.0" 404 2570
+Not Found: /wp-includes/js/tinymce/wp-tinymce.js.gz
+[08/Jan/2018 19:22:39] "GET /wp-includes/js/tinymce/wp-tinymce.js.gz HTTP/1.0" 404 2582
+Not Found: /solr/
+[08/Jan/2018 19:22:39] "GET /solr/ HTTP/1.0" 404 2480
+Not Found: /wcm/
+[08/Jan/2018 19:22:39] "GET /wcm/ HTTP/1.0" 404 2477
+Not Found: /phpMyAdmin/
+[08/Jan/2018 19:22:39] "GET /phpMyAdmin/ HTTP/1.0" 404 2498
+Not Found: /phpmyadmin/
+[08/Jan/2018 19:22:39] "GET /phpmyadmin/ HTTP/1.0" 404 2498
+Not Found: /pma/
+[08/Jan/2018 19:22:39] "GET /pma/ HTTP/1.0" 404 2477
+[08/Jan/2018 23:56:16] "GET / HTTP/1.0" 200 4557
+Not Found: /apple-touch-icon-precomposed.png
+[08/Jan/2018 23:56:16] "GET /apple-touch-icon-precomposed.png HTTP/1.0" 404 2561
+Not Found: /apple-touch-icon.png
+[08/Jan/2018 23:56:16] "GET /apple-touch-icon.png HTTP/1.0" 404 2525
+Not Found: /favicon.ico
+[08/Jan/2018 23:56:16] "GET /favicon.ico HTTP/1.0" 404 2498
+Not Found: /favicon.ico
+[08/Jan/2018 23:56:16] "GET /favicon.ico HTTP/1.0" 404 2498
+Not Found: /apple-touch-icon-precomposed.png
+[08/Jan/2018 23:56:16] "GET /apple-touch-icon-precomposed.png HTTP/1.0" 404 2561
+Not Found: /apple-touch-icon.png
+[08/Jan/2018 23:56:16] "GET /apple-touch-icon.png HTTP/1.0" 404 2525
+Not Found: /favicon.ico
+[08/Jan/2018 23:56:16] "GET /favicon.ico HTTP/1.0" 404 2498
+Not Found: /favicon.ico
+[08/Jan/2018 23:56:16] "GET /favicon.ico HTTP/1.0" 404 2498
+[08/Jan/2018 23:56:16] "GET / HTTP/1.0" 200 4557
+Not Found: /apple-touch-icon-precomposed.png
+[08/Jan/2018 23:56:16] "GET /apple-touch-icon-precomposed.png HTTP/1.0" 404 2561
+Not Found: /apple-touch-icon.png
+[08/Jan/2018 23:56:16] "GET /apple-touch-icon.png HTTP/1.0" 404 2525
+Not Found: /favicon.ico
+[08/Jan/2018 23:56:16] "GET /favicon.ico HTTP/1.0" 404 2498
+Not Found: /favicon.ico
+[08/Jan/2018 23:56:16] "GET /favicon.ico HTTP/1.0" 404 2498
+Not Found: /apple-touch-icon-precomposed.png
+[08/Jan/2018 23:56:16] "GET /apple-touch-icon-precomposed.png HTTP/1.0" 404 2561
+Not Found: /apple-touch-icon.png
+[08/Jan/2018 23:56:16] "GET /apple-touch-icon.png HTTP/1.0" 404 2525
+Not Found: /favicon.ico
+[08/Jan/2018 23:56:17] "GET /favicon.ico HTTP/1.0" 404 2498
+Not Found: /favicon.ico
+[08/Jan/2018 23:56:17] "GET /favicon.ico HTTP/1.0" 404 2498
+[09/Jan/2018 02:01:19] "GET / HTTP/1.0" 200 4557
+Not Found: /favicon.ico
+[09/Jan/2018 02:01:23] "GET /favicon.ico HTTP/1.0" 404 2498
+[09/Jan/2018 02:01:31] "GET /work HTTP/1.0" 200 127304
+[09/Jan/2018 02:01:34] "GET /ref HTTP/1.0" 200 7023
+[09/Jan/2018 02:01:44] "GET /admin/ HTTP/1.0" 200 7060
+[09/Jan/2018 02:01:47] "GET /admin/ChristmasModel/workmodel/ HTTP/1.0" 200 28890
+[09/Jan/2018 02:01:47] "GET /admin/jsi18n/ HTTP/1.0" 200 3217
+[09/Jan/2018 02:01:49] "GET /admin/ HTTP/1.0" 200 7060
+[09/Jan/2018 02:01:50] "GET /admin/ChristmasModel/refmodel/ HTTP/1.0" 200 8351
+[09/Jan/2018 02:01:50] "GET /admin/jsi18n/ HTTP/1.0" 200 3217
+[09/Jan/2018 02:01:52] "GET /admin/ChristmasModel/refmodel/add/ HTTP/1.0" 200 4848
+[09/Jan/2018 02:01:52] "GET /admin/jsi18n/ HTTP/1.0" 200 3217
+[09/Jan/2018 02:02:21] "POST /admin/ChristmasModel/refmodel/add/ HTTP/1.0" 302 0
+[09/Jan/2018 02:02:21] "GET /admin/ChristmasModel/refmodel/ HTTP/1.0" 200 8796
+[09/Jan/2018 02:02:21] "GET /admin/jsi18n/ HTTP/1.0" 200 3217
+[09/Jan/2018 02:03:07] "GET / HTTP/1.0" 200 4557
+[09/Jan/2018 02:03:09] "GET / HTTP/1.0" 200 4557
+[09/Jan/2018 02:03:12] "GET /work HTTP/1.0" 200 127304
+[09/Jan/2018 02:03:26] "GET /admin/ChristmasModel/refmodel/add/ HTTP/1.0" 200 4848
+[09/Jan/2018 02:03:26] "GET /admin/jsi18n/ HTTP/1.0" 200 3217
+[09/Jan/2018 02:03:38] "POST /admin/ChristmasModel/refmodel/add/ HTTP/1.0" 302 0
+[09/Jan/2018 02:03:38] "GET /admin/ChristmasModel/refmodel/ HTTP/1.0" 200 9038
+[09/Jan/2018 02:03:38] "GET /admin/jsi18n/ HTTP/1.0" 200 3217
+[09/Jan/2018 02:03:41] "GET / HTTP/1.0" 200 4557
+[09/Jan/2018 02:03:43] "GET /ref HTTP/1.0" 200 7424
+[09/Jan/2018 02:45:40] "GET / HTTP/1.0" 200 4557
+Not Found: /favicon.ico
+[09/Jan/2018 02:45:40] "GET /favicon.ico HTTP/1.0" 404 2498
+[09/Jan/2018 02:45:41] "GET /ref HTTP/1.0" 200 7424
+[09/Jan/2018 02:45:43] "GET /news HTTP/1.0" 200 20333
+[09/Jan/2018 04:01:10] "GET / HTTP/1.0" 200 4557
+[09/Jan/2018 04:01:11] "GET /static/res/bootstrap-4.0.0/css/bootstrap.css HTTP/1.0" 200 159202
+[09/Jan/2018 04:01:11] "GET /static/res/bootstrap-4.0.0/css/bootstrap-grid.css HTTP/1.0" 200 32403
+[09/Jan/2018 04:01:11] "GET /static/res/bootstrap-4.0.0/css/jumbotron.css HTTP/1.0" 200 107
+[09/Jan/2018 04:01:11] "GET /static/res/bootstrap-4.0.0/css/bootstrap-reboot.css HTTP/1.0" 200 4964
+[09/Jan/2018 04:01:11] "GET /static/res/bootstrap-4.0.0/css/album.css HTTP/1.0" 200 790
+[09/Jan/2018 04:01:11] "GET /static/res/bootstrap-4.0.0/css/grid.css HTTP/1.0" 200 366
+[09/Jan/2018 04:01:11] "GET /static/res/bootstrap-4.0.0/js/bootstrap.min.js HTTP/1.0" 200 50564
+[09/Jan/2018 04:01:11] "GET /static/res/bootstrap-4.0.0/js/jquery-3.2.1.min.js HTTP/1.0" 200 86659
+[09/Jan/2018 04:01:11] "GET /static/res/bootstrap-markdown/js/bootstrap-markdown.js HTTP/1.0" 200 49558
+[09/Jan/2018 04:01:12] "GET /static/res/bootstrap-4.0.0/js/popper.min.js HTTP/1.0" 200 19197
+[09/Jan/2018 04:01:12] "GET /static/res/bootstrap-4.0.0/js/holder.min.js HTTP/1.0" 200 32283
+[09/Jan/2018 06:47:18] "GET / HTTP/1.0" 200 4557
+Not Found: /favicon.ico
+[09/Jan/2018 06:47:18] "GET /favicon.ico HTTP/1.0" 404 2498
+[09/Jan/2018 06:47:20] "GET /work HTTP/1.0" 200 127304
+[09/Jan/2018 06:51:01] "GET /ref HTTP/1.0" 200 7424
+[09/Jan/2018 06:56:13] "GET / HTTP/1.0" 200 4557
+[09/Jan/2018 06:56:15] "GET /work HTTP/1.0" 200 127304
+[09/Jan/2018 06:56:19] "GET /ref HTTP/1.0" 200 7424
+[09/Jan/2018 06:56:23] "GET /admin/ HTTP/1.0" 200 7058
+[09/Jan/2018 06:56:26] "GET /admin/ChristmasModel/workmodel/ HTTP/1.0" 200 28890
+[09/Jan/2018 06:56:26] "GET /admin/jsi18n/ HTTP/1.0" 200 3217
+[09/Jan/2018 06:56:28] "GET /admin/ HTTP/1.0" 200 7058
+[09/Jan/2018 06:56:29] "GET /admin/ChristmasModel/refmodel/ HTTP/1.0" 200 8835
+[09/Jan/2018 06:56:29] "GET /admin/jsi18n/ HTTP/1.0" 200 3217
+[09/Jan/2018 06:56:33] "GET /admin/ChristmasModel/refmodel/add/ HTTP/1.0" 200 4848
+[09/Jan/2018 06:56:33] "GET /admin/jsi18n/ HTTP/1.0" 200 3217
+[09/Jan/2018 06:57:06] "POST /admin/ChristmasModel/refmodel/add/ HTTP/1.0" 302 0
+[09/Jan/2018 06:57:06] "GET /admin/ChristmasModel/refmodel/ HTTP/1.0" 200 9280
+[09/Jan/2018 06:57:06] "GET /admin/jsi18n/ HTTP/1.0" 200 3217
+[09/Jan/2018 06:58:01] "GET /admin/ChristmasModel/refmodel/add/ HTTP/1.0" 200 4848
+[09/Jan/2018 06:58:01] "GET /admin/jsi18n/ HTTP/1.0" 200 3217
+[09/Jan/2018 06:58:56] "POST /admin/ChristmasModel/refmodel/add/ HTTP/1.0" 302 0
+[09/Jan/2018 06:58:56] "GET /admin/ChristmasModel/refmodel/ HTTP/1.0" 200 9522
+[09/Jan/2018 06:58:56] "GET /admin/jsi18n/ HTTP/1.0" 200 3217
+[09/Jan/2018 06:59:28] "GET /admin/ChristmasModel/refmodel/add/ HTTP/1.0" 200 4848
+[09/Jan/2018 06:59:28] "GET /admin/jsi18n/ HTTP/1.0" 200 3217
+[09/Jan/2018 06:59:36] "POST /admin/ChristmasModel/refmodel/add/ HTTP/1.0" 302 0
+[09/Jan/2018 06:59:36] "GET /admin/ChristmasModel/refmodel/ HTTP/1.0" 200 9764
+[09/Jan/2018 06:59:36] "GET /admin/jsi18n/ HTTP/1.0" 200 3217
+[09/Jan/2018 06:59:39] "GET / HTTP/1.0" 200 4557
+[09/Jan/2018 06:59:43] "GET /work HTTP/1.0" 200 127304
+[09/Jan/2018 06:59:46] "GET /work HTTP/1.0" 200 127304
+[09/Jan/2018 06:59:46] "GET /ref HTTP/1.0" 200 8015
+[09/Jan/2018 06:59:52] "GET /news HTTP/1.0" 200 20898
+[09/Jan/2018 09:43:13] "GET / HTTP/1.0" 200 4557
+[09/Jan/2018 09:43:13] "GET /static/res/bootstrap-4.0.0/css/bootstrap.css HTTP/1.0" 200 159202
+[09/Jan/2018 09:43:13] "GET /static/res/bootstrap-4.0.0/css/jumbotron.css HTTP/1.0" 200 107
+[09/Jan/2018 09:43:13] "GET /static/res/bootstrap-4.0.0/css/bootstrap-reboot.css HTTP/1.0" 200 4964
+[09/Jan/2018 09:43:13] "GET /static/res/bootstrap-4.0.0/css/album.css HTTP/1.0" 200 790
+[09/Jan/2018 09:43:13] "GET /static/res/bootstrap-4.0.0/css/grid.css HTTP/1.0" 200 366
+[09/Jan/2018 09:43:13] "GET /static/res/bootstrap-4.0.0/css/bootstrap-grid.css HTTP/1.0" 200 32403
+[09/Jan/2018 09:43:13] "GET /static/res/bootstrap-4.0.0/js/bootstrap.min.js HTTP/1.0" 200 50564
+[09/Jan/2018 09:43:13] "GET /static/res/bootstrap-markdown/js/bootstrap-markdown.js HTTP/1.0" 200 49558
+[09/Jan/2018 09:43:13] "GET /static/res/bootstrap-4.0.0/js/popper.min.js HTTP/1.0" 200 19197
+[09/Jan/2018 09:43:13] "GET /static/res/bootstrap-4.0.0/js/jquery-3.2.1.min.js HTTP/1.0" 200 86659
+[09/Jan/2018 09:43:14] "GET /static/res/bootstrap-4.0.0/js/holder.min.js HTTP/1.0" 200 32283
+Not Found: /favicon.ico
+[09/Jan/2018 09:43:17] "GET /favicon.ico HTTP/1.0" 404 2498
+[09/Jan/2018 09:43:18] "GET /ref HTTP/1.0" 200 8015
+[09/Jan/2018 10:05:44] "GET / HTTP/1.0" 200 4557
+[09/Jan/2018 10:20:15] "GET /work HTTP/1.0" 200 127304
+[09/Jan/2018 10:20:16] "GET /ref HTTP/1.0" 200 8015
+[09/Jan/2018 10:20:17] "GET /news HTTP/1.0" 200 20422
+[09/Jan/2018 10:20:18] "GET /ref HTTP/1.0" 200 8015
+[09/Jan/2018 10:20:23] "GET /admin HTTP/1.0" 301 0
+[09/Jan/2018 10:20:23] "GET /admin/ HTTP/1.0" 302 0
+[09/Jan/2018 10:20:23] "GET /admin/login/?next=/admin/ HTTP/1.0" 200 1650
+[09/Jan/2018 10:20:23] "GET /static/admin/css/base.css HTTP/1.0" 200 16066
+[09/Jan/2018 10:20:23] "GET /static/admin/css/fonts.css HTTP/1.0" 200 423
+[09/Jan/2018 10:20:23] "GET /static/admin/css/login.css HTTP/1.0" 200 1203
+[09/Jan/2018 10:20:23] "GET /static/admin/fonts/Roboto-Regular-webfont.woff HTTP/1.0" 200 80304
+[09/Jan/2018 10:20:23] "GET /static/admin/fonts/Roboto-Light-webfont.woff HTTP/1.0" 200 81348
+[09/Jan/2018 10:20:28] "POST /admin/login/?next=/admin/ HTTP/1.0" 302 0
+[09/Jan/2018 10:20:29] "GET /admin/ HTTP/1.0" 200 7046
+[09/Jan/2018 10:20:29] "GET /static/admin/css/dashboard.css HTTP/1.0" 200 412
+[09/Jan/2018 10:20:29] "GET /static/admin/fonts/Roboto-Bold-webfont.woff HTTP/1.0" 200 82564
+[09/Jan/2018 10:20:29] "GET /static/admin/img/icon-addlink.svg HTTP/1.0" 200 331
+[09/Jan/2018 10:20:29] "GET /static/admin/img/icon-changelink.svg HTTP/1.0" 200 380
+[09/Jan/2018 10:20:31] "GET /admin/ChristmasModel/refmodel/ HTTP/1.0" 200 9561
+[09/Jan/2018 10:20:31] "GET /static/admin/css/changelists.css HTTP/1.0" 200 6170
+[09/Jan/2018 10:20:31] "GET /static/admin/js/core.js HTTP/1.0" 200 7976
+[09/Jan/2018 10:20:31] "GET /static/admin/js/actions.js HTTP/1.0" 200 6501
+[09/Jan/2018 10:20:31] "GET /static/admin/js/admin/RelatedObjectLookups.js HTTP/1.0" 200 6591
+[09/Jan/2018 10:20:31] "GET /static/admin/js/jquery.init.js HTTP/1.0" 200 363
+[09/Jan/2018 10:20:31] "GET /static/admin/js/vendor/jquery/jquery.js HTTP/1.0" 200 258648
+[09/Jan/2018 10:20:31] "GET /admin/jsi18n/ HTTP/1.0" 200 3217
+[09/Jan/2018 10:20:31] "GET /static/admin/js/urlify.js HTTP/1.0" 200 8186
+[09/Jan/2018 10:20:31] "GET /static/admin/js/prepopulate.js HTTP/1.0" 200 1538
+[09/Jan/2018 10:20:31] "GET /static/admin/js/vendor/xregexp/xregexp.js HTTP/1.0" 200 128820
+[09/Jan/2018 10:20:33] "GET /static/admin/img/tooltag-add.svg HTTP/1.0" 200 331
+[09/Jan/2018 10:20:36] "GET /admin/ChristmasModel/refmodel/add/ HTTP/1.0" 200 4848
+[09/Jan/2018 10:20:36] "GET /static/admin/css/forms.css HTTP/1.0" 200 8173
+[09/Jan/2018 10:20:36] "GET /static/admin/js/change_form.js HTTP/1.0" 200 712
+[09/Jan/2018 10:20:36] "GET /static/admin/js/prepopulate_init.js HTTP/1.0" 200 495
+[09/Jan/2018 10:20:36] "GET /static/admin/css/widgets.css HTTP/1.0" 200 10340
+[09/Jan/2018 10:20:36] "GET /admin/jsi18n/ HTTP/1.0" 200 3217
+[09/Jan/2018 10:20:59] "POST /admin/ChristmasModel/refmodel/add/ HTTP/1.0" 302 0
+[09/Jan/2018 10:20:59] "GET /admin/ChristmasModel/refmodel/ HTTP/1.0" 200 10006
+[09/Jan/2018 10:21:00] "GET /admin/jsi18n/ HTTP/1.0" 200 3217
+[09/Jan/2018 10:21:00] "GET /static/admin/img/icon-yes.svg HTTP/1.0" 200 436
+[09/Jan/2018 10:45:26] "GET / HTTP/1.0" 200 4557
+Not Found: /favicon.ico
+[09/Jan/2018 10:45:27] "GET /favicon.ico HTTP/1.0" 404 2498
+[09/Jan/2018 10:45:28] "GET /ref HTTP/1.0" 200 8224
+[09/Jan/2018 11:48:56] "GET / HTTP/1.0" 200 4557
+Not Found: /favicon.ico
+[09/Jan/2018 11:48:57] "GET /favicon.ico HTTP/1.0" 404 2498
+[09/Jan/2018 11:49:00] "GET /ref HTTP/1.0" 200 8224
+[09/Jan/2018 11:55:55] "GET / HTTP/1.0" 200 4557
+[09/Jan/2018 11:55:57] "GET /ref HTTP/1.0" 200 8224
+[09/Jan/2018 11:55:59] "GET /work HTTP/1.0" 200 127304
+[09/Jan/2018 12:09:32] "GET /work HTTP/1.0" 200 229875
+Not Found: /d/file/20160429/jide5b0n3tk.png
+[09/Jan/2018 12:09:32] "GET /d/file/20160429/jide5b0n3tk.png HTTP/1.0" 404 2558
+Not Found: /d/file/20160429/jide5b0n3tk.png
+[09/Jan/2018 12:09:32] "GET /d/file/20160429/jide5b0n3tk.png HTTP/1.0" 404 2558
+Not Found: /d/file/20160429/jide5b0n3tk.png
+[09/Jan/2018 12:09:32] "GET /d/file/20160429/jide5b0n3tk.png HTTP/1.0" 404 2558
+Not Found: /d/file/20160429/jide5b0n3tk.png
+[09/Jan/2018 12:09:32] "GET /d/file/20160429/jide5b0n3tk.png HTTP/1.0" 404 2558
+Not Found: /d/file/20160429/jide5b0n3tk.png
+[09/Jan/2018 12:09:33] "GET /d/file/20160429/jide5b0n3tk.png HTTP/1.0" 404 2558
+[09/Jan/2018 15:38:39] "GET / HTTP/1.0" 200 4557
+Not Found: /apple-touch-icon-precomposed.png
+[09/Jan/2018 15:38:39] "GET /apple-touch-icon-precomposed.png HTTP/1.0" 404 2561
+Not Found: /apple-touch-icon.png
+[09/Jan/2018 15:38:39] "GET /apple-touch-icon.png HTTP/1.0" 404 2525
+Not Found: /favicon.ico
+[09/Jan/2018 15:38:39] "GET /favicon.ico HTTP/1.0" 404 2498
+Not Found: /favicon.ico
+[09/Jan/2018 15:38:39] "GET /favicon.ico HTTP/1.0" 404 2498
+Not Found: /apple-touch-icon-precomposed.png
+[09/Jan/2018 15:38:40] "GET /apple-touch-icon-precomposed.png HTTP/1.0" 404 2561
+Not Found: /apple-touch-icon.png
+[09/Jan/2018 15:38:40] "GET /apple-touch-icon.png HTTP/1.0" 404 2525
+Not Found: /favicon.ico
+[09/Jan/2018 15:38:40] "GET /favicon.ico HTTP/1.0" 404 2498
+Not Found: /favicon.ico
+[09/Jan/2018 15:38:40] "GET /favicon.ico HTTP/1.0" 404 2498
+[09/Jan/2018 15:38:40] "GET / HTTP/1.0" 200 4557
+Not Found: /apple-touch-icon-precomposed.png
+[09/Jan/2018 15:38:40] "GET /apple-touch-icon-precomposed.png HTTP/1.0" 404 2561
+Not Found: /apple-touch-icon.png
+[09/Jan/2018 15:38:40] "GET /apple-touch-icon.png HTTP/1.0" 404 2525
+Not Found: /favicon.ico
+[09/Jan/2018 15:38:40] "GET /favicon.ico HTTP/1.0" 404 2498
+Not Found: /favicon.ico
+[09/Jan/2018 15:38:40] "GET /favicon.ico HTTP/1.0" 404 2498
+Not Found: /apple-touch-icon-precomposed.png
+[09/Jan/2018 15:38:40] "GET /apple-touch-icon-precomposed.png HTTP/1.0" 404 2561
+Not Found: /apple-touch-icon.png
+[09/Jan/2018 15:38:40] "GET /apple-touch-icon.png HTTP/1.0" 404 2525
+Not Found: /favicon.ico
+[09/Jan/2018 15:38:40] "GET /favicon.ico HTTP/1.0" 404 2498
+Not Found: /favicon.ico
+[09/Jan/2018 15:38:40] "GET /favicon.ico HTTP/1.0" 404 2498
+[09/Jan/2018 15:51:03] "GET / HTTP/1.0" 200 4557
+[09/Jan/2018 15:51:03] "GET /static/res/bootstrap-4.0.0/css/bootstrap.css HTTP/1.0" 200 159202
+[09/Jan/2018 15:51:03] "GET /static/res/bootstrap-4.0.0/css/bootstrap-reboot.css HTTP/1.0" 200 4964
+[09/Jan/2018 15:51:03] "GET /static/res/bootstrap-4.0.0/css/album.css HTTP/1.0" 200 790
+[09/Jan/2018 15:51:03] "GET /static/res/bootstrap-4.0.0/css/bootstrap-grid.css HTTP/1.0" 200 32403
+[09/Jan/2018 15:51:03] "GET /static/res/bootstrap-4.0.0/css/jumbotron.css HTTP/1.0" 200 107
+[09/Jan/2018 15:51:03] "GET /static/res/bootstrap-4.0.0/css/grid.css HTTP/1.0" 200 366
+[09/Jan/2018 15:51:03] "GET /static/res/bootstrap-4.0.0/js/bootstrap.min.js HTTP/1.0" 200 50564
+[09/Jan/2018 15:51:03] "GET /static/res/bootstrap-4.0.0/js/jquery-3.2.1.min.js HTTP/1.0" 200 86659
+[09/Jan/2018 15:51:03] "GET /static/res/bootstrap-markdown/js/bootstrap-markdown.js HTTP/1.0" 200 49558
+[09/Jan/2018 15:51:03] "GET /static/res/bootstrap-4.0.0/js/popper.min.js HTTP/1.0" 200 19197
+[09/Jan/2018 15:51:04] "GET /static/res/bootstrap-4.0.0/js/holder.min.js HTTP/1.0" 200 32283
+Not Found: /apple-touch-icon-precomposed.png
+[09/Jan/2018 15:51:08] "GET /apple-touch-icon-precomposed.png HTTP/1.0" 404 2561
+Not Found: /favicon.ico
+[09/Jan/2018 15:51:08] "GET /favicon.ico HTTP/1.0" 404 2498
+Not Found: /apple-touch-icon.png
+[09/Jan/2018 15:51:08] "GET /apple-touch-icon.png HTTP/1.0" 404 2525
+[09/Jan/2018 15:51:12] "GET /work HTTP/1.0" 200 229875
+Not Found: /d/file/20160429/jide5b0n3tk.png
+[09/Jan/2018 15:51:12] "GET /d/file/20160429/jide5b0n3tk.png HTTP/1.0" 404 2558
+Not Found: /d/file/20160429/jide5b0n3tk.png
+[09/Jan/2018 15:51:13] "GET /d/file/20160429/jide5b0n3tk.png HTTP/1.0" 404 2558
+Not Found: /d/file/20160429/jide5b0n3tk.png
+[09/Jan/2018 15:51:13] "GET /d/file/20160429/jide5b0n3tk.png HTTP/1.0" 404 2558
+[09/Jan/2018 15:51:49] "GET /ref HTTP/1.0" 200 8224
+[09/Jan/2018 18:06:21] "GET / HTTP/1.0" 200 4557
+[09/Jan/2018 20:55:09] "GET / HTTP/1.0" 200 4557
+[10/Jan/2018 12:21:15] "GET / HTTP/1.0" 200 4557
+[10/Jan/2018 12:21:21] "GET /work HTTP/1.0" 200 229875
+Not Found: /d/file/20160429/jide5b0n3tk.png
+[10/Jan/2018 12:21:21] "GET /d/file/20160429/jide5b0n3tk.png HTTP/1.0" 404 2558
+Not Found: /d/file/20160429/jide5b0n3tk.png
+[10/Jan/2018 12:21:22] "GET /d/file/20160429/jide5b0n3tk.png HTTP/1.0" 404 2558
+Not Found: /d/file/20160429/jide5b0n3tk.png
+[10/Jan/2018 12:21:22] "GET /d/file/20160429/jide5b0n3tk.png HTTP/1.0" 404 2558
+[10/Jan/2018 12:36:24] "GET / HTTP/1.0" 200 4557
+Not Found: /d/file/20160429/jide5b0n3tk.png
+[10/Jan/2018 12:36:31] "GET /d/file/20160429/jide5b0n3tk.png HTTP/1.0" 404 2558
+[10/Jan/2018 12:36:31] "GET /work HTTP/1.0" 200 229875
+Not Found: /d/file/20160429/jide5b0n3tk.png
+[10/Jan/2018 12:36:31] "GET /d/file/20160429/jide5b0n3tk.png HTTP/1.0" 404 2558
+Not Found: /d/file/20160429/jide5b0n3tk.png
+[10/Jan/2018 12:36:31] "GET /d/file/20160429/jide5b0n3tk.png HTTP/1.0" 404 2558
+[10/Jan/2018 12:36:34] "GET /news HTTP/1.0" 200 19261
+[10/Jan/2018 16:25:44] "GET / HTTP/1.0" 200 4557
+Not Found: /apple-touch-icon-152x152-precomposed.png
+[10/Jan/2018 16:25:45] "GET /apple-touch-icon-152x152-precomposed.png HTTP/1.0" 404 2585
+Not Found: /apple-touch-icon-152x152.png
+[10/Jan/2018 16:25:45] "GET /apple-touch-icon-152x152.png HTTP/1.0" 404 2549
+Not Found: /apple-touch-icon-precomposed.png
+[10/Jan/2018 16:25:45] "GET /apple-touch-icon-precomposed.png HTTP/1.0" 404 2561
+Not Found: /apple-touch-icon.png
+[10/Jan/2018 16:25:45] "GET /apple-touch-icon.png HTTP/1.0" 404 2525
+Not Found: /favicon.ico
+[10/Jan/2018 16:25:45] "GET /favicon.ico HTTP/1.0" 404 2498
+Not Found: /favicon.ico
+[10/Jan/2018 16:25:45] "GET /favicon.ico HTTP/1.0" 404 2498
+Not Found: /apple-touch-icon-152x152-precomposed.png
+[10/Jan/2018 16:25:45] "GET /apple-touch-icon-152x152-precomposed.png HTTP/1.0" 404 2585
+Not Found: /apple-touch-icon-152x152.png
+[10/Jan/2018 16:25:45] "GET /apple-touch-icon-152x152.png HTTP/1.0" 404 2549
+Not Found: /apple-touch-icon-precomposed.png
+[10/Jan/2018 16:25:45] "GET /apple-touch-icon-precomposed.png HTTP/1.0" 404 2561
+Not Found: /apple-touch-icon.png
+[10/Jan/2018 16:25:45] "GET /apple-touch-icon.png HTTP/1.0" 404 2525
+Not Found: /favicon.ico
+[10/Jan/2018 16:25:45] "GET /favicon.ico HTTP/1.0" 404 2498
+Not Found: /favicon.ico
+[10/Jan/2018 16:25:45] "GET /favicon.ico HTTP/1.0" 404 2498
+[10/Jan/2018 18:16:05] "GET / HTTP/1.0" 200 4557
+[10/Jan/2018 18:31:20] "GET / HTTP/1.0" 200 4557
+[11/Jan/2018 00:09:34] "GET / HTTP/1.0" 200 4557
+[11/Jan/2018 00:09:34] "GET /static/res/bootstrap-4.0.0/css/bootstrap-grid.css HTTP/1.0" 304 0
+[11/Jan/2018 00:09:34] "GET /static/res/bootstrap-4.0.0/css/album.css HTTP/1.0" 304 0
+[11/Jan/2018 00:09:34] "GET /static/res/bootstrap-4.0.0/css/grid.css HTTP/1.0" 304 0
+[11/Jan/2018 00:09:34] "GET /static/res/bootstrap-4.0.0/css/bootstrap-reboot.css HTTP/1.0" 304 0
+[11/Jan/2018 00:09:34] "GET /static/res/bootstrap-4.0.0/css/jumbotron.css HTTP/1.0" 304 0
+[11/Jan/2018 00:09:34] "GET /static/res/bootstrap-4.0.0/css/bootstrap.css HTTP/1.0" 304 0
+[11/Jan/2018 00:09:34] "GET /static/res/bootstrap-4.0.0/js/jquery-3.2.1.min.js HTTP/1.0" 304 0
+[11/Jan/2018 00:09:34] "GET /static/res/bootstrap-4.0.0/js/bootstrap.min.js HTTP/1.0" 304 0
+[11/Jan/2018 00:09:34] "GET /static/res/bootstrap-4.0.0/js/popper.min.js HTTP/1.0" 304 0
+[11/Jan/2018 00:09:34] "GET /static/res/bootstrap-markdown/js/bootstrap-markdown.js HTTP/1.0" 304 0
+[11/Jan/2018 00:09:34] "GET /static/res/bootstrap-4.0.0/js/holder.min.js HTTP/1.0" 304 0
+[11/Jan/2018 00:09:39] "GET / HTTP/1.0" 200 4557
+[11/Jan/2018 00:09:41] "GET /work HTTP/1.0" 200 229875
+Not Found: /d/file/20160429/jide5b0n3tk.png
+[11/Jan/2018 00:09:41] "GET /d/file/20160429/jide5b0n3tk.png HTTP/1.0" 404 2558
+Not Found: /d/file/20160429/jide5b0n3tk.png
+[11/Jan/2018 00:09:41] "GET /d/file/20160429/jide5b0n3tk.png HTTP/1.0" 404 2558
+Not Found: /d/file/20160429/jide5b0n3tk.png
+[11/Jan/2018 00:09:42] "GET /d/file/20160429/jide5b0n3tk.png HTTP/1.0" 404 2558
+[11/Jan/2018 00:09:43] "GET /ref HTTP/1.0" 200 8224
+[11/Jan/2018 01:39:11] "GET /work?nsukey=M4mTo9x35%2FSVMoFjYkiyfQM53xzAwJuZ1edzuXlrWWAZgabFjq%2F6FW7FkSmvzPGe3Pmea6Q9C0TFFkJSmO2MrLT8EDemYq%2FSVnNbg0xlTUSNQNnI6yGv6EgeqDIbbTN97DKiu0lYWA8QEcNmhmNAZTHiaAOekNdOFG72UpjpuYISOet0ygJcsatt1ub%2F1TfR HTTP/1.0" 200 229875
+[11/Jan/2018 01:39:13] "GET /work?nsukey=M4mTo9x35%2FSVMoFjYkiyfQM53xzAwJuZ1edzuXlrWWAZgabFjq%2F6FW7FkSmvzPGe3Pmea6Q9C0TFFkJSmO2MrLT8EDemYq%2FSVnNbg0xlTUSNQNnI6yGv6EgeqDIbbTN97DKiu0lYWA8QEcNmhmNAZTHiaAOekNdOFG72UpjpuYISOet0ygJcsatt1ub%2F1TfR HTTP/1.0" 200 229875
+[11/Jan/2018 01:39:14] "GET /static/res/bootstrap-4.0.0/css/bootstrap.css HTTP/1.0" 200 159202
+[11/Jan/2018 01:39:14] "GET /static/res/bootstrap-4.0.0/css/bootstrap-reboot.css HTTP/1.0" 200 4964
+[11/Jan/2018 01:39:14] "GET /static/res/bootstrap-4.0.0/css/album.css HTTP/1.0" 200 790
+[11/Jan/2018 01:39:14] "GET /static/res/bootstrap-4.0.0/css/bootstrap-grid.css HTTP/1.0" 200 32403
+[11/Jan/2018 01:39:14] "GET /static/res/bootstrap-4.0.0/css/jumbotron.css HTTP/1.0" 200 107
+[11/Jan/2018 01:39:14] "GET /static/res/bootstrap-4.0.0/css/grid.css HTTP/1.0" 200 366
+[11/Jan/2018 01:39:14] "GET /static/res/bootstrap-markdown/js/bootstrap-markdown.js HTTP/1.0" 200 49558
+[11/Jan/2018 01:39:14] "GET /static/res/bootstrap-4.0.0/js/bootstrap.min.js HTTP/1.0" 200 50564
+[11/Jan/2018 01:39:14] "GET /static/res/bootstrap-4.0.0/js/jquery-3.2.1.min.js HTTP/1.0" 200 86659
+[11/Jan/2018 01:39:14] "GET /static/res/bootstrap-4.0.0/js/popper.min.js HTTP/1.0" 200 19197
+[11/Jan/2018 01:39:15] "GET /static/res/bootstrap-4.0.0/js/holder.min.js HTTP/1.0" 200 32283
+[11/Jan/2018 01:39:19] "GET /work?nsukey=M4mTo9x35%2FSVMoFjYkiyfQM53xzAwJuZ1edzuXlrWWAZgabFjq%2F6FW7FkSmvzPGe3Pmea6Q9C0TFFkJSmO2MrLT8EDemYq%2FSVnNbg0xlTUSNQNnI6yGv6EgeqDIbbTN97DKiu0lYWA8QEcNmhmNAZTHiaAOekNdOFG72UpjpuYISOet0ygJcsatt1ub%2F1TfR HTTP/1.0" 200 229875
+[11/Jan/2018 01:39:20] "GET /static/res/bootstrap-4.0.0/css/bootstrap.css HTTP/1.0" 200 159202
+[11/Jan/2018 01:39:20] "GET /static/res/bootstrap-4.0.0/css/bootstrap-grid.css HTTP/1.0" 200 32403
+[11/Jan/2018 01:39:20] "GET /static/res/bootstrap-4.0.0/css/bootstrap-reboot.css HTTP/1.0" 200 4964
+[11/Jan/2018 01:39:21] "GET /static/res/bootstrap-4.0.0/css/jumbotron.css HTTP/1.0" 200 107
+[11/Jan/2018 01:39:23] "GET /static/res/bootstrap-4.0.0/css/album.css HTTP/1.0" 200 790
+[11/Jan/2018 01:39:23] "GET /static/res/bootstrap-4.0.0/css/grid.css HTTP/1.0" 200 366
+Not Found: /d/file/20160429/jide5b0n3tk.png
+[11/Jan/2018 01:39:25] "GET /d/file/20160429/jide5b0n3tk.png HTTP/1.0" 404 2558
+[11/Jan/2018 01:39:26] "GET /static/res/bootstrap-4.0.0/js/bootstrap.min.js HTTP/1.0" 200 50564
+[11/Jan/2018 01:39:26] "GET /static/res/bootstrap-4.0.0/js/jquery-3.2.1.min.js HTTP/1.0" 200 86659
+[11/Jan/2018 01:39:27] "GET /static/res/bootstrap-markdown/js/bootstrap-markdown.js HTTP/1.0" 200 49558
+[11/Jan/2018 01:39:28] "GET /static/res/bootstrap-4.0.0/js/popper.min.js HTTP/1.0" 200 19197
+[11/Jan/2018 01:39:29] "GET /static/res/bootstrap-4.0.0/js/holder.min.js HTTP/1.0" 200 32283
+[11/Jan/2018 01:40:07] "GET /work HTTP/1.0" 200 229875
+[11/Jan/2018 01:40:12] "GET /work?nsukey=M4mTo9x35%2FSVMoFjYkiyfQM53xzAwJuZ1edzuXlrWWAZgabFjq%2F6FW7FkSmvzPGe3Pmea6Q9C0TFFkJSmO2MrLT8EDemYq%2FSVnNbg0xlTUSNQNnI6yGv6EgeqDIbbTN97DKiu0lYWA8QEcNmhmNAZTHiaAOekNdOFG72UpjpuYISOet0ygJcsatt1ub%2F1TfR HTTP/1.0" 200 229875
+[11/Jan/2018 01:40:12] "GET /work?nsukey=M4mTo9x35%2FSVMoFjYkiyfQM53xzAwJuZ1edzuXlrWWAZgabFjq%2F6FW7FkSmvzPGe3Pmea6Q9C0TFFkJSmO2MrLT8EDemYq%2FSVnNbg0xlTUSNQNnI6yGv6EgeqDIbbTN97DKiu0lYWA8QEcNmhmNAZTHiaAOekNdOFG72UpjpuYISOet0ygJcsatt1ub%2F1TfR HTTP/1.0" 200 229875
+[11/Jan/2018 02:34:41] "GET / HTTP/1.0" 200 4557
+[11/Jan/2018 02:34:41] "GET /static/res/bootstrap-4.0.0/css/bootstrap.css HTTP/1.0" 200 159202
+[11/Jan/2018 02:34:41] "GET /static/res/bootstrap-4.0.0/css/jumbotron.css HTTP/1.0" 200 107
+[11/Jan/2018 02:34:41] "GET /static/res/bootstrap-4.0.0/css/bootstrap-reboot.css HTTP/1.0" 200 4964
+[11/Jan/2018 02:34:41] "GET /static/res/bootstrap-4.0.0/css/bootstrap-grid.css HTTP/1.0" 200 32403
+[11/Jan/2018 02:34:41] "GET /static/res/bootstrap-4.0.0/css/album.css HTTP/1.0" 200 790
+[11/Jan/2018 02:34:41] "GET /static/res/bootstrap-4.0.0/css/grid.css HTTP/1.0" 200 366
+[11/Jan/2018 02:34:42] "GET /static/res/bootstrap-4.0.0/js/bootstrap.min.js HTTP/1.0" 200 50564
+[11/Jan/2018 02:34:42] "GET /static/res/bootstrap-4.0.0/js/jquery-3.2.1.min.js HTTP/1.0" 200 86659
+[11/Jan/2018 02:34:42] "GET /static/res/bootstrap-markdown/js/bootstrap-markdown.js HTTP/1.0" 200 49558
+[11/Jan/2018 02:34:45] "GET /static/res/bootstrap-4.0.0/js/popper.min.js HTTP/1.0" 200 19197
+[11/Jan/2018 02:34:46] "GET /static/res/bootstrap-4.0.0/js/holder.min.js HTTP/1.0" 200 32283
+[11/Jan/2018 02:34:51] "GET /introduction HTTP/1.0" 200 4671
+Not Found: /favicon.ico
+[11/Jan/2018 03:19:50] "GET /favicon.ico HTTP/1.0" 404 2498
+Not Found: /data
+[11/Jan/2018 03:21:32] "GET /data HTTP/1.0" 404 2477
+Not Found: /image
+[11/Jan/2018 03:22:17] "GET /image HTTP/1.0" 404 2480
+Not Found: /image
+[11/Jan/2018 03:24:18] "GET /image HTTP/1.0" 404 2480
+[11/Jan/2018 09:45:17] "GET /introduction HTTP/1.0" 200 4671
+[11/Jan/2018 09:45:17] "GET /static/res/bootstrap-4.0.0/css/bootstrap.css HTTP/1.0" 200 159202
+[11/Jan/2018 09:45:17] "GET /static/res/bootstrap-4.0.0/css/bootstrap-grid.css HTTP/1.0" 200 32403
+[11/Jan/2018 09:45:17] "GET /static/res/bootstrap-4.0.0/css/jumbotron.css HTTP/1.0" 200 107
+[11/Jan/2018 09:45:17] "GET /static/res/bootstrap-4.0.0/css/bootstrap-reboot.css HTTP/1.0" 200 4964
+[11/Jan/2018 09:45:17] "GET /static/res/bootstrap-4.0.0/css/album.css HTTP/1.0" 200 790
+[11/Jan/2018 09:45:17] "GET /static/res/bootstrap-4.0.0/css/grid.css HTTP/1.0" 200 366
+[11/Jan/2018 09:45:17] "GET /static/res/bootstrap-4.0.0/js/bootstrap.min.js HTTP/1.0" 200 50564
+[11/Jan/2018 09:45:17] "GET /static/res/bootstrap-4.0.0/js/jquery-3.2.1.min.js HTTP/1.0" 200 86659
+[11/Jan/2018 09:45:17] "GET /static/res/bootstrap-markdown/js/bootstrap-markdown.js HTTP/1.0" 200 49558
+[11/Jan/2018 09:45:18] "GET /static/res/bootstrap-4.0.0/js/popper.min.js HTTP/1.0" 200 19197
+[11/Jan/2018 09:45:19] "GET /static/res/bootstrap-4.0.0/js/holder.min.js HTTP/1.0" 200 32283
+[11/Jan/2018 09:45:33] "GET / HTTP/1.0" 200 4557
+[11/Jan/2018 14:35:53] "GET / HTTP/1.0" 200 4557
+Not Found: /apple-touch-icon-152x152-precomposed.png
+[11/Jan/2018 14:35:55] "GET /apple-touch-icon-152x152-precomposed.png HTTP/1.0" 404 2585
+Not Found: /apple-touch-icon-152x152.png
+[11/Jan/2018 14:35:55] "GET /apple-touch-icon-152x152.png HTTP/1.0" 404 2549
+Not Found: /apple-touch-icon-precomposed.png
+[11/Jan/2018 14:35:55] "GET /apple-touch-icon-precomposed.png HTTP/1.0" 404 2561
+Not Found: /apple-touch-icon.png
+[11/Jan/2018 14:35:55] "GET /apple-touch-icon.png HTTP/1.0" 404 2525
+Not Found: /favicon.ico
+[11/Jan/2018 14:35:55] "GET /favicon.ico HTTP/1.0" 404 2498
+Not Found: /favicon.ico
+[11/Jan/2018 14:35:55] "GET /favicon.ico HTTP/1.0" 404 2498
+Not Found: /apple-touch-icon-152x152-precomposed.png
+[11/Jan/2018 14:35:55] "GET /apple-touch-icon-152x152-precomposed.png HTTP/1.0" 404 2585
+Not Found: /apple-touch-icon-152x152.png
+[11/Jan/2018 14:35:55] "GET /apple-touch-icon-152x152.png HTTP/1.0" 404 2549
+Not Found: /apple-touch-icon-precomposed.png
+[11/Jan/2018 14:35:56] "GET /apple-touch-icon-precomposed.png HTTP/1.0" 404 2561
+Not Found: /apple-touch-icon.png
+[11/Jan/2018 14:35:56] "GET /apple-touch-icon.png HTTP/1.0" 404 2525
+Not Found: /favicon.ico
+[11/Jan/2018 14:35:56] "GET /favicon.ico HTTP/1.0" 404 2498
+Not Found: /favicon.ico
+[11/Jan/2018 14:35:56] "GET /favicon.ico HTTP/1.0" 404 2498
+[11/Jan/2018 18:53:22] "GET / HTTP/1.0" 200 4557
+[12/Jan/2018 03:16:50] "GET / HTTP/1.0" 200 4557
+[12/Jan/2018 03:16:51] "GET /static/res/bootstrap-4.0.0/css/bootstrap.css HTTP/1.0" 200 159202
+[12/Jan/2018 03:16:51] "GET /static/res/bootstrap-4.0.0/css/bootstrap-reboot.css HTTP/1.0" 200 4964
+[12/Jan/2018 03:16:51] "GET /static/res/bootstrap-4.0.0/css/bootstrap-grid.css HTTP/1.0" 200 32403
+[12/Jan/2018 03:16:51] "GET /static/res/bootstrap-4.0.0/css/jumbotron.css HTTP/1.0" 200 107
+[12/Jan/2018 03:16:51] "GET /static/res/bootstrap-4.0.0/css/album.css HTTP/1.0" 200 790
+[12/Jan/2018 03:16:51] "GET /static/res/bootstrap-4.0.0/css/grid.css HTTP/1.0" 200 366
+[12/Jan/2018 03:16:51] "GET /static/res/bootstrap-4.0.0/js/bootstrap.min.js HTTP/1.0" 200 50564
+[12/Jan/2018 03:16:51] "GET /static/res/bootstrap-4.0.0/js/jquery-3.2.1.min.js HTTP/1.0" 200 86659
+[12/Jan/2018 03:16:51] "GET /static/res/bootstrap-markdown/js/bootstrap-markdown.js HTTP/1.0" 200 49558
+[12/Jan/2018 03:16:51] "GET /static/res/bootstrap-4.0.0/js/popper.min.js HTTP/1.0" 200 19197
+[12/Jan/2018 03:16:51] "GET /static/res/bootstrap-4.0.0/js/holder.min.js HTTP/1.0" 200 32283
+Not Found: /favicon.ico
+[12/Jan/2018 03:16:55] "GET /favicon.ico HTTP/1.0" 404 2498
+[12/Jan/2018 03:16:57] "GET /ref HTTP/1.0" 200 8224
+[12/Jan/2018 05:09:20] "GET / HTTP/1.0" 200 4557
+Not Found: /favicon.ico
+[12/Jan/2018 05:09:20] "GET /favicon.ico HTTP/1.0" 404 2498
+[12/Jan/2018 05:09:21] "GET /news HTTP/1.0" 200 19917
+[12/Jan/2018 11:09:23] "GET / HTTP/1.0" 200 4557
+Not Found: /favicon.ico
+[12/Jan/2018 11:09:23] "GET /favicon.ico HTTP/1.0" 404 2498
+[12/Jan/2018 11:09:26] "GET /work HTTP/1.0" 200 229875
+Not Found: /d/file/20160429/jide5b0n3tk.png
+[12/Jan/2018 11:09:26] "GET /d/file/20160429/jide5b0n3tk.png HTTP/1.0" 404 2558
+Not Found: /d/file/20160429/jide5b0n3tk.png
+[12/Jan/2018 11:09:26] "GET /d/file/20160429/jide5b0n3tk.png HTTP/1.0" 404 2558
+Not Found: /d/file/20160429/jide5b0n3tk.png
+[12/Jan/2018 11:09:26] "GET /d/file/20160429/jide5b0n3tk.png HTTP/1.0" 404 2558
+Not Found: /d/file/20160429/jide5b0n3tk.png
+[12/Jan/2018 11:09:27] "GET /d/file/20160429/jide5b0n3tk.png HTTP/1.0" 404 2558
+Not Found: /d/file/20160429/jide5b0n3tk.png
+[12/Jan/2018 11:09:27] "GET /d/file/20160429/jide5b0n3tk.png HTTP/1.0" 404 2558
+[12/Jan/2018 11:09:27] "GET /ref HTTP/1.0" 200 8224
+[12/Jan/2018 11:43:35] "GET / HTTP/1.0" 200 4557
+Not Found: /favicon.ico
+[12/Jan/2018 11:43:35] "GET /favicon.ico HTTP/1.0" 404 2498
+[12/Jan/2018 11:43:37] "GET /ref HTTP/1.0" 200 8224
+[12/Jan/2018 14:55:18] "GET / HTTP/1.0" 200 4557
+Not Found: /apple-touch-icon-precomposed.png
+[12/Jan/2018 14:55:18] "GET /apple-touch-icon-precomposed.png HTTP/1.0" 404 2561
+Not Found: /apple-touch-icon.png
+[12/Jan/2018 14:55:18] "GET /apple-touch-icon.png HTTP/1.0" 404 2525
+Not Found: /favicon.ico
+[12/Jan/2018 14:55:18] "GET /favicon.ico HTTP/1.0" 404 2498
+Not Found: /favicon.ico
+[12/Jan/2018 14:55:18] "GET /favicon.ico HTTP/1.0" 404 2498
+Not Found: /apple-touch-icon-precomposed.png
+[12/Jan/2018 14:55:18] "GET /apple-touch-icon-precomposed.png HTTP/1.0" 404 2561
+Not Found: /apple-touch-icon.png
+[12/Jan/2018 14:55:18] "GET /apple-touch-icon.png HTTP/1.0" 404 2525
+Not Found: /favicon.ico
+[12/Jan/2018 14:55:18] "GET /favicon.ico HTTP/1.0" 404 2498
+Not Found: /favicon.ico
+[12/Jan/2018 14:55:18] "GET /favicon.ico HTTP/1.0" 404 2498
+[12/Jan/2018 14:55:18] "GET / HTTP/1.0" 200 4557
+Not Found: /apple-touch-icon-precomposed.png
+[12/Jan/2018 14:55:18] "GET /apple-touch-icon-precomposed.png HTTP/1.0" 404 2561
+Not Found: /apple-touch-icon.png
+[12/Jan/2018 14:55:18] "GET /apple-touch-icon.png HTTP/1.0" 404 2525
+Not Found: /favicon.ico
+[12/Jan/2018 14:55:18] "GET /favicon.ico HTTP/1.0" 404 2498
+Not Found: /favicon.ico
+[12/Jan/2018 14:55:18] "GET /favicon.ico HTTP/1.0" 404 2498
+Not Found: /apple-touch-icon-precomposed.png
+[12/Jan/2018 14:55:18] "GET /apple-touch-icon-precomposed.png HTTP/1.0" 404 2561
+Not Found: /apple-touch-icon.png
+[12/Jan/2018 14:55:18] "GET /apple-touch-icon.png HTTP/1.0" 404 2525
+Not Found: /favicon.ico
+[12/Jan/2018 14:55:18] "GET /favicon.ico HTTP/1.0" 404 2498
+Not Found: /favicon.ico
+[12/Jan/2018 14:55:18] "GET /favicon.ico HTTP/1.0" 404 2498
+[12/Jan/2018 15:15:50] "GET /static/res/bootstrap-4.0.0/css/jumbotron.css HTTP/1.0" 304 0
+[12/Jan/2018 15:15:50] "GET /static/res/bootstrap-4.0.0/css/bootstrap-grid.css HTTP/1.0" 304 0
+[12/Jan/2018 15:15:50] "GET / HTTP/1.0" 200 4557
+[12/Jan/2018 15:15:50] "GET /static/res/bootstrap-4.0.0/css/grid.css HTTP/1.0" 304 0
+[12/Jan/2018 15:15:50] "GET /static/res/bootstrap-4.0.0/css/album.css HTTP/1.0" 304 0
+[12/Jan/2018 15:15:50] "GET /static/res/bootstrap-4.0.0/css/bootstrap-reboot.css HTTP/1.0" 304 0
+[12/Jan/2018 15:15:50] "GET /static/res/bootstrap-4.0.0/js/bootstrap.min.js HTTP/1.0" 304 0
+[12/Jan/2018 15:15:50] "GET /static/res/bootstrap-4.0.0/css/bootstrap.css HTTP/1.0" 304 0
+[12/Jan/2018 15:15:50] "GET /static/res/bootstrap-4.0.0/js/popper.min.js HTTP/1.0" 304 0
+[12/Jan/2018 15:15:50] "GET /static/res/bootstrap-markdown/js/bootstrap-markdown.js HTTP/1.0" 304 0
+[12/Jan/2018 15:15:50] "GET /static/res/bootstrap-4.0.0/js/holder.min.js HTTP/1.0" 304 0
+[12/Jan/2018 15:15:50] "GET /static/res/bootstrap-4.0.0/js/jquery-3.2.1.min.js HTTP/1.0" 304 0
+Not Found: /apple-touch-icon-precomposed.png
+[12/Jan/2018 15:15:51] "GET /apple-touch-icon-precomposed.png HTTP/1.0" 404 2561
+Not Found: /apple-touch-icon.png
+[12/Jan/2018 15:15:51] "GET /apple-touch-icon.png HTTP/1.0" 404 2525
+[12/Jan/2018 18:33:10] "GET / HTTP/1.0" 200 4557
+[12/Jan/2018 21:12:16] "GET / HTTP/1.0" 200 4557
+[12/Jan/2018 21:14:14] "GET / HTTP/1.0" 200 4557
+[12/Jan/2018 21:14:15] "GET / HTTP/1.0" 200 4557
+[12/Jan/2018 21:14:19] "GET / HTTP/1.0" 200 4557
+[13/Jan/2018 12:46:04] "GET / HTTP/1.0" 200 4557
+Not Found: /apple-touch-icon-precomposed.png
+[13/Jan/2018 12:46:06] "GET /apple-touch-icon-precomposed.png HTTP/1.0" 404 2561
+Not Found: /apple-touch-icon.png
+[13/Jan/2018 12:46:06] "GET /apple-touch-icon.png HTTP/1.0" 404 2525
+Not Found: /favicon.ico
+[13/Jan/2018 12:46:06] "GET /favicon.ico HTTP/1.0" 404 2498
+Not Found: /favicon.ico
+[13/Jan/2018 12:46:06] "GET /favicon.ico HTTP/1.0" 404 2498
+Not Found: /apple-touch-icon-precomposed.png
+[13/Jan/2018 12:46:06] "GET /apple-touch-icon-precomposed.png HTTP/1.0" 404 2561
+Not Found: /apple-touch-icon.png
+[13/Jan/2018 12:46:06] "GET /apple-touch-icon.png HTTP/1.0" 404 2525
+Not Found: /favicon.ico
+[13/Jan/2018 12:46:07] "GET /favicon.ico HTTP/1.0" 404 2498
+Not Found: /favicon.ico
+[13/Jan/2018 12:46:08] "GET /favicon.ico HTTP/1.0" 404 2498
+[13/Jan/2018 12:46:08] "GET / HTTP/1.0" 200 4557
+Not Found: /apple-touch-icon-precomposed.png
+[13/Jan/2018 12:46:08] "GET /apple-touch-icon-precomposed.png HTTP/1.0" 404 2561
+Not Found: /apple-touch-icon.png
+[13/Jan/2018 12:46:08] "GET /apple-touch-icon.png HTTP/1.0" 404 2525
+Not Found: /favicon.ico
+[13/Jan/2018 12:46:08] "GET /favicon.ico HTTP/1.0" 404 2498
+Not Found: /favicon.ico
+[13/Jan/2018 12:46:09] "GET /favicon.ico HTTP/1.0" 404 2498
+Not Found: /apple-touch-icon-precomposed.png
+[13/Jan/2018 12:46:09] "GET /apple-touch-icon-precomposed.png HTTP/1.0" 404 2561
+Not Found: /apple-touch-icon.png
+[13/Jan/2018 12:46:09] "GET /apple-touch-icon.png HTTP/1.0" 404 2525
+Not Found: /favicon.ico
+[13/Jan/2018 12:46:09] "GET /favicon.ico HTTP/1.0" 404 2498
+Not Found: /favicon.ico
+[13/Jan/2018 12:46:09] "GET /favicon.ico HTTP/1.0" 404 2498
+[13/Jan/2018 14:03:28] "GET / HTTP/1.0" 200 4557
+Not Found: /apple-touch-icon-precomposed.png
+[13/Jan/2018 14:03:28] "GET /apple-touch-icon-precomposed.png HTTP/1.0" 404 2561
+Not Found: /apple-touch-icon.png
+[13/Jan/2018 14:03:28] "GET /apple-touch-icon.png HTTP/1.0" 404 2525
+Not Found: /favicon.ico
+[13/Jan/2018 14:03:29] "GET /favicon.ico HTTP/1.0" 404 2498
+Not Found: /favicon.ico
+[13/Jan/2018 14:03:29] "GET /favicon.ico HTTP/1.0" 404 2498
+Not Found: /apple-touch-icon-precomposed.png
+[13/Jan/2018 14:03:29] "GET /apple-touch-icon-precomposed.png HTTP/1.0" 404 2561
+Not Found: /apple-touch-icon.png
+[13/Jan/2018 14:03:29] "GET /apple-touch-icon.png HTTP/1.0" 404 2525
+Not Found: /favicon.ico
+[13/Jan/2018 14:03:29] "GET /favicon.ico HTTP/1.0" 404 2498
+Not Found: /favicon.ico
+[13/Jan/2018 14:03:29] "GET /favicon.ico HTTP/1.0" 404 2498
+[13/Jan/2018 14:03:29] "GET / HTTP/1.0" 200 4557
+Not Found: /apple-touch-icon-precomposed.png
+[13/Jan/2018 14:03:29] "GET /apple-touch-icon-precomposed.png HTTP/1.0" 404 2561
+Not Found: /apple-touch-icon.png
+[13/Jan/2018 14:03:29] "GET /apple-touch-icon.png HTTP/1.0" 404 2525
+Not Found: /favicon.ico
+[13/Jan/2018 14:03:29] "GET /favicon.ico HTTP/1.0" 404 2498
+Not Found: /favicon.ico
+[13/Jan/2018 14:03:29] "GET /favicon.ico HTTP/1.0" 404 2498
+Not Found: /apple-touch-icon-precomposed.png
+[13/Jan/2018 14:03:29] "GET /apple-touch-icon-precomposed.png HTTP/1.0" 404 2561
+Not Found: /apple-touch-icon.png
+[13/Jan/2018 14:03:29] "GET /apple-touch-icon.png HTTP/1.0" 404 2525
+Not Found: /favicon.ico
+[13/Jan/2018 14:03:29] "GET /favicon.ico HTTP/1.0" 404 2498
+Not Found: /favicon.ico
+[13/Jan/2018 14:03:29] "GET /favicon.ico HTTP/1.0" 404 2498
+[13/Jan/2018 14:29:37] "GET / HTTP/1.0" 200 4557
+Not Found: /apple-touch-icon-152x152-precomposed.png
+[13/Jan/2018 14:29:39] "GET /apple-touch-icon-152x152-precomposed.png HTTP/1.0" 404 2585
+Not Found: /apple-touch-icon-152x152.png
+[13/Jan/2018 14:29:39] "GET /apple-touch-icon-152x152.png HTTP/1.0" 404 2549
+Not Found: /apple-touch-icon-precomposed.png
+[13/Jan/2018 14:29:39] "GET /apple-touch-icon-precomposed.png HTTP/1.0" 404 2561
+Not Found: /apple-touch-icon.png
+[13/Jan/2018 14:29:39] "GET /apple-touch-icon.png HTTP/1.0" 404 2525
+Not Found: /favicon.ico
+[13/Jan/2018 14:29:39] "GET /favicon.ico HTTP/1.0" 404 2498
+Not Found: /favicon.ico
+[13/Jan/2018 14:29:39] "GET /favicon.ico HTTP/1.0" 404 2498
+Not Found: /apple-touch-icon-152x152-precomposed.png
+[13/Jan/2018 14:29:39] "GET /apple-touch-icon-152x152-precomposed.png HTTP/1.0" 404 2585
+Not Found: /apple-touch-icon-152x152.png
+[13/Jan/2018 14:29:39] "GET /apple-touch-icon-152x152.png HTTP/1.0" 404 2549
+Not Found: /apple-touch-icon-precomposed.png
+[13/Jan/2018 14:29:39] "GET /apple-touch-icon-precomposed.png HTTP/1.0" 404 2561
+Not Found: /apple-touch-icon.png
+[13/Jan/2018 14:29:39] "GET /apple-touch-icon.png HTTP/1.0" 404 2525
+Not Found: /favicon.ico
+[13/Jan/2018 14:29:39] "GET /favicon.ico HTTP/1.0" 404 2498
+Not Found: /favicon.ico
+[13/Jan/2018 14:29:39] "GET /favicon.ico HTTP/1.0" 404 2498
+[13/Jan/2018 16:05:27] "GET / HTTP/1.0" 200 4557
+Not Found: /apple-touch-icon-152x152-precomposed.png
+[13/Jan/2018 16:05:29] "GET /apple-touch-icon-152x152-precomposed.png HTTP/1.0" 404 2585
+Not Found: /apple-touch-icon-152x152.png
+[13/Jan/2018 16:05:29] "GET /apple-touch-icon-152x152.png HTTP/1.0" 404 2549
+Not Found: /apple-touch-icon-precomposed.png
+[13/Jan/2018 16:05:29] "GET /apple-touch-icon-precomposed.png HTTP/1.0" 404 2561
+Not Found: /apple-touch-icon.png
+[13/Jan/2018 16:05:29] "GET /apple-touch-icon.png HTTP/1.0" 404 2525
+Not Found: /favicon.ico
+[13/Jan/2018 16:05:29] "GET /favicon.ico HTTP/1.0" 404 2498
+Not Found: /favicon.ico
+[13/Jan/2018 16:05:29] "GET /favicon.ico HTTP/1.0" 404 2498
+Not Found: /apple-touch-icon-152x152-precomposed.png
+[13/Jan/2018 16:05:29] "GET /apple-touch-icon-152x152-precomposed.png HTTP/1.0" 404 2585
+Not Found: /apple-touch-icon-152x152.png
+[13/Jan/2018 16:05:30] "GET /apple-touch-icon-152x152.png HTTP/1.0" 404 2549
+Not Found: /apple-touch-icon-precomposed.png
+[13/Jan/2018 16:05:30] "GET /apple-touch-icon-precomposed.png HTTP/1.0" 404 2561
+Not Found: /apple-touch-icon.png
+[13/Jan/2018 16:05:30] "GET /apple-touch-icon.png HTTP/1.0" 404 2525
+Not Found: /favicon.ico
+[13/Jan/2018 16:05:30] "GET /favicon.ico HTTP/1.0" 404 2498
+Not Found: /favicon.ico
+[13/Jan/2018 16:05:31] "GET /favicon.ico HTTP/1.0" 404 2498
+[13/Jan/2018 18:01:44] "GET / HTTP/1.0" 200 4557
+Not Found: /phpmyadmin
+[14/Jan/2018 07:38:56] "GET /phpmyadmin HTTP/1.0" 404 2495
+[14/Jan/2018 18:14:55] "GET / HTTP/1.0" 200 4557
+[14/Jan/2018 21:28:08] "GET / HTTP/1.0" 200 4557
+Not Found: /apple-touch-icon-152x152-precomposed.png
+[14/Jan/2018 21:28:09] "GET /apple-touch-icon-152x152-precomposed.png HTTP/1.0" 404 2585
+Not Found: /apple-touch-icon-152x152.png
+[14/Jan/2018 21:28:09] "GET /apple-touch-icon-152x152.png HTTP/1.0" 404 2549
+Not Found: /apple-touch-icon-precomposed.png
+[14/Jan/2018 21:28:09] "GET /apple-touch-icon-precomposed.png HTTP/1.0" 404 2561
+Not Found: /apple-touch-icon.png
+[14/Jan/2018 21:28:09] "GET /apple-touch-icon.png HTTP/1.0" 404 2525
+Not Found: /favicon.ico
+[14/Jan/2018 21:28:09] "GET /favicon.ico HTTP/1.0" 404 2498
+Not Found: /favicon.ico
+[14/Jan/2018 21:28:09] "GET /favicon.ico HTTP/1.0" 404 2498
+Not Found: /apple-touch-icon-152x152-precomposed.png
+[14/Jan/2018 21:28:09] "GET /apple-touch-icon-152x152-precomposed.png HTTP/1.0" 404 2585
+Not Found: /apple-touch-icon-152x152.png
+[14/Jan/2018 21:28:09] "GET /apple-touch-icon-152x152.png HTTP/1.0" 404 2549
+Not Found: /apple-touch-icon-precomposed.png
+[14/Jan/2018 21:28:09] "GET /apple-touch-icon-precomposed.png HTTP/1.0" 404 2561
+Not Found: /apple-touch-icon.png
+[14/Jan/2018 21:28:09] "GET /apple-touch-icon.png HTTP/1.0" 404 2525
+Not Found: /favicon.ico
+[14/Jan/2018 21:28:09] "GET /favicon.ico HTTP/1.0" 404 2498
+Not Found: /favicon.ico
+[14/Jan/2018 21:28:09] "GET /favicon.ico HTTP/1.0" 404 2498
+[15/Jan/2018 09:08:20] "GET / HTTP/1.0" 200 4557
+[15/Jan/2018 09:08:20] "GET /static/res/bootstrap-4.0.0/css/bootstrap-reboot.css HTTP/1.0" 200 4964
+[15/Jan/2018 09:08:20] "GET /static/res/bootstrap-4.0.0/css/bootstrap-grid.css HTTP/1.0" 200 32403
+[15/Jan/2018 09:08:20] "GET /static/res/bootstrap-4.0.0/css/jumbotron.css HTTP/1.0" 200 107
+[15/Jan/2018 09:08:20] "GET /static/res/bootstrap-4.0.0/css/bootstrap.css HTTP/1.0" 200 159202
+[15/Jan/2018 09:08:20] "GET /static/res/bootstrap-4.0.0/css/album.css HTTP/1.0" 200 790
+[15/Jan/2018 09:08:20] "GET /static/res/bootstrap-4.0.0/css/grid.css HTTP/1.0" 200 366
+[15/Jan/2018 09:08:20] "GET /static/res/bootstrap-4.0.0/js/bootstrap.min.js HTTP/1.0" 200 50564
+[15/Jan/2018 09:08:20] "GET /static/res/bootstrap-4.0.0/js/jquery-3.2.1.min.js HTTP/1.0" 200 86659
+[15/Jan/2018 09:08:21] "GET /static/res/bootstrap-markdown/js/bootstrap-markdown.js HTTP/1.0" 200 49558
+[15/Jan/2018 09:08:21] "GET /static/res/bootstrap-4.0.0/js/popper.min.js HTTP/1.0" 200 19197
+[15/Jan/2018 09:08:21] "GET /static/res/bootstrap-4.0.0/js/holder.min.js HTTP/1.0" 200 32283
+Not Found: /favicon.ico
+[15/Jan/2018 09:08:24] "GET /favicon.ico HTTP/1.0" 404 2498
+[15/Jan/2018 09:08:26] "GET /ref HTTP/1.0" 200 8224
+[15/Jan/2018 12:19:32] "GET / HTTP/1.0" 200 4557
+Not Found: /apple-touch-icon-152x152-precomposed.png
+[15/Jan/2018 12:19:33] "GET /apple-touch-icon-152x152-precomposed.png HTTP/1.0" 404 2585
+Not Found: /apple-touch-icon-152x152.png
+[15/Jan/2018 12:19:34] "GET /apple-touch-icon-152x152.png HTTP/1.0" 404 2549
+Not Found: /apple-touch-icon-precomposed.png
+[15/Jan/2018 12:19:35] "GET /apple-touch-icon-precomposed.png HTTP/1.0" 404 2561
+Not Found: /apple-touch-icon.png
+[15/Jan/2018 12:19:35] "GET /apple-touch-icon.png HTTP/1.0" 404 2525
+Not Found: /favicon.ico
+[15/Jan/2018 12:19:35] "GET /favicon.ico HTTP/1.0" 404 2498
+Not Found: /favicon.ico
+[15/Jan/2018 12:19:37] "GET /favicon.ico HTTP/1.0" 404 2498
+Not Found: /apple-touch-icon-152x152-precomposed.png
+[15/Jan/2018 12:19:38] "GET /apple-touch-icon-152x152-precomposed.png HTTP/1.0" 404 2585
+Not Found: /apple-touch-icon-152x152.png
+[15/Jan/2018 12:19:42] "GET /apple-touch-icon-152x152.png HTTP/1.0" 404 2549
+[15/Jan/2018 12:19:42] "GET / HTTP/1.0" 200 4557
+Not Found: /apple-touch-icon-precomposed.png
+[15/Jan/2018 12:19:42] "GET /apple-touch-icon-precomposed.png HTTP/1.0" 404 2561
+Not Found: /apple-touch-icon.png
+[15/Jan/2018 12:19:42] "GET /apple-touch-icon.png HTTP/1.0" 404 2525
+Not Found: /favicon.ico
+[15/Jan/2018 12:19:42] "GET /favicon.ico HTTP/1.0" 404 2498
+Not Found: /apple-touch-icon-precomposed.png
+[15/Jan/2018 12:19:42] "GET /apple-touch-icon-precomposed.png HTTP/1.0" 404 2561
+Not Found: /apple-touch-icon.png
+[15/Jan/2018 12:19:42] "GET /apple-touch-icon.png HTTP/1.0" 404 2525
+Not Found: /favicon.ico
+[15/Jan/2018 12:19:42] "GET /favicon.ico HTTP/1.0" 404 2498
+Not Found: /favicon.ico
+[15/Jan/2018 12:19:42] "GET /favicon.ico HTTP/1.0" 404 2498
+Not Found: /favicon.ico
+[15/Jan/2018 12:19:42] "GET /favicon.ico HTTP/1.0" 404 2498
+Not Found: /apple-touch-icon-precomposed.png
+[15/Jan/2018 12:19:43] "GET /apple-touch-icon-precomposed.png HTTP/1.0" 404 2561
+Not Found: /apple-touch-icon.png
+[15/Jan/2018 12:19:44] "GET /apple-touch-icon.png HTTP/1.0" 404 2525
+Not Found: /favicon.ico
+[15/Jan/2018 12:19:44] "GET /favicon.ico HTTP/1.0" 404 2498
+Not Found: /favicon.ico
+[15/Jan/2018 12:19:44] "GET /favicon.ico HTTP/1.0" 404 2498
+[15/Jan/2018 12:19:45] "GET / HTTP/1.0" 200 4557
+Not Found: /apple-touch-icon-precomposed.png
+[15/Jan/2018 12:19:45] "GET /apple-touch-icon-precomposed.png HTTP/1.0" 404 2561
+Not Found: /apple-touch-icon.png
+[15/Jan/2018 12:19:45] "GET /apple-touch-icon.png HTTP/1.0" 404 2525
+Not Found: /favicon.ico
+[15/Jan/2018 12:19:46] "GET /favicon.ico HTTP/1.0" 404 2498
+Not Found: /favicon.ico
+[15/Jan/2018 12:19:46] "GET /favicon.ico HTTP/1.0" 404 2498
+Not Found: /apple-touch-icon-precomposed.png
+[15/Jan/2018 12:19:46] "GET /apple-touch-icon-precomposed.png HTTP/1.0" 404 2561
+Not Found: /apple-touch-icon.png
+[15/Jan/2018 12:19:46] "GET /apple-touch-icon.png HTTP/1.0" 404 2525
+Not Found: /favicon.ico
+[15/Jan/2018 12:19:46] "GET /favicon.ico HTTP/1.0" 404 2498
+Not Found: /favicon.ico
+[15/Jan/2018 12:19:46] "GET /favicon.ico HTTP/1.0" 404 2498
+[15/Jan/2018 13:42:14] "GET / HTTP/1.0" 200 4557
+Not Found: /apple-touch-icon-precomposed.png
+[15/Jan/2018 13:42:14] "GET /apple-touch-icon-precomposed.png HTTP/1.0" 404 2561
+Not Found: /apple-touch-icon.png
+[15/Jan/2018 13:42:14] "GET /apple-touch-icon.png HTTP/1.0" 404 2525
+Not Found: /favicon.ico
+[15/Jan/2018 13:42:14] "GET /favicon.ico HTTP/1.0" 404 2498
+Not Found: /favicon.ico
+[15/Jan/2018 13:42:14] "GET /favicon.ico HTTP/1.0" 404 2498
+Not Found: /apple-touch-icon-precomposed.png
+[15/Jan/2018 13:42:14] "GET /apple-touch-icon-precomposed.png HTTP/1.0" 404 2561
+Not Found: /apple-touch-icon.png
+[15/Jan/2018 13:42:14] "GET /apple-touch-icon.png HTTP/1.0" 404 2525
+Not Found: /favicon.ico
+[15/Jan/2018 13:42:14] "GET /favicon.ico HTTP/1.0" 404 2498
+Not Found: /favicon.ico
+[15/Jan/2018 13:42:14] "GET /favicon.ico HTTP/1.0" 404 2498
+[15/Jan/2018 13:42:14] "GET / HTTP/1.0" 200 4557
+Not Found: /apple-touch-icon-precomposed.png
+[15/Jan/2018 13:42:14] "GET /apple-touch-icon-precomposed.png HTTP/1.0" 404 2561
+Not Found: /apple-touch-icon.png
+[15/Jan/2018 13:42:14] "GET /apple-touch-icon.png HTTP/1.0" 404 2525
+Not Found: /favicon.ico
+[15/Jan/2018 13:42:14] "GET /favicon.ico HTTP/1.0" 404 2498
+Not Found: /favicon.ico
+[15/Jan/2018 13:42:14] "GET /favicon.ico HTTP/1.0" 404 2498
+Not Found: /apple-touch-icon-precomposed.png
+[15/Jan/2018 13:42:14] "GET /apple-touch-icon-precomposed.png HTTP/1.0" 404 2561
+Not Found: /apple-touch-icon.png
+[15/Jan/2018 13:42:14] "GET /apple-touch-icon.png HTTP/1.0" 404 2525
+Not Found: /favicon.ico
+[15/Jan/2018 13:42:14] "GET /favicon.ico HTTP/1.0" 404 2498
+Not Found: /favicon.ico
+[15/Jan/2018 13:42:14] "GET /favicon.ico HTTP/1.0" 404 2498
+[15/Jan/2018 14:49:46] "GET / HTTP/1.0" 200 4557
+Not Found: /apple-touch-icon-precomposed.png
+[15/Jan/2018 14:49:46] "GET /apple-touch-icon-precomposed.png HTTP/1.0" 404 2561
+Not Found: /apple-touch-icon.png
+[15/Jan/2018 14:49:46] "GET /apple-touch-icon.png HTTP/1.0" 404 2525
+Not Found: /favicon.ico
+[15/Jan/2018 14:49:46] "GET /favicon.ico HTTP/1.0" 404 2498
+Not Found: /favicon.ico
+[15/Jan/2018 14:49:46] "GET /favicon.ico HTTP/1.0" 404 2498
+Not Found: /apple-touch-icon-precomposed.png
+[15/Jan/2018 14:49:46] "GET /apple-touch-icon-precomposed.png HTTP/1.0" 404 2561
+Not Found: /apple-touch-icon.png
+[15/Jan/2018 14:49:46] "GET /apple-touch-icon.png HTTP/1.0" 404 2525
+Not Found: /favicon.ico
+[15/Jan/2018 14:49:46] "GET /favicon.ico HTTP/1.0" 404 2498
+Not Found: /favicon.ico
+[15/Jan/2018 14:49:46] "GET /favicon.ico HTTP/1.0" 404 2498
+[15/Jan/2018 14:49:46] "GET / HTTP/1.0" 200 4557
+Not Found: /apple-touch-icon-precomposed.png
+[15/Jan/2018 14:49:46] "GET /apple-touch-icon-precomposed.png HTTP/1.0" 404 2561
+Not Found: /apple-touch-icon.png
+[15/Jan/2018 14:49:46] "GET /apple-touch-icon.png HTTP/1.0" 404 2525
+Not Found: /favicon.ico
+[15/Jan/2018 14:49:46] "GET /favicon.ico HTTP/1.0" 404 2498
+Not Found: /favicon.ico
+[15/Jan/2018 14:49:46] "GET /favicon.ico HTTP/1.0" 404 2498
+Not Found: /apple-touch-icon-precomposed.png
+[15/Jan/2018 14:49:46] "GET /apple-touch-icon-precomposed.png HTTP/1.0" 404 2561
+Not Found: /apple-touch-icon.png
+[15/Jan/2018 14:49:46] "GET /apple-touch-icon.png HTTP/1.0" 404 2525
+Not Found: /favicon.ico
+[15/Jan/2018 14:49:46] "GET /favicon.ico HTTP/1.0" 404 2498
+Not Found: /favicon.ico
+[15/Jan/2018 14:49:46] "GET /favicon.ico HTTP/1.0" 404 2498
+[15/Jan/2018 15:26:49] "GET / HTTP/1.0" 200 4557
+[15/Jan/2018 15:27:26] "GET / HTTP/1.0" 200 4557
+Not Found: /apple-touch-icon-152x152-precomposed.png
+[15/Jan/2018 15:27:28] "GET /apple-touch-icon-152x152-precomposed.png HTTP/1.0" 404 2585
+Not Found: /apple-touch-icon-152x152.png
+[15/Jan/2018 15:27:28] "GET /apple-touch-icon-152x152.png HTTP/1.0" 404 2549
+Not Found: /apple-touch-icon-precomposed.png
+[15/Jan/2018 15:27:28] "GET /apple-touch-icon-precomposed.png HTTP/1.0" 404 2561
+Not Found: /apple-touch-icon.png
+[15/Jan/2018 15:27:28] "GET /apple-touch-icon.png HTTP/1.0" 404 2525
+Not Found: /favicon.ico
+[15/Jan/2018 15:27:28] "GET /favicon.ico HTTP/1.0" 404 2498
+Not Found: /favicon.ico
+[15/Jan/2018 15:27:28] "GET /favicon.ico HTTP/1.0" 404 2498
+Not Found: /apple-touch-icon-152x152-precomposed.png
+[15/Jan/2018 15:27:28] "GET /apple-touch-icon-152x152-precomposed.png HTTP/1.0" 404 2585
+Not Found: /apple-touch-icon-152x152.png
+[15/Jan/2018 15:27:28] "GET /apple-touch-icon-152x152.png HTTP/1.0" 404 2549
+Not Found: /apple-touch-icon-precomposed.png
+[15/Jan/2018 15:27:28] "GET /apple-touch-icon-precomposed.png HTTP/1.0" 404 2561
+Not Found: /apple-touch-icon.png
+[15/Jan/2018 15:27:28] "GET /apple-touch-icon.png HTTP/1.0" 404 2525
+Not Found: /favicon.ico
+[15/Jan/2018 15:27:28] "GET /favicon.ico HTTP/1.0" 404 2498
+Not Found: /favicon.ico
+[15/Jan/2018 15:27:28] "GET /favicon.ico HTTP/1.0" 404 2498
+[15/Jan/2018 15:27:33] "GET / HTTP/1.0" 200 4557
+[15/Jan/2018 15:27:34] "GET /static/res/bootstrap-4.0.0/css/bootstrap.css HTTP/1.0" 200 159202
+[15/Jan/2018 15:27:34] "GET /static/res/bootstrap-4.0.0/css/bootstrap-reboot.css HTTP/1.0" 200 4964
+[15/Jan/2018 15:27:34] "GET /static/res/bootstrap-4.0.0/css/album.css HTTP/1.0" 200 790
+[15/Jan/2018 15:27:34] "GET /static/res/bootstrap-4.0.0/css/bootstrap-grid.css HTTP/1.0" 200 32403
+[15/Jan/2018 15:27:34] "GET /static/res/bootstrap-4.0.0/css/jumbotron.css HTTP/1.0" 200 107
+[15/Jan/2018 15:27:34] "GET /static/res/bootstrap-4.0.0/css/grid.css HTTP/1.0" 200 366
+[15/Jan/2018 15:27:34] "GET /static/res/bootstrap-4.0.0/js/bootstrap.min.js HTTP/1.0" 200 50564
+[15/Jan/2018 15:27:34] "GET /static/res/bootstrap-4.0.0/js/jquery-3.2.1.min.js HTTP/1.0" 200 86659
+[15/Jan/2018 15:27:34] "GET /static/res/bootstrap-markdown/js/bootstrap-markdown.js HTTP/1.0" 200 49558
+[15/Jan/2018 15:27:35] "GET /static/res/bootstrap-4.0.0/js/popper.min.js HTTP/1.0" 200 19197
+[15/Jan/2018 15:27:35] "GET /static/res/bootstrap-4.0.0/js/holder.min.js HTTP/1.0" 200 32283
+[15/Jan/2018 15:27:38] "GET /work HTTP/1.0" 200 229875
+Not Found: /d/file/20160429/jide5b0n3tk.png
+[15/Jan/2018 15:27:39] "GET /d/file/20160429/jide5b0n3tk.png HTTP/1.0" 404 2558
+Not Found: /d/file/20160429/jide5b0n3tk.png
+[15/Jan/2018 15:27:39] "GET /d/file/20160429/jide5b0n3tk.png HTTP/1.0" 404 2558
+[15/Jan/2018 15:27:41] "GET /ref HTTP/1.0" 200 8224
+[15/Jan/2018 15:27:43] "GET /news HTTP/1.0" 200 19130
+[15/Jan/2018 17:11:41] "GET / HTTP/1.0" 200 4557
+Not Found: /apple-touch-icon-152x152-precomposed.png
+[15/Jan/2018 17:11:42] "GET /apple-touch-icon-152x152-precomposed.png HTTP/1.0" 404 2585
+Not Found: /apple-touch-icon-152x152.png
+[15/Jan/2018 17:11:42] "GET /apple-touch-icon-152x152.png HTTP/1.0" 404 2549
+Not Found: /apple-touch-icon-precomposed.png
+[15/Jan/2018 17:11:42] "GET /apple-touch-icon-precomposed.png HTTP/1.0" 404 2561
+Not Found: /apple-touch-icon.png
+[15/Jan/2018 17:11:42] "GET /apple-touch-icon.png HTTP/1.0" 404 2525
+Not Found: /favicon.ico
+[15/Jan/2018 17:11:42] "GET /favicon.ico HTTP/1.0" 404 2498
+Not Found: /favicon.ico
+[15/Jan/2018 17:11:42] "GET /favicon.ico HTTP/1.0" 404 2498
+Not Found: /apple-touch-icon-152x152-precomposed.png
+[15/Jan/2018 17:11:42] "GET /apple-touch-icon-152x152-precomposed.png HTTP/1.0" 404 2585
+Not Found: /apple-touch-icon-152x152.png
+[15/Jan/2018 17:11:42] "GET /apple-touch-icon-152x152.png HTTP/1.0" 404 2549
+Not Found: /apple-touch-icon-precomposed.png
+[15/Jan/2018 17:11:43] "GET /apple-touch-icon-precomposed.png HTTP/1.0" 404 2561
+Not Found: /apple-touch-icon.png
+[15/Jan/2018 17:11:43] "GET /apple-touch-icon.png HTTP/1.0" 404 2525
+Not Found: /favicon.ico
+[15/Jan/2018 17:11:43] "GET /favicon.ico HTTP/1.0" 404 2498
+Not Found: /favicon.ico
+[15/Jan/2018 17:11:43] "GET /favicon.ico HTTP/1.0" 404 2498
+[15/Jan/2018 19:37:46] "GET / HTTP/1.0" 200 4557
+[16/Jan/2018 15:00:41] "GET / HTTP/1.0" 200 4557
+[16/Jan/2018 15:44:32] "GET / HTTP/1.0" 200 4557
+Not Found: /apple-touch-icon-152x152-precomposed.png
+[16/Jan/2018 15:44:33] "GET /apple-touch-icon-152x152-precomposed.png HTTP/1.0" 404 2585
+Not Found: /apple-touch-icon-152x152.png
+[16/Jan/2018 15:44:33] "GET /apple-touch-icon-152x152.png HTTP/1.0" 404 2549
+Not Found: /apple-touch-icon-precomposed.png
+[16/Jan/2018 15:44:33] "GET /apple-touch-icon-precomposed.png HTTP/1.0" 404 2561
+Not Found: /apple-touch-icon.png
+[16/Jan/2018 15:44:34] "GET /apple-touch-icon.png HTTP/1.0" 404 2525
+Not Found: /favicon.ico
+[16/Jan/2018 15:44:34] "GET /favicon.ico HTTP/1.0" 404 2498
+Not Found: /favicon.ico
+[16/Jan/2018 15:44:34] "GET /favicon.ico HTTP/1.0" 404 2498
+Not Found: /apple-touch-icon-152x152-precomposed.png
+[16/Jan/2018 15:44:34] "GET /apple-touch-icon-152x152-precomposed.png HTTP/1.0" 404 2585
+Not Found: /apple-touch-icon-152x152.png
+[16/Jan/2018 15:44:34] "GET /apple-touch-icon-152x152.png HTTP/1.0" 404 2549
+Not Found: /apple-touch-icon-precomposed.png
+[16/Jan/2018 15:44:34] "GET /apple-touch-icon-precomposed.png HTTP/1.0" 404 2561
+Not Found: /apple-touch-icon.png
+[16/Jan/2018 15:44:34] "GET /apple-touch-icon.png HTTP/1.0" 404 2525
+Not Found: /favicon.ico
+[16/Jan/2018 15:44:34] "GET /favicon.ico HTTP/1.0" 404 2498
+Not Found: /favicon.ico
+[16/Jan/2018 15:44:34] "GET /favicon.ico HTTP/1.0" 404 2498
+[16/Jan/2018 19:37:35] "GET / HTTP/1.0" 200 4557
+[17/Jan/2018 06:18:16] "GET / HTTP/1.0" 200 4557
+[17/Jan/2018 06:18:16] "GET /static/res/bootstrap-4.0.0/css/bootstrap.css HTTP/1.0" 200 159202
+[17/Jan/2018 06:18:17] "GET /static/res/bootstrap-4.0.0/css/bootstrap-reboot.css HTTP/1.0" 200 4964
+[17/Jan/2018 06:18:17] "GET /static/res/bootstrap-4.0.0/css/jumbotron.css HTTP/1.0" 200 107
+[17/Jan/2018 06:18:17] "GET /static/res/bootstrap-4.0.0/css/bootstrap-grid.css HTTP/1.0" 200 32403
+[17/Jan/2018 06:18:17] "GET /static/res/bootstrap-4.0.0/css/album.css HTTP/1.0" 200 790
+[17/Jan/2018 06:18:17] "GET /static/res/bootstrap-4.0.0/css/grid.css HTTP/1.0" 200 366
+[17/Jan/2018 06:18:17] "GET /static/res/bootstrap-4.0.0/js/bootstrap.min.js HTTP/1.0" 200 50564
+[17/Jan/2018 06:18:17] "GET /static/res/bootstrap-4.0.0/js/jquery-3.2.1.min.js HTTP/1.0" 200 86659
+[17/Jan/2018 06:18:17] "GET /static/res/bootstrap-markdown/js/bootstrap-markdown.js HTTP/1.0" 200 49558
+[17/Jan/2018 06:18:17] "GET /static/res/bootstrap-4.0.0/js/popper.min.js HTTP/1.0" 200 19197
+[17/Jan/2018 06:18:17] "GET /static/res/bootstrap-4.0.0/js/holder.min.js HTTP/1.0" 200 32283
+Not Found: /favicon.ico
+[17/Jan/2018 06:18:21] "GET /favicon.ico HTTP/1.0" 404 2498
+[17/Jan/2018 06:22:16] "GET /ref HTTP/1.0" 200 8224
+[17/Jan/2018 06:22:17] "GET /ref HTTP/1.0" 200 8224
+[17/Jan/2018 06:22:18] "GET /news HTTP/1.0" 200 19546
+[17/Jan/2018 06:22:19] "GET / HTTP/1.0" 200 4557
+[17/Jan/2018 06:22:22] "GET /admin HTTP/1.0" 301 0
+[17/Jan/2018 06:22:22] "GET /admin/ HTTP/1.0" 302 0
+[17/Jan/2018 06:22:22] "GET /admin/login/?next=/admin/ HTTP/1.0" 200 1650
+[17/Jan/2018 06:22:22] "GET /static/admin/css/base.css HTTP/1.0" 200 16066
+[17/Jan/2018 06:22:22] "GET /static/admin/css/login.css HTTP/1.0" 200 1203
+[17/Jan/2018 06:22:22] "GET /static/admin/css/fonts.css HTTP/1.0" 200 423
+[17/Jan/2018 06:22:22] "GET /static/admin/fonts/Roboto-Light-webfont.woff HTTP/1.0" 200 81348
+[17/Jan/2018 06:22:22] "GET /static/admin/fonts/Roboto-Regular-webfont.woff HTTP/1.0" 200 80304
+[17/Jan/2018 08:46:45] "GET / HTTP/1.0" 200 4557
+[17/Jan/2018 08:46:45] "GET /static/res/bootstrap-4.0.0/css/bootstrap.css HTTP/1.0" 200 159202
+[17/Jan/2018 08:46:45] "GET /static/res/bootstrap-4.0.0/css/bootstrap-reboot.css HTTP/1.0" 200 4964
+[17/Jan/2018 08:46:45] "GET /static/res/bootstrap-4.0.0/css/bootstrap-grid.css HTTP/1.0" 200 32403
+[17/Jan/2018 08:46:45] "GET /static/res/bootstrap-4.0.0/css/album.css HTTP/1.0" 200 790
+[17/Jan/2018 08:46:45] "GET /static/res/bootstrap-4.0.0/css/jumbotron.css HTTP/1.0" 200 107
+[17/Jan/2018 08:46:45] "GET /static/res/bootstrap-4.0.0/css/grid.css HTTP/1.0" 200 366
+[17/Jan/2018 08:46:45] "GET /static/res/bootstrap-4.0.0/js/bootstrap.min.js HTTP/1.0" 200 50564
+[17/Jan/2018 08:46:45] "GET /static/res/bootstrap-4.0.0/js/jquery-3.2.1.min.js HTTP/1.0" 200 86659
+[17/Jan/2018 08:46:45] "GET /static/res/bootstrap-markdown/js/bootstrap-markdown.js HTTP/1.0" 200 49558
+[17/Jan/2018 08:46:45] "GET /static/res/bootstrap-4.0.0/js/popper.min.js HTTP/1.0" 200 19197
+[17/Jan/2018 08:46:45] "GET /static/res/bootstrap-4.0.0/js/holder.min.js HTTP/1.0" 200 32283
+Not Found: /favicon.ico
+[17/Jan/2018 08:46:48] "GET /favicon.ico HTTP/1.0" 404 2498
+[17/Jan/2018 08:58:00] "GET / HTTP/1.0" 200 4557
+[17/Jan/2018 13:59:25] "GET / HTTP/1.0" 200 4557
+Not Found: /apple-touch-icon-precomposed.png
+[17/Jan/2018 13:59:25] "GET /apple-touch-icon-precomposed.png HTTP/1.0" 404 2561
+Not Found: /apple-touch-icon.png
+[17/Jan/2018 13:59:25] "GET /apple-touch-icon.png HTTP/1.0" 404 2525
+Not Found: /favicon.ico
+[17/Jan/2018 13:59:26] "GET /favicon.ico HTTP/1.0" 404 2498
+Not Found: /favicon.ico
+[17/Jan/2018 13:59:26] "GET /favicon.ico HTTP/1.0" 404 2498
+Not Found: /apple-touch-icon-precomposed.png
+[17/Jan/2018 13:59:26] "GET /apple-touch-icon-precomposed.png HTTP/1.0" 404 2561
+Not Found: /apple-touch-icon.png
+[17/Jan/2018 13:59:26] "GET /apple-touch-icon.png HTTP/1.0" 404 2525
+Not Found: /favicon.ico
+[17/Jan/2018 13:59:26] "GET /favicon.ico HTTP/1.0" 404 2498
+Not Found: /favicon.ico
+[17/Jan/2018 13:59:26] "GET /favicon.ico HTTP/1.0" 404 2498
+[17/Jan/2018 13:59:27] "GET / HTTP/1.0" 200 4557
+Not Found: /apple-touch-icon-precomposed.png
+[17/Jan/2018 13:59:27] "GET /apple-touch-icon-precomposed.png HTTP/1.0" 404 2561
+Not Found: /apple-touch-icon.png
+[17/Jan/2018 13:59:27] "GET /apple-touch-icon.png HTTP/1.0" 404 2525
+Not Found: /favicon.ico
+[17/Jan/2018 13:59:27] "GET /favicon.ico HTTP/1.0" 404 2498
+Not Found: /favicon.ico
+[17/Jan/2018 13:59:28] "GET /favicon.ico HTTP/1.0" 404 2498
+Not Found: /apple-touch-icon-precomposed.png
+[17/Jan/2018 13:59:28] "GET /apple-touch-icon-precomposed.png HTTP/1.0" 404 2561
+Not Found: /apple-touch-icon.png
+[17/Jan/2018 13:59:28] "GET /apple-touch-icon.png HTTP/1.0" 404 2525
+Not Found: /favicon.ico
+[17/Jan/2018 13:59:28] "GET /favicon.ico HTTP/1.0" 404 2498
+Not Found: /favicon.ico
+[17/Jan/2018 13:59:28] "GET /favicon.ico HTTP/1.0" 404 2498
+[17/Jan/2018 14:07:24] "GET / HTTP/1.0" 200 4557
+[17/Jan/2018 14:07:24] "GET /static/res/bootstrap-4.0.0/css/bootstrap.css HTTP/1.0" 200 159202
+[17/Jan/2018 14:07:25] "GET /static/res/bootstrap-4.0.0/css/bootstrap-grid.css HTTP/1.0" 200 32403
+[17/Jan/2018 14:07:25] "GET /static/res/bootstrap-4.0.0/css/bootstrap-reboot.css HTTP/1.0" 200 4964
+[17/Jan/2018 14:07:25] "GET /static/res/bootstrap-4.0.0/css/grid.css HTTP/1.0" 200 366
+[17/Jan/2018 14:07:25] "GET /static/res/bootstrap-4.0.0/css/album.css HTTP/1.0" 200 790
+[17/Jan/2018 14:07:25] "GET /static/res/bootstrap-4.0.0/css/jumbotron.css HTTP/1.0" 200 107
+[17/Jan/2018 14:07:25] "GET /static/res/bootstrap-4.0.0/js/bootstrap.min.js HTTP/1.0" 200 50564
+[17/Jan/2018 14:07:25] "GET /static/res/bootstrap-markdown/js/bootstrap-markdown.js HTTP/1.0" 200 49558
+[17/Jan/2018 14:07:25] "GET /static/res/bootstrap-4.0.0/js/jquery-3.2.1.min.js HTTP/1.0" 200 86659
+[17/Jan/2018 14:07:25] "GET /static/res/bootstrap-4.0.0/js/popper.min.js HTTP/1.0" 200 19197
+[17/Jan/2018 14:07:25] "GET /static/res/bootstrap-4.0.0/js/holder.min.js HTTP/1.0" 200 32283
+Not Found: /favicon.ico
+[17/Jan/2018 14:07:27] "GET /favicon.ico HTTP/1.0" 404 2498
+Not Found: /apple-touch-icon-precomposed.png
+[17/Jan/2018 14:07:27] "GET /apple-touch-icon-precomposed.png HTTP/1.0" 404 2561
+Not Found: /apple-touch-icon.png
+[17/Jan/2018 14:07:27] "GET /apple-touch-icon.png HTTP/1.0" 404 2525
+[17/Jan/2018 14:07:29] "GET /ref HTTP/1.0" 200 8224
+[17/Jan/2018 18:02:24] "GET / HTTP/1.0" 200 4557
+[18/Jan/2018 02:35:34] "GET / HTTP/1.0" 200 4557
+Not Found: /favicon.ico
+[18/Jan/2018 02:35:34] "GET /favicon.ico HTTP/1.0" 404 2498
+[18/Jan/2018 02:35:35] "GET /news HTTP/1.0" 200 19083
+[18/Jan/2018 03:35:00] "GET / HTTP/1.0" 200 4557
+[18/Jan/2018 03:59:45] "GET / HTTP/1.0" 200 4557
+[18/Jan/2018 06:00:27] "GET / HTTP/1.0" 200 4557
+Not Found: /favicon.ico
+[18/Jan/2018 06:00:27] "GET /favicon.ico HTTP/1.0" 404 2498
+[18/Jan/2018 06:00:32] "GET /ref HTTP/1.0" 200 8224
+[18/Jan/2018 08:17:57] "GET / HTTP/1.0" 200 4557
+[18/Jan/2018 08:17:57] "GET /static/res/bootstrap-4.0.0/css/bootstrap-reboot.css HTTP/1.0" 200 4964
+[18/Jan/2018 08:17:57] "GET /static/res/bootstrap-4.0.0/css/album.css HTTP/1.0" 200 790
+[18/Jan/2018 08:17:57] "GET /static/res/bootstrap-4.0.0/css/bootstrap-grid.css HTTP/1.0" 200 32403
+[18/Jan/2018 08:17:57] "GET /static/res/bootstrap-4.0.0/css/grid.css HTTP/1.0" 200 366
+[18/Jan/2018 08:17:57] "GET /static/res/bootstrap-4.0.0/css/jumbotron.css HTTP/1.0" 200 107
+[18/Jan/2018 08:17:57] "GET /static/res/bootstrap-4.0.0/css/bootstrap.css HTTP/1.0" 200 159202
+[18/Jan/2018 08:17:57] "GET /static/res/bootstrap-4.0.0/js/bootstrap.min.js HTTP/1.0" 200 50564
+[18/Jan/2018 08:17:57] "GET /static/res/bootstrap-4.0.0/js/jquery-3.2.1.min.js HTTP/1.0" 200 86659
+[18/Jan/2018 08:17:57] "GET /static/res/bootstrap-4.0.0/js/popper.min.js HTTP/1.0" 200 19197
+[18/Jan/2018 08:17:57] "GET /static/res/bootstrap-markdown/js/bootstrap-markdown.js HTTP/1.0" 200 49558
+[18/Jan/2018 08:17:58] "GET /static/res/bootstrap-4.0.0/js/holder.min.js HTTP/1.0" 200 32283
+[18/Jan/2018 08:18:01] "GET /admin HTTP/1.0" 301 0
+[18/Jan/2018 08:18:01] "GET /admin/ HTTP/1.0" 302 0
+[18/Jan/2018 08:18:02] "GET /admin/login/?next=/admin/ HTTP/1.0" 200 1650
+[18/Jan/2018 08:18:02] "GET /static/admin/css/base.css HTTP/1.0" 200 16066
+[18/Jan/2018 08:18:02] "GET /static/admin/css/login.css HTTP/1.0" 200 1203
+[18/Jan/2018 08:18:02] "GET /static/admin/css/fonts.css HTTP/1.0" 200 423
+[18/Jan/2018 08:18:02] "GET /static/admin/fonts/Roboto-Regular-webfont.woff HTTP/1.0" 200 80304
+[18/Jan/2018 08:18:02] "GET /static/admin/fonts/Roboto-Light-webfont.woff HTTP/1.0" 200 81348
+[18/Jan/2018 08:18:08] "POST /admin/login/?next=/admin/ HTTP/1.0" 302 0
+[18/Jan/2018 08:18:08] "GET /admin/ HTTP/1.0" 200 7041
+[18/Jan/2018 08:18:08] "GET /static/admin/css/dashboard.css HTTP/1.0" 200 412
+[18/Jan/2018 08:18:08] "GET /static/admin/img/icon-addlink.svg HTTP/1.0" 200 331
+[18/Jan/2018 08:18:08] "GET /static/admin/img/icon-changelink.svg HTTP/1.0" 200 380
+[18/Jan/2018 08:18:08] "GET /static/admin/fonts/Roboto-Bold-webfont.woff HTTP/1.0" 200 82564
+[18/Jan/2018 08:18:11] "GET /admin/ChristmasModel/refmodel/ HTTP/1.0" 200 9803
+[18/Jan/2018 08:18:11] "GET /static/admin/js/core.js HTTP/1.0" 200 7976
+[18/Jan/2018 08:18:11] "GET /static/admin/css/changelists.css HTTP/1.0" 200 6170
+[18/Jan/2018 08:18:11] "GET /static/admin/js/jquery.init.js HTTP/1.0" 200 363
+[18/Jan/2018 08:18:11] "GET /static/admin/js/admin/RelatedObjectLookups.js HTTP/1.0" 200 6591
+[18/Jan/2018 08:18:11] "GET /static/admin/js/actions.js HTTP/1.0" 200 6501
+[18/Jan/2018 08:18:11] "GET /static/admin/js/vendor/jquery/jquery.js HTTP/1.0" 200 258648
+[18/Jan/2018 08:18:11] "GET /static/admin/js/urlify.js HTTP/1.0" 200 8186
+[18/Jan/2018 08:18:11] "GET /admin/jsi18n/ HTTP/1.0" 200 3217
+[18/Jan/2018 08:18:11] "GET /static/admin/js/prepopulate.js HTTP/1.0" 200 1538
+[18/Jan/2018 08:18:11] "GET /static/admin/js/vendor/xregexp/xregexp.js HTTP/1.0" 200 128820
+[18/Jan/2018 08:18:14] "GET /static/admin/img/tooltag-add.svg HTTP/1.0" 200 331
+[18/Jan/2018 08:18:15] "GET /admin/ChristmasModel/refmodel/add/ HTTP/1.0" 200 4848
+[18/Jan/2018 08:18:15] "GET /static/admin/css/forms.css HTTP/1.0" 200 8173
+[18/Jan/2018 08:18:15] "GET /static/admin/js/change_form.js HTTP/1.0" 200 712
+[18/Jan/2018 08:18:15] "GET /static/admin/js/prepopulate_init.js HTTP/1.0" 200 495
+[18/Jan/2018 08:18:15] "GET /admin/jsi18n/ HTTP/1.0" 200 3217
+[18/Jan/2018 08:18:15] "GET /static/admin/css/widgets.css HTTP/1.0" 200 10340
+[18/Jan/2018 08:18:49] "POST /admin/ChristmasModel/refmodel/add/ HTTP/1.0" 302 0
+[18/Jan/2018 08:18:49] "GET /admin/ChristmasModel/refmodel/ HTTP/1.0" 200 10248
+[18/Jan/2018 08:18:49] "GET /admin/jsi18n/ HTTP/1.0" 200 3217
+[18/Jan/2018 08:18:49] "GET /static/admin/img/icon-yes.svg HTTP/1.0" 200 436
+[18/Jan/2018 08:41:46] "GET / HTTP/1.0" 200 4557
+[18/Jan/2018 08:41:48] "GET /ref HTTP/1.0" 200 8415
+[18/Jan/2018 08:41:50] "GET /admin/ HTTP/1.0" 200 7041
+[18/Jan/2018 08:41:51] "GET /admin/ChristmasModel/refmodel/ HTTP/1.0" 200 10045
+[18/Jan/2018 08:41:51] "GET /admin/jsi18n/ HTTP/1.0" 200 3217
+[18/Jan/2018 08:41:52] "GET /admin/ChristmasModel/refmodel/add/ HTTP/1.0" 200 4848
+[18/Jan/2018 08:41:53] "GET /admin/jsi18n/ HTTP/1.0" 200 3217
+[18/Jan/2018 08:42:16] "POST /admin/ChristmasModel/refmodel/add/ HTTP/1.0" 302 0
+[18/Jan/2018 08:42:17] "GET /admin/ChristmasModel/refmodel/ HTTP/1.0" 200 10490
+[18/Jan/2018 08:42:17] "GET /admin/jsi18n/ HTTP/1.0" 200 3217
+[18/Jan/2018 13:59:26] "GET / HTTP/1.0" 200 4557
+Not Found: /apple-touch-icon-precomposed.png
+[18/Jan/2018 13:59:26] "GET /apple-touch-icon-precomposed.png HTTP/1.0" 404 2561
+Not Found: /apple-touch-icon.png
+[18/Jan/2018 13:59:26] "GET /apple-touch-icon.png HTTP/1.0" 404 2525
+Not Found: /favicon.ico
+[18/Jan/2018 13:59:26] "GET /favicon.ico HTTP/1.0" 404 2498
+Not Found: /favicon.ico
+[18/Jan/2018 13:59:26] "GET /favicon.ico HTTP/1.0" 404 2498
+Not Found: /apple-touch-icon-precomposed.png
+[18/Jan/2018 13:59:26] "GET /apple-touch-icon-precomposed.png HTTP/1.0" 404 2561
+Not Found: /apple-touch-icon.png
+[18/Jan/2018 13:59:26] "GET /apple-touch-icon.png HTTP/1.0" 404 2525
+Not Found: /favicon.ico
+[18/Jan/2018 13:59:26] "GET /favicon.ico HTTP/1.0" 404 2498
+Not Found: /favicon.ico
+[18/Jan/2018 13:59:26] "GET /favicon.ico HTTP/1.0" 404 2498
+[18/Jan/2018 13:59:26] "GET / HTTP/1.0" 200 4557
+Not Found: /apple-touch-icon-precomposed.png
+[18/Jan/2018 13:59:26] "GET /apple-touch-icon-precomposed.png HTTP/1.0" 404 2561
+Not Found: /apple-touch-icon.png
+[18/Jan/2018 13:59:27] "GET /apple-touch-icon.png HTTP/1.0" 404 2525
+Not Found: /favicon.ico
+[18/Jan/2018 13:59:27] "GET /favicon.ico HTTP/1.0" 404 2498
+Not Found: /favicon.ico
+[18/Jan/2018 13:59:27] "GET /favicon.ico HTTP/1.0" 404 2498
+Not Found: /apple-touch-icon-precomposed.png
+[18/Jan/2018 13:59:27] "GET /apple-touch-icon-precomposed.png HTTP/1.0" 404 2561
+Not Found: /apple-touch-icon.png
+[18/Jan/2018 13:59:27] "GET /apple-touch-icon.png HTTP/1.0" 404 2525
+Not Found: /favicon.ico
+[18/Jan/2018 13:59:27] "GET /favicon.ico HTTP/1.0" 404 2498
+Not Found: /favicon.ico
+[18/Jan/2018 13:59:27] "GET /favicon.ico HTTP/1.0" 404 2498
+[18/Jan/2018 14:22:54] "GET / HTTP/1.0" 200 4557
+Not Found: /apple-touch-icon-precomposed.png
+[18/Jan/2018 14:22:54] "GET /apple-touch-icon-precomposed.png HTTP/1.0" 404 2561
+Not Found: /apple-touch-icon.png
+[18/Jan/2018 14:22:55] "GET /apple-touch-icon.png HTTP/1.0" 404 2525
+[18/Jan/2018 14:26:15] "GET /ref HTTP/1.0" 200 8640
+[18/Jan/2018 17:27:36] "GET / HTTP/1.0" 200 4557
+[19/Jan/2018 05:13:29] "GET / HTTP/1.0" 200 4557
+Not Found: /apple-touch-icon-precomposed.png
+[19/Jan/2018 05:13:29] "GET /apple-touch-icon-precomposed.png HTTP/1.0" 404 2561
+Not Found: /apple-touch-icon.png
+[19/Jan/2018 05:13:29] "GET /apple-touch-icon.png HTTP/1.0" 404 2525
+Not Found: /favicon.ico
+[19/Jan/2018 05:13:29] "GET /favicon.ico HTTP/1.0" 404 2498
+Not Found: /favicon.ico
+[19/Jan/2018 05:13:29] "GET /favicon.ico HTTP/1.0" 404 2498
+Not Found: /apple-touch-icon-precomposed.png
+[19/Jan/2018 05:13:29] "GET /apple-touch-icon-precomposed.png HTTP/1.0" 404 2561
+Not Found: /apple-touch-icon.png
+[19/Jan/2018 05:13:29] "GET /apple-touch-icon.png HTTP/1.0" 404 2525
+Not Found: /favicon.ico
+[19/Jan/2018 05:13:29] "GET /favicon.ico HTTP/1.0" 404 2498
+Not Found: /favicon.ico
+[19/Jan/2018 05:13:29] "GET /favicon.ico HTTP/1.0" 404 2498
+[19/Jan/2018 05:13:29] "GET / HTTP/1.0" 200 4557
+Not Found: /apple-touch-icon-precomposed.png
+[19/Jan/2018 05:13:29] "GET /apple-touch-icon-precomposed.png HTTP/1.0" 404 2561
+Not Found: /apple-touch-icon.png
+[19/Jan/2018 05:13:29] "GET /apple-touch-icon.png HTTP/1.0" 404 2525
+Not Found: /favicon.ico
+[19/Jan/2018 05:13:29] "GET /favicon.ico HTTP/1.0" 404 2498
+Not Found: /favicon.ico
+[19/Jan/2018 05:13:30] "GET /favicon.ico HTTP/1.0" 404 2498
+Not Found: /apple-touch-icon-precomposed.png
+[19/Jan/2018 05:13:30] "GET /apple-touch-icon-precomposed.png HTTP/1.0" 404 2561
+Not Found: /apple-touch-icon.png
+[19/Jan/2018 05:13:30] "GET /apple-touch-icon.png HTTP/1.0" 404 2525
+Not Found: /favicon.ico
+[19/Jan/2018 05:13:30] "GET /favicon.ico HTTP/1.0" 404 2498
+Not Found: /favicon.ico
+[19/Jan/2018 05:13:30] "GET /favicon.ico HTTP/1.0" 404 2498
+[19/Jan/2018 06:35:53] "GET / HTTP/1.0" 200 4557
+[19/Jan/2018 06:35:53] "GET /static/res/bootstrap-4.0.0/css/bootstrap.css HTTP/1.0" 200 159202
+[19/Jan/2018 06:35:53] "GET /static/res/bootstrap-4.0.0/css/bootstrap-reboot.css HTTP/1.0" 200 4964
+[19/Jan/2018 06:35:53] "GET /static/res/bootstrap-4.0.0/css/bootstrap-grid.css HTTP/1.0" 200 32403
+[19/Jan/2018 06:35:53] "GET /static/res/bootstrap-4.0.0/css/jumbotron.css HTTP/1.0" 200 107
+[19/Jan/2018 06:35:53] "GET /static/res/bootstrap-4.0.0/css/album.css HTTP/1.0" 200 790
+[19/Jan/2018 06:35:53] "GET /static/res/bootstrap-4.0.0/css/grid.css HTTP/1.0" 200 366
+[19/Jan/2018 06:35:53] "GET /static/res/bootstrap-4.0.0/js/bootstrap.min.js HTTP/1.0" 200 50564
+[19/Jan/2018 06:35:53] "GET /static/res/bootstrap-4.0.0/js/jquery-3.2.1.min.js HTTP/1.0" 200 86659
+[19/Jan/2018 06:35:53] "GET /static/res/bootstrap-markdown/js/bootstrap-markdown.js HTTP/1.0" 200 49558
+[19/Jan/2018 06:35:54] "GET /static/res/bootstrap-4.0.0/js/popper.min.js HTTP/1.0" 200 19197
+[19/Jan/2018 06:35:55] "GET /static/res/bootstrap-4.0.0/js/holder.min.js HTTP/1.0" 200 32283
+[19/Jan/2018 06:36:15] "GET /introduction HTTP/1.0" 200 4671
+[19/Jan/2018 06:36:32] "GET /work HTTP/1.0" 200 229875
+Not Found: /d/file/20160429/jide5b0n3tk.png
+[19/Jan/2018 06:36:32] "GET /d/file/20160429/jide5b0n3tk.png HTTP/1.0" 404 2558
+Not Found: /d/file/20160429/jide5b0n3tk.png
+[19/Jan/2018 06:36:33] "GET /d/file/20160429/jide5b0n3tk.png HTTP/1.0" 404 2558
+[19/Jan/2018 09:07:51] "GET / HTTP/1.0" 200 4557
+Not Found: /apple-touch-icon-precomposed.png
+[19/Jan/2018 09:07:51] "GET /apple-touch-icon-precomposed.png HTTP/1.0" 404 2561
+Not Found: /apple-touch-icon.png
+[19/Jan/2018 09:07:51] "GET /apple-touch-icon.png HTTP/1.0" 404 2525
+Not Found: /favicon.ico
+[19/Jan/2018 09:07:51] "GET /favicon.ico HTTP/1.0" 404 2498
+Not Found: /favicon.ico
+[19/Jan/2018 09:07:51] "GET /favicon.ico HTTP/1.0" 404 2498
+Not Found: /apple-touch-icon-precomposed.png
+[19/Jan/2018 09:07:51] "GET /apple-touch-icon-precomposed.png HTTP/1.0" 404 2561
+Not Found: /apple-touch-icon.png
+[19/Jan/2018 09:07:52] "GET /apple-touch-icon.png HTTP/1.0" 404 2525
+Not Found: /favicon.ico
+[19/Jan/2018 09:07:52] "GET /favicon.ico HTTP/1.0" 404 2498
+Not Found: /favicon.ico
+[19/Jan/2018 09:07:52] "GET /favicon.ico HTTP/1.0" 404 2498
+[19/Jan/2018 09:07:52] "GET / HTTP/1.0" 200 4557
+Not Found: /apple-touch-icon-precomposed.png
+[19/Jan/2018 09:07:52] "GET /apple-touch-icon-precomposed.png HTTP/1.0" 404 2561
+Not Found: /apple-touch-icon.png
+[19/Jan/2018 09:07:52] "GET /apple-touch-icon.png HTTP/1.0" 404 2525
+Not Found: /favicon.ico
+[19/Jan/2018 09:07:52] "GET /favicon.ico HTTP/1.0" 404 2498
+Not Found: /favicon.ico
+[19/Jan/2018 09:07:52] "GET /favicon.ico HTTP/1.0" 404 2498
+Not Found: /apple-touch-icon-precomposed.png
+[19/Jan/2018 09:07:52] "GET /apple-touch-icon-precomposed.png HTTP/1.0" 404 2561
+Not Found: /apple-touch-icon.png
+[19/Jan/2018 09:07:52] "GET /apple-touch-icon.png HTTP/1.0" 404 2525
+Not Found: /favicon.ico
+[19/Jan/2018 09:07:52] "GET /favicon.ico HTTP/1.0" 404 2498
+Not Found: /favicon.ico
+[19/Jan/2018 09:07:52] "GET /favicon.ico HTTP/1.0" 404 2498
+[19/Jan/2018 11:06:22] "GET / HTTP/1.0" 200 4557
+Not Found: /apple-touch-icon-precomposed.png
+[19/Jan/2018 11:06:22] "GET /apple-touch-icon-precomposed.png HTTP/1.0" 404 2561
+Not Found: /apple-touch-icon.png
+[19/Jan/2018 11:06:22] "GET /apple-touch-icon.png HTTP/1.0" 404 2525
+Not Found: /favicon.ico
+[19/Jan/2018 11:06:22] "GET /favicon.ico HTTP/1.0" 404 2498
+Not Found: /favicon.ico
+[19/Jan/2018 11:06:22] "GET /favicon.ico HTTP/1.0" 404 2498
+Not Found: /apple-touch-icon-precomposed.png
+[19/Jan/2018 11:06:22] "GET /apple-touch-icon-precomposed.png HTTP/1.0" 404 2561
+Not Found: /apple-touch-icon.png
+[19/Jan/2018 11:06:22] "GET /apple-touch-icon.png HTTP/1.0" 404 2525
+Not Found: /favicon.ico
+[19/Jan/2018 11:06:22] "GET /favicon.ico HTTP/1.0" 404 2498
+Not Found: /favicon.ico
+[19/Jan/2018 11:06:22] "GET /favicon.ico HTTP/1.0" 404 2498
+[19/Jan/2018 11:06:22] "GET / HTTP/1.0" 200 4557
+Not Found: /apple-touch-icon-precomposed.png
+[19/Jan/2018 11:06:22] "GET /apple-touch-icon-precomposed.png HTTP/1.0" 404 2561
+Not Found: /apple-touch-icon.png
+[19/Jan/2018 11:06:22] "GET /apple-touch-icon.png HTTP/1.0" 404 2525
+Not Found: /favicon.ico
+[19/Jan/2018 11:06:22] "GET /favicon.ico HTTP/1.0" 404 2498
+Not Found: /favicon.ico
+[19/Jan/2018 11:06:22] "GET /favicon.ico HTTP/1.0" 404 2498
+Not Found: /apple-touch-icon-precomposed.png
+[19/Jan/2018 11:06:22] "GET /apple-touch-icon-precomposed.png HTTP/1.0" 404 2561
+Not Found: /apple-touch-icon.png
+[19/Jan/2018 11:06:22] "GET /apple-touch-icon.png HTTP/1.0" 404 2525
+Not Found: /favicon.ico
+[19/Jan/2018 11:06:22] "GET /favicon.ico HTTP/1.0" 404 2498
+Not Found: /favicon.ico
+[19/Jan/2018 11:06:22] "GET /favicon.ico HTTP/1.0" 404 2498
+[19/Jan/2018 11:14:13] "GET / HTTP/1.0" 200 4557
+[19/Jan/2018 11:14:13] "GET /static/res/bootstrap-4.0.0/css/bootstrap.css HTTP/1.0" 200 159202
+[19/Jan/2018 11:14:13] "GET /static/res/bootstrap-4.0.0/css/bootstrap-grid.css HTTP/1.0" 200 32403
+[19/Jan/2018 11:14:13] "GET /static/res/bootstrap-4.0.0/css/bootstrap-reboot.css HTTP/1.0" 200 4964
+[19/Jan/2018 11:14:13] "GET /static/res/bootstrap-4.0.0/css/jumbotron.css HTTP/1.0" 200 107
+[19/Jan/2018 11:14:13] "GET /static/res/bootstrap-4.0.0/css/album.css HTTP/1.0" 200 790
+[19/Jan/2018 11:14:13] "GET /static/res/bootstrap-4.0.0/css/grid.css HTTP/1.0" 200 366
+[19/Jan/2018 11:14:13] "GET /static/res/bootstrap-4.0.0/js/bootstrap.min.js HTTP/1.0" 200 50564
+[19/Jan/2018 11:14:13] "GET /static/res/bootstrap-4.0.0/js/jquery-3.2.1.min.js HTTP/1.0" 200 86659
+[19/Jan/2018 11:14:13] "GET /static/res/bootstrap-markdown/js/bootstrap-markdown.js HTTP/1.0" 200 49558
+[19/Jan/2018 11:14:13] "GET /static/res/bootstrap-4.0.0/js/popper.min.js HTTP/1.0" 200 19197
+[19/Jan/2018 11:14:13] "GET /static/res/bootstrap-4.0.0/js/holder.min.js HTTP/1.0" 200 32283
+Not Found: /favicon.ico
+[19/Jan/2018 11:14:17] "GET /favicon.ico HTTP/1.0" 404 2498
+Not Found: /apple-touch-icon-precomposed.png
+[19/Jan/2018 11:14:17] "GET /apple-touch-icon-precomposed.png HTTP/1.0" 404 2561
+Not Found: /apple-touch-icon.png
+[19/Jan/2018 11:14:17] "GET /apple-touch-icon.png HTTP/1.0" 404 2525
+[19/Jan/2018 11:15:47] "GET /work HTTP/1.0" 200 229875
+Not Found: /d/file/20160429/jide5b0n3tk.png
+[19/Jan/2018 11:15:47] "GET /d/file/20160429/jide5b0n3tk.png HTTP/1.0" 404 2558
+Not Found: /d/file/20160429/jide5b0n3tk.png
+[19/Jan/2018 11:15:48] "GET /d/file/20160429/jide5b0n3tk.png HTTP/1.0" 404 2558
+[19/Jan/2018 11:15:49] "GET /ref HTTP/1.0" 200 8640
+[19/Jan/2018 11:15:50] "GET /news HTTP/1.0" 200 19335
+[19/Jan/2018 18:36:14] "GET / HTTP/1.0" 200 4557
+[20/Jan/2018 02:17:40] "GET / HTTP/1.0" 200 4557
+Not Found: /apple-touch-icon-152x152-precomposed.png
+[20/Jan/2018 02:17:41] "GET /apple-touch-icon-152x152-precomposed.png HTTP/1.0" 404 2585
+Not Found: /apple-touch-icon-152x152.png
+[20/Jan/2018 02:17:41] "GET /apple-touch-icon-152x152.png HTTP/1.0" 404 2549
+Not Found: /apple-touch-icon-precomposed.png
+[20/Jan/2018 02:17:41] "GET /apple-touch-icon-precomposed.png HTTP/1.0" 404 2561
+Not Found: /apple-touch-icon.png
+[20/Jan/2018 02:17:41] "GET /apple-touch-icon.png HTTP/1.0" 404 2525
+Not Found: /favicon.ico
+[20/Jan/2018 02:17:42] "GET /favicon.ico HTTP/1.0" 404 2498
+Not Found: /favicon.ico
+[20/Jan/2018 02:17:42] "GET /favicon.ico HTTP/1.0" 404 2498
+Not Found: /apple-touch-icon-152x152-precomposed.png
+[20/Jan/2018 02:17:42] "GET /apple-touch-icon-152x152-precomposed.png HTTP/1.0" 404 2585
+Not Found: /apple-touch-icon-152x152.png
+[20/Jan/2018 02:17:42] "GET /apple-touch-icon-152x152.png HTTP/1.0" 404 2549
+Not Found: /apple-touch-icon-precomposed.png
+[20/Jan/2018 02:17:42] "GET /apple-touch-icon-precomposed.png HTTP/1.0" 404 2561
+Not Found: /apple-touch-icon.png
+[20/Jan/2018 02:17:43] "GET /apple-touch-icon.png HTTP/1.0" 404 2525
+Not Found: /favicon.ico
+[20/Jan/2018 02:17:43] "GET /favicon.ico HTTP/1.0" 404 2498
+Not Found: /favicon.ico
+[20/Jan/2018 02:17:43] "GET /favicon.ico HTTP/1.0" 404 2498
+[20/Jan/2018 02:27:42] "GET / HTTP/1.0" 200 4557
+[20/Jan/2018 02:27:44] "GET /ref HTTP/1.0" 200 8640
+[20/Jan/2018 10:56:50] "GET / HTTP/1.0" 200 4557
+Not Found: /favicon.ico
+[20/Jan/2018 10:56:52] "GET /favicon.ico HTTP/1.0" 404 2498
+[20/Jan/2018 12:52:33] "GET / HTTP/1.0" 200 4557
+Not Found: /apple-touch-icon-152x152-precomposed.png
+[20/Jan/2018 12:53:02] "GET /apple-touch-icon-152x152-precomposed.png HTTP/1.0" 404 2585
+Not Found: /apple-touch-icon-152x152.png
+[20/Jan/2018 12:53:05] "GET /apple-touch-icon-152x152.png HTTP/1.0" 404 2549
+Not Found: /apple-touch-icon-precomposed.png
+[20/Jan/2018 12:53:15] "GET /apple-touch-icon-precomposed.png HTTP/1.0" 404 2561
+Not Found: /apple-touch-icon.png
+[20/Jan/2018 12:53:15] "GET /apple-touch-icon.png HTTP/1.0" 404 2525
+Not Found: /favicon.ico
+[20/Jan/2018 12:53:15] "GET /favicon.ico HTTP/1.0" 404 2498
+Not Found: /favicon.ico
+[20/Jan/2018 12:53:15] "GET /favicon.ico HTTP/1.0" 404 2498
+Not Found: /apple-touch-icon-152x152-precomposed.png
+[20/Jan/2018 12:53:15] "GET /apple-touch-icon-152x152-precomposed.png HTTP/1.0" 404 2585
+Not Found: /apple-touch-icon-152x152.png
+[20/Jan/2018 12:53:15] "GET /apple-touch-icon-152x152.png HTTP/1.0" 404 2549
+Not Found: /apple-touch-icon-precomposed.png
+[20/Jan/2018 12:53:15] "GET /apple-touch-icon-precomposed.png HTTP/1.0" 404 2561
+Not Found: /apple-touch-icon.png
+[20/Jan/2018 12:53:15] "GET /apple-touch-icon.png HTTP/1.0" 404 2525
+Not Found: /favicon.ico
+[20/Jan/2018 12:53:15] "GET /favicon.ico HTTP/1.0" 404 2498
+Not Found: /favicon.ico
+[20/Jan/2018 12:53:15] "GET /favicon.ico HTTP/1.0" 404 2498
+[20/Jan/2018 13:46:48] "GET / HTTP/1.0" 200 4557
+Not Found: /apple-touch-icon-precomposed.png
+[20/Jan/2018 13:46:49] "GET /apple-touch-icon-precomposed.png HTTP/1.0" 404 2561
+Not Found: /apple-touch-icon.png
+[20/Jan/2018 13:46:49] "GET /apple-touch-icon.png HTTP/1.0" 404 2525
+Not Found: /favicon.ico
+[20/Jan/2018 13:46:49] "GET /favicon.ico HTTP/1.0" 404 2498
+Not Found: /favicon.ico
+[20/Jan/2018 13:46:49] "GET /favicon.ico HTTP/1.0" 404 2498
+Not Found: /apple-touch-icon-precomposed.png
+[20/Jan/2018 13:46:49] "GET /apple-touch-icon-precomposed.png HTTP/1.0" 404 2561
+Not Found: /apple-touch-icon.png
+[20/Jan/2018 13:46:49] "GET /apple-touch-icon.png HTTP/1.0" 404 2525
+Not Found: /favicon.ico
+[20/Jan/2018 13:46:49] "GET /favicon.ico HTTP/1.0" 404 2498
+Not Found: /favicon.ico
+[20/Jan/2018 13:46:49] "GET /favicon.ico HTTP/1.0" 404 2498
+[20/Jan/2018 13:46:49] "GET / HTTP/1.0" 200 4557
+Not Found: /apple-touch-icon-precomposed.png
+[20/Jan/2018 13:46:49] "GET /apple-touch-icon-precomposed.png HTTP/1.0" 404 2561
+Not Found: /apple-touch-icon.png
+[20/Jan/2018 13:46:49] "GET /apple-touch-icon.png HTTP/1.0" 404 2525
+Not Found: /favicon.ico
+[20/Jan/2018 13:46:49] "GET /favicon.ico HTTP/1.0" 404 2498
+Not Found: /favicon.ico
+[20/Jan/2018 13:46:49] "GET /favicon.ico HTTP/1.0" 404 2498
+Not Found: /apple-touch-icon-precomposed.png
+[20/Jan/2018 13:46:50] "GET /apple-touch-icon-precomposed.png HTTP/1.0" 404 2561
+Not Found: /apple-touch-icon.png
+[20/Jan/2018 13:46:50] "GET /apple-touch-icon.png HTTP/1.0" 404 2525
+Not Found: /favicon.ico
+[20/Jan/2018 13:46:50] "GET /favicon.ico HTTP/1.0" 404 2498
+Not Found: /favicon.ico
+[20/Jan/2018 13:46:50] "GET /favicon.ico HTTP/1.0" 404 2498
+[20/Jan/2018 14:16:20] "GET / HTTP/1.0" 200 4557
+[20/Jan/2018 14:16:20] "GET /static/res/bootstrap-4.0.0/css/bootstrap.css HTTP/1.0" 200 159202
+[20/Jan/2018 14:16:20] "GET /static/res/bootstrap-4.0.0/css/bootstrap-reboot.css HTTP/1.0" 200 4964
+[20/Jan/2018 14:16:20] "GET /static/res/bootstrap-4.0.0/css/bootstrap-grid.css HTTP/1.0" 200 32403
+[20/Jan/2018 14:16:20] "GET /static/res/bootstrap-4.0.0/css/jumbotron.css HTTP/1.0" 200 107
+[20/Jan/2018 14:16:20] "GET /static/res/bootstrap-4.0.0/css/grid.css HTTP/1.0" 200 366
+[20/Jan/2018 14:16:20] "GET /static/res/bootstrap-4.0.0/css/album.css HTTP/1.0" 200 790
+[20/Jan/2018 14:16:20] "GET /static/res/bootstrap-4.0.0/js/bootstrap.min.js HTTP/1.0" 200 50564
+[20/Jan/2018 14:16:20] "GET /static/res/bootstrap-4.0.0/js/jquery-3.2.1.min.js HTTP/1.0" 200 86659
+[20/Jan/2018 14:16:20] "GET /static/res/bootstrap-markdown/js/bootstrap-markdown.js HTTP/1.0" 200 49558
+[20/Jan/2018 14:16:20] "GET /static/res/bootstrap-4.0.0/js/popper.min.js HTTP/1.0" 200 19197
+[20/Jan/2018 14:16:21] "GET /static/res/bootstrap-4.0.0/js/holder.min.js HTTP/1.0" 200 32283
+Not Found: /favicon.ico
+[20/Jan/2018 14:16:23] "GET /favicon.ico HTTP/1.0" 404 2498
+Not Found: /apple-touch-icon-precomposed.png
+[20/Jan/2018 14:16:23] "GET /apple-touch-icon-precomposed.png HTTP/1.0" 404 2561
+Not Found: /apple-touch-icon.png
+[20/Jan/2018 14:16:23] "GET /apple-touch-icon.png HTTP/1.0" 404 2525
+[20/Jan/2018 14:16:28] "GET /admin HTTP/1.0" 301 0
+[20/Jan/2018 14:16:28] "GET /admin/ HTTP/1.0" 302 0
+[20/Jan/2018 14:16:28] "GET /admin/login/?next=/admin/ HTTP/1.0" 200 1650
+[20/Jan/2018 14:16:28] "GET /static/admin/css/base.css HTTP/1.0" 200 16066
+[20/Jan/2018 14:16:28] "GET /static/admin/css/login.css HTTP/1.0" 200 1203
+[20/Jan/2018 14:16:28] "GET /static/admin/css/fonts.css HTTP/1.0" 200 423
+[20/Jan/2018 14:16:28] "GET /static/admin/fonts/Roboto-Regular-webfont.woff HTTP/1.0" 200 80304
+[20/Jan/2018 14:16:28] "GET /static/admin/fonts/Roboto-Light-webfont.woff HTTP/1.0" 200 81348
+[20/Jan/2018 14:16:31] "POST /admin/login/?next=/admin/ HTTP/1.0" 200 1810
+[20/Jan/2018 14:16:31] "GET /static/admin/fonts/Roboto-Bold-webfont.woff HTTP/1.0" 200 82564
+[20/Jan/2018 14:16:57] "POST /admin/login/?next=/admin/ HTTP/1.0" 302 0
+[20/Jan/2018 14:16:57] "GET /admin/ HTTP/1.0" 200 7041
+[20/Jan/2018 14:16:57] "GET /static/admin/css/dashboard.css HTTP/1.0" 200 412
+[20/Jan/2018 14:16:57] "GET /static/admin/img/icon-addlink.svg HTTP/1.0" 200 331
+[20/Jan/2018 14:16:57] "GET /static/admin/img/icon-changelink.svg HTTP/1.0" 200 380
+[20/Jan/2018 14:17:02] "GET /admin/ChristmasModel/refmodel/ HTTP/1.0" 200 10287
+[20/Jan/2018 14:17:03] "GET /static/admin/css/changelists.css HTTP/1.0" 200 6170
+[20/Jan/2018 14:17:03] "GET /static/admin/js/core.js HTTP/1.0" 200 7976
+[20/Jan/2018 14:17:03] "GET /static/admin/js/vendor/jquery/jquery.js HTTP/1.0" 200 258648
+[20/Jan/2018 14:17:03] "GET /static/admin/js/jquery.init.js HTTP/1.0" 200 363
+[20/Jan/2018 14:17:03] "GET /static/admin/js/admin/RelatedObjectLookups.js HTTP/1.0" 200 6591
+[20/Jan/2018 14:17:03] "GET /admin/jsi18n/ HTTP/1.0" 200 3217
+[20/Jan/2018 14:17:03] "GET /static/admin/js/actions.js HTTP/1.0" 200 6501
+[20/Jan/2018 14:17:03] "GET /static/admin/js/urlify.js HTTP/1.0" 200 8186
+[20/Jan/2018 14:17:03] "GET /static/admin/js/prepopulate.js HTTP/1.0" 200 1538
+[20/Jan/2018 14:17:03] "GET /static/admin/js/vendor/xregexp/xregexp.js HTTP/1.0" 200 128820
+[20/Jan/2018 14:17:05] "GET /static/admin/img/tooltag-add.svg HTTP/1.0" 200 331
+[20/Jan/2018 14:17:09] "GET /admin/ChristmasModel/refmodel/add/ HTTP/1.0" 200 4848
+[20/Jan/2018 14:17:10] "GET /static/admin/css/forms.css HTTP/1.0" 200 8173
+[20/Jan/2018 14:17:10] "GET /static/admin/js/change_form.js HTTP/1.0" 200 712
+[20/Jan/2018 14:17:10] "GET /static/admin/js/prepopulate_init.js HTTP/1.0" 200 495
+[20/Jan/2018 14:17:10] "GET /admin/jsi18n/ HTTP/1.0" 200 3217
+[20/Jan/2018 14:17:10] "GET /static/admin/css/widgets.css HTTP/1.0" 200 10340
+[20/Jan/2018 14:17:29] "POST /admin/ChristmasModel/refmodel/add/ HTTP/1.0" 302 0
+[20/Jan/2018 14:17:30] "GET /admin/ChristmasModel/refmodel/ HTTP/1.0" 200 10732
+[20/Jan/2018 14:17:30] "GET /admin/jsi18n/ HTTP/1.0" 200 3217
+[20/Jan/2018 14:17:30] "GET /static/admin/img/icon-yes.svg HTTP/1.0" 200 436
+[20/Jan/2018 15:02:55] "GET / HTTP/1.0" 200 4557
+[20/Jan/2018 15:03:06] "GET /news HTTP/1.0" 200 18582
+[20/Jan/2018 15:32:55] "GET / HTTP/1.0" 200 4557
+Not Found: /apple-touch-icon-152x152-precomposed.png
+[20/Jan/2018 15:32:56] "GET /apple-touch-icon-152x152-precomposed.png HTTP/1.0" 404 2585
+Not Found: /apple-touch-icon-152x152.png
+[20/Jan/2018 15:32:56] "GET /apple-touch-icon-152x152.png HTTP/1.0" 404 2549
+Not Found: /apple-touch-icon-precomposed.png
+[20/Jan/2018 15:32:56] "GET /apple-touch-icon-precomposed.png HTTP/1.0" 404 2561
+Not Found: /apple-touch-icon.png
+[20/Jan/2018 15:32:56] "GET /apple-touch-icon.png HTTP/1.0" 404 2525
+Not Found: /favicon.ico
+[20/Jan/2018 15:32:56] "GET /favicon.ico HTTP/1.0" 404 2498
+Not Found: /favicon.ico
+[20/Jan/2018 15:32:56] "GET /favicon.ico HTTP/1.0" 404 2498
+Not Found: /apple-touch-icon-152x152-precomposed.png
+[20/Jan/2018 15:32:56] "GET /apple-touch-icon-152x152-precomposed.png HTTP/1.0" 404 2585
+Not Found: /apple-touch-icon-152x152.png
+[20/Jan/2018 15:32:56] "GET /apple-touch-icon-152x152.png HTTP/1.0" 404 2549
+Not Found: /apple-touch-icon-precomposed.png
+[20/Jan/2018 15:32:56] "GET /apple-touch-icon-precomposed.png HTTP/1.0" 404 2561
+Not Found: /apple-touch-icon.png
+[20/Jan/2018 15:32:56] "GET /apple-touch-icon.png HTTP/1.0" 404 2525
+Not Found: /favicon.ico
+[20/Jan/2018 15:32:56] "GET /favicon.ico HTTP/1.0" 404 2498
+Not Found: /favicon.ico
+[20/Jan/2018 15:32:56] "GET /favicon.ico HTTP/1.0" 404 2498
+[20/Jan/2018 17:54:47] "GET / HTTP/1.0" 200 4557
+[20/Jan/2018 19:38:05] "GET / HTTP/1.0" 200 4557
+Not Found: /apple-touch-icon-152x152-precomposed.png
+[20/Jan/2018 19:38:07] "GET /apple-touch-icon-152x152-precomposed.png HTTP/1.0" 404 2585
+Not Found: /apple-touch-icon-152x152.png
+[20/Jan/2018 19:38:07] "GET /apple-touch-icon-152x152.png HTTP/1.0" 404 2549
+Not Found: /apple-touch-icon-precomposed.png
+[20/Jan/2018 19:38:07] "GET /apple-touch-icon-precomposed.png HTTP/1.0" 404 2561
+Not Found: /apple-touch-icon.png
+[20/Jan/2018 19:38:07] "GET /apple-touch-icon.png HTTP/1.0" 404 2525
+Not Found: /favicon.ico
+[20/Jan/2018 19:38:07] "GET /favicon.ico HTTP/1.0" 404 2498
+Not Found: /favicon.ico
+[20/Jan/2018 19:38:07] "GET /favicon.ico HTTP/1.0" 404 2498
+Not Found: /apple-touch-icon-152x152-precomposed.png
+[20/Jan/2018 19:38:07] "GET /apple-touch-icon-152x152-precomposed.png HTTP/1.0" 404 2585
+Not Found: /apple-touch-icon-152x152.png
+[20/Jan/2018 19:38:07] "GET /apple-touch-icon-152x152.png HTTP/1.0" 404 2549
+Not Found: /apple-touch-icon-precomposed.png
+[20/Jan/2018 19:38:07] "GET /apple-touch-icon-precomposed.png HTTP/1.0" 404 2561
+Not Found: /apple-touch-icon.png
+[20/Jan/2018 19:38:07] "GET /apple-touch-icon.png HTTP/1.0" 404 2525
+Not Found: /favicon.ico
+[20/Jan/2018 19:38:07] "GET /favicon.ico HTTP/1.0" 404 2498
+Not Found: /favicon.ico
+[20/Jan/2018 19:38:07] "GET /favicon.ico HTTP/1.0" 404 2498
+[21/Jan/2018 04:31:03] "GET / HTTP/1.0" 200 4557
+Not Found: /apple-touch-icon-precomposed.png
+[21/Jan/2018 04:31:03] "GET /apple-touch-icon-precomposed.png HTTP/1.0" 404 2561
+Not Found: /apple-touch-icon.png
+[21/Jan/2018 04:31:03] "GET /apple-touch-icon.png HTTP/1.0" 404 2525
+Not Found: /favicon.ico
+[21/Jan/2018 04:31:03] "GET /favicon.ico HTTP/1.0" 404 2498
+Not Found: /favicon.ico
+[21/Jan/2018 04:31:03] "GET /favicon.ico HTTP/1.0" 404 2498
+Not Found: /apple-touch-icon-precomposed.png
+[21/Jan/2018 04:31:03] "GET /apple-touch-icon-precomposed.png HTTP/1.0" 404 2561
+Not Found: /apple-touch-icon.png
+[21/Jan/2018 04:31:03] "GET /apple-touch-icon.png HTTP/1.0" 404 2525
+Not Found: /favicon.ico
+[21/Jan/2018 04:31:03] "GET /favicon.ico HTTP/1.0" 404 2498
+Not Found: /favicon.ico
+[21/Jan/2018 04:31:03] "GET /favicon.ico HTTP/1.0" 404 2498
+[21/Jan/2018 04:31:03] "GET / HTTP/1.0" 200 4557
+Not Found: /apple-touch-icon-precomposed.png
+[21/Jan/2018 04:31:03] "GET /apple-touch-icon-precomposed.png HTTP/1.0" 404 2561
+Not Found: /apple-touch-icon.png
+[21/Jan/2018 04:31:03] "GET /apple-touch-icon.png HTTP/1.0" 404 2525
+Not Found: /favicon.ico
+[21/Jan/2018 04:31:03] "GET /favicon.ico HTTP/1.0" 404 2498
+Not Found: /favicon.ico
+[21/Jan/2018 04:31:03] "GET /favicon.ico HTTP/1.0" 404 2498
+Not Found: /apple-touch-icon-precomposed.png
+[21/Jan/2018 04:31:03] "GET /apple-touch-icon-precomposed.png HTTP/1.0" 404 2561
+Not Found: /apple-touch-icon.png
+[21/Jan/2018 04:31:04] "GET /apple-touch-icon.png HTTP/1.0" 404 2525
+Not Found: /favicon.ico
+[21/Jan/2018 04:31:04] "GET /favicon.ico HTTP/1.0" 404 2498
+Not Found: /favicon.ico
+[21/Jan/2018 04:31:04] "GET /favicon.ico HTTP/1.0" 404 2498
+[21/Jan/2018 08:42:52] "GET / HTTP/1.0" 200 4557
+Not Found: /apple-touch-icon-precomposed.png
+[21/Jan/2018 08:42:54] "GET /apple-touch-icon-precomposed.png HTTP/1.0" 404 2561
+Not Found: /apple-touch-icon.png
+[21/Jan/2018 08:42:54] "GET /apple-touch-icon.png HTTP/1.0" 404 2525
+Not Found: /favicon.ico
+[21/Jan/2018 08:42:54] "GET /favicon.ico HTTP/1.0" 404 2498
+Not Found: /favicon.ico
+[21/Jan/2018 08:42:55] "GET /favicon.ico HTTP/1.0" 404 2498
+Not Found: /apple-touch-icon-precomposed.png
+[21/Jan/2018 08:42:55] "GET /apple-touch-icon-precomposed.png HTTP/1.0" 404 2561
+Not Found: /apple-touch-icon.png
+[21/Jan/2018 08:42:55] "GET /apple-touch-icon.png HTTP/1.0" 404 2525
+Not Found: /favicon.ico
+[21/Jan/2018 08:42:55] "GET /favicon.ico HTTP/1.0" 404 2498
+Not Found: /favicon.ico
+[21/Jan/2018 08:42:55] "GET /favicon.ico HTTP/1.0" 404 2498
+[21/Jan/2018 08:42:55] "GET / HTTP/1.0" 200 4557
+Not Found: /apple-touch-icon-precomposed.png
+[21/Jan/2018 08:42:56] "GET /apple-touch-icon-precomposed.png HTTP/1.0" 404 2561
+Not Found: /apple-touch-icon.png
+[21/Jan/2018 08:42:56] "GET /apple-touch-icon.png HTTP/1.0" 404 2525
+Not Found: /favicon.ico
+[21/Jan/2018 08:42:56] "GET /favicon.ico HTTP/1.0" 404 2498
+Not Found: /favicon.ico
+[21/Jan/2018 08:43:11] "GET /favicon.ico HTTP/1.0" 404 2498
+Not Found: /apple-touch-icon-precomposed.png
+[21/Jan/2018 08:43:11] "GET /apple-touch-icon-precomposed.png HTTP/1.0" 404 2561
+Not Found: /apple-touch-icon.png
+[21/Jan/2018 08:43:11] "GET /apple-touch-icon.png HTTP/1.0" 404 2525
+Not Found: /favicon.ico
+[21/Jan/2018 08:43:12] "GET /favicon.ico HTTP/1.0" 404 2498
+Not Found: /favicon.ico
+[21/Jan/2018 08:43:42] "GET /favicon.ico HTTP/1.0" 404 2498
+[21/Jan/2018 14:57:34] "GET / HTTP/1.0" 200 4557
+Not Found: /apple-touch-icon-precomposed.png
+[21/Jan/2018 14:57:34] "GET /apple-touch-icon-precomposed.png HTTP/1.0" 404 2561
+Not Found: /apple-touch-icon.png
+[21/Jan/2018 14:57:35] "GET /apple-touch-icon.png HTTP/1.0" 404 2525
+Not Found: /favicon.ico
+[21/Jan/2018 14:57:35] "GET /favicon.ico HTTP/1.0" 404 2498
+Not Found: /favicon.ico
+[21/Jan/2018 14:57:35] "GET /favicon.ico HTTP/1.0" 404 2498
+Not Found: /apple-touch-icon-precomposed.png
+[21/Jan/2018 14:57:36] "GET /apple-touch-icon-precomposed.png HTTP/1.0" 404 2561
+Not Found: /apple-touch-icon.png
+[21/Jan/2018 14:57:36] "GET /apple-touch-icon.png HTTP/1.0" 404 2525
+Not Found: /favicon.ico
+[21/Jan/2018 14:57:36] "GET /favicon.ico HTTP/1.0" 404 2498
+Not Found: /favicon.ico
+[21/Jan/2018 14:57:36] "GET /favicon.ico HTTP/1.0" 404 2498
+[21/Jan/2018 14:57:36] "GET / HTTP/1.0" 200 4557
+Not Found: /apple-touch-icon-precomposed.png
+[21/Jan/2018 14:57:36] "GET /apple-touch-icon-precomposed.png HTTP/1.0" 404 2561
+Not Found: /apple-touch-icon.png
+[21/Jan/2018 14:57:36] "GET /apple-touch-icon.png HTTP/1.0" 404 2525
+Not Found: /favicon.ico
+[21/Jan/2018 14:57:36] "GET /favicon.ico HTTP/1.0" 404 2498
+Not Found: /favicon.ico
+[21/Jan/2018 14:57:36] "GET /favicon.ico HTTP/1.0" 404 2498
+Not Found: /apple-touch-icon-precomposed.png
+[21/Jan/2018 14:57:36] "GET /apple-touch-icon-precomposed.png HTTP/1.0" 404 2561
+Not Found: /apple-touch-icon.png
+[21/Jan/2018 14:57:36] "GET /apple-touch-icon.png HTTP/1.0" 404 2525
+Not Found: /favicon.ico
+[21/Jan/2018 14:57:36] "GET /favicon.ico HTTP/1.0" 404 2498
+Not Found: /favicon.ico
+[21/Jan/2018 14:57:36] "GET /favicon.ico HTTP/1.0" 404 2498
+[21/Jan/2018 16:01:49] "GET / HTTP/1.0" 200 4557
+Not Found: /apple-touch-icon-precomposed.png
+[21/Jan/2018 16:01:49] "GET /apple-touch-icon-precomposed.png HTTP/1.0" 404 2561
+Not Found: /apple-touch-icon.png
+[21/Jan/2018 16:01:49] "GET /apple-touch-icon.png HTTP/1.0" 404 2525
+Not Found: /favicon.ico
+[21/Jan/2018 16:01:49] "GET /favicon.ico HTTP/1.0" 404 2498
+Not Found: /favicon.ico
+[21/Jan/2018 16:01:49] "GET /favicon.ico HTTP/1.0" 404 2498
+Not Found: /apple-touch-icon-precomposed.png
+[21/Jan/2018 16:01:49] "GET /apple-touch-icon-precomposed.png HTTP/1.0" 404 2561
+Not Found: /apple-touch-icon.png
+[21/Jan/2018 16:01:49] "GET /apple-touch-icon.png HTTP/1.0" 404 2525
+Not Found: /favicon.ico
+[21/Jan/2018 16:01:49] "GET /favicon.ico HTTP/1.0" 404 2498
+Not Found: /favicon.ico
+[21/Jan/2018 16:01:49] "GET /favicon.ico HTTP/1.0" 404 2498
+[21/Jan/2018 16:01:49] "GET / HTTP/1.0" 200 4557
+Not Found: /apple-touch-icon-precomposed.png
+[21/Jan/2018 16:01:49] "GET /apple-touch-icon-precomposed.png HTTP/1.0" 404 2561
+Not Found: /apple-touch-icon.png
+[21/Jan/2018 16:01:49] "GET /apple-touch-icon.png HTTP/1.0" 404 2525
+Not Found: /favicon.ico
+[21/Jan/2018 16:01:49] "GET /favicon.ico HTTP/1.0" 404 2498
+Not Found: /favicon.ico
+[21/Jan/2018 16:01:49] "GET /favicon.ico HTTP/1.0" 404 2498
+Not Found: /apple-touch-icon-precomposed.png
+[21/Jan/2018 16:01:49] "GET /apple-touch-icon-precomposed.png HTTP/1.0" 404 2561
+Not Found: /apple-touch-icon.png
+[21/Jan/2018 16:01:49] "GET /apple-touch-icon.png HTTP/1.0" 404 2525
+Not Found: /favicon.ico
+[21/Jan/2018 16:01:49] "GET /favicon.ico HTTP/1.0" 404 2498
+Not Found: /favicon.ico
+[21/Jan/2018 16:01:49] "GET /favicon.ico HTTP/1.0" 404 2498
+[21/Jan/2018 16:15:58] "GET / HTTP/1.0" 200 4557
+Not Found: /apple-touch-icon-152x152-precomposed.png
+[21/Jan/2018 16:15:59] "GET /apple-touch-icon-152x152-precomposed.png HTTP/1.0" 404 2585
+Not Found: /apple-touch-icon-152x152.png
+[21/Jan/2018 16:15:59] "GET /apple-touch-icon-152x152.png HTTP/1.0" 404 2549
+Not Found: /apple-touch-icon-precomposed.png
+[21/Jan/2018 16:15:59] "GET /apple-touch-icon-precomposed.png HTTP/1.0" 404 2561
+Not Found: /apple-touch-icon.png
+[21/Jan/2018 16:16:00] "GET /apple-touch-icon.png HTTP/1.0" 404 2525
+Not Found: /favicon.ico
+[21/Jan/2018 16:16:00] "GET /favicon.ico HTTP/1.0" 404 2498
+Not Found: /favicon.ico
+[21/Jan/2018 16:16:00] "GET /favicon.ico HTTP/1.0" 404 2498
+Not Found: /apple-touch-icon-152x152-precomposed.png
+[21/Jan/2018 16:16:00] "GET /apple-touch-icon-152x152-precomposed.png HTTP/1.0" 404 2585
+Not Found: /apple-touch-icon-152x152.png
+[21/Jan/2018 16:16:00] "GET /apple-touch-icon-152x152.png HTTP/1.0" 404 2549
+Not Found: /apple-touch-icon-precomposed.png
+[21/Jan/2018 16:16:00] "GET /apple-touch-icon-precomposed.png HTTP/1.0" 404 2561
+Not Found: /apple-touch-icon.png
+[21/Jan/2018 16:16:00] "GET /apple-touch-icon.png HTTP/1.0" 404 2525
+Not Found: /favicon.ico
+[21/Jan/2018 16:16:00] "GET /favicon.ico HTTP/1.0" 404 2498
+Not Found: /favicon.ico
+[21/Jan/2018 16:16:00] "GET /favicon.ico HTTP/1.0" 404 2498
+[21/Jan/2018 18:50:17] "GET / HTTP/1.0" 200 4557
+[22/Jan/2018 03:05:28] "GET / HTTP/1.0" 200 4557
+[22/Jan/2018 03:05:28] "GET /static/res/bootstrap-4.0.0/css/bootstrap.css HTTP/1.0" 304 0
+[22/Jan/2018 03:05:28] "GET /static/res/bootstrap-4.0.0/css/bootstrap-grid.css HTTP/1.0" 304 0
+[22/Jan/2018 03:05:28] "GET /static/res/bootstrap-4.0.0/css/jumbotron.css HTTP/1.0" 304 0
+[22/Jan/2018 03:05:28] "GET /static/res/bootstrap-4.0.0/css/bootstrap-reboot.css HTTP/1.0" 304 0
+[22/Jan/2018 03:05:28] "GET /static/res/bootstrap-4.0.0/js/bootstrap.min.js HTTP/1.0" 304 0
+[22/Jan/2018 03:05:28] "GET /static/res/bootstrap-4.0.0/css/album.css HTTP/1.0" 304 0
+[22/Jan/2018 03:05:28] "GET /static/res/bootstrap-4.0.0/css/grid.css HTTP/1.0" 304 0
+[22/Jan/2018 03:05:28] "GET /static/res/bootstrap-4.0.0/js/holder.min.js HTTP/1.0" 304 0
+[22/Jan/2018 03:05:28] "GET /static/res/bootstrap-4.0.0/js/jquery-3.2.1.min.js HTTP/1.0" 304 0
+[22/Jan/2018 03:05:28] "GET /static/res/bootstrap-markdown/js/bootstrap-markdown.js HTTP/1.0" 304 0
+[22/Jan/2018 03:05:28] "GET /static/res/bootstrap-4.0.0/js/popper.min.js HTTP/1.0" 304 0
+Not Found: /favicon.ico
+[22/Jan/2018 03:05:28] "GET /favicon.ico HTTP/1.0" 404 2498
+[22/Jan/2018 03:05:30] "GET /news HTTP/1.0" 200 18791
+[22/Jan/2018 03:05:31] "GET /ref HTTP/1.0" 200 8852
+[22/Jan/2018 12:29:58] "GET / HTTP/1.0" 200 4557
+Not Found: /apple-touch-icon-precomposed.png
+[22/Jan/2018 12:29:58] "GET /apple-touch-icon-precomposed.png HTTP/1.0" 404 2561
+Not Found: /apple-touch-icon.png
+[22/Jan/2018 12:29:58] "GET /apple-touch-icon.png HTTP/1.0" 404 2525
+Not Found: /favicon.ico
+[22/Jan/2018 12:29:58] "GET /favicon.ico HTTP/1.0" 404 2498
+Not Found: /favicon.ico
+[22/Jan/2018 12:29:58] "GET /favicon.ico HTTP/1.0" 404 2498
+Not Found: /apple-touch-icon-precomposed.png
+[22/Jan/2018 12:29:58] "GET /apple-touch-icon-precomposed.png HTTP/1.0" 404 2561
+Not Found: /apple-touch-icon.png
+[22/Jan/2018 12:29:58] "GET /apple-touch-icon.png HTTP/1.0" 404 2525
+Not Found: /favicon.ico
+[22/Jan/2018 12:29:58] "GET /favicon.ico HTTP/1.0" 404 2498
+Not Found: /favicon.ico
+[22/Jan/2018 12:29:59] "GET /favicon.ico HTTP/1.0" 404 2498
+[22/Jan/2018 12:29:59] "GET / HTTP/1.0" 200 4557
+Not Found: /apple-touch-icon-precomposed.png
+[22/Jan/2018 12:29:59] "GET /apple-touch-icon-precomposed.png HTTP/1.0" 404 2561
+Not Found: /apple-touch-icon.png
+[22/Jan/2018 12:29:59] "GET /apple-touch-icon.png HTTP/1.0" 404 2525
+Not Found: /favicon.ico
+[22/Jan/2018 12:29:59] "GET /favicon.ico HTTP/1.0" 404 2498
+Not Found: /favicon.ico
+[22/Jan/2018 12:29:59] "GET /favicon.ico HTTP/1.0" 404 2498
+Not Found: /apple-touch-icon-precomposed.png
+[22/Jan/2018 12:29:59] "GET /apple-touch-icon-precomposed.png HTTP/1.0" 404 2561
+Not Found: /apple-touch-icon.png
+[22/Jan/2018 12:29:59] "GET /apple-touch-icon.png HTTP/1.0" 404 2525
+Not Found: /favicon.ico
+[22/Jan/2018 12:29:59] "GET /favicon.ico HTTP/1.0" 404 2498
+Not Found: /favicon.ico
+[22/Jan/2018 12:29:59] "GET /favicon.ico HTTP/1.0" 404 2498
+[22/Jan/2018 13:53:29] "GET / HTTP/1.0" 200 4557
+Not Found: /apple-touch-icon-152x152-precomposed.png
+[22/Jan/2018 13:53:30] "GET /apple-touch-icon-152x152-precomposed.png HTTP/1.0" 404 2585
+Not Found: /apple-touch-icon-152x152.png
+[22/Jan/2018 13:53:30] "GET /apple-touch-icon-152x152.png HTTP/1.0" 404 2549
+Not Found: /apple-touch-icon-precomposed.png
+[22/Jan/2018 13:53:30] "GET /apple-touch-icon-precomposed.png HTTP/1.0" 404 2561
+Not Found: /apple-touch-icon.png
+[22/Jan/2018 13:53:30] "GET /apple-touch-icon.png HTTP/1.0" 404 2525
+Not Found: /favicon.ico
+[22/Jan/2018 13:53:30] "GET /favicon.ico HTTP/1.0" 404 2498
+Not Found: /favicon.ico
+[22/Jan/2018 13:53:31] "GET /favicon.ico HTTP/1.0" 404 2498
+Not Found: /apple-touch-icon-152x152-precomposed.png
+[22/Jan/2018 13:53:32] "GET /apple-touch-icon-152x152-precomposed.png HTTP/1.0" 404 2585
+Not Found: /apple-touch-icon-152x152.png
+[22/Jan/2018 13:53:33] "GET /apple-touch-icon-152x152.png HTTP/1.0" 404 2549
+Not Found: /apple-touch-icon-precomposed.png
+[22/Jan/2018 13:53:33] "GET /apple-touch-icon-precomposed.png HTTP/1.0" 404 2561
+Not Found: /apple-touch-icon.png
+[22/Jan/2018 13:53:34] "GET /apple-touch-icon.png HTTP/1.0" 404 2525
+Not Found: /favicon.ico
+[22/Jan/2018 13:53:34] "GET /favicon.ico HTTP/1.0" 404 2498
+Not Found: /favicon.ico
+[22/Jan/2018 13:53:34] "GET /favicon.ico HTTP/1.0" 404 2498
+[22/Jan/2018 18:10:09] "GET / HTTP/1.0" 200 4557
+[23/Jan/2018 01:03:54] "GET / HTTP/1.0" 200 4557
+Not Found: /apple-touch-icon-152x152-precomposed.png
+[23/Jan/2018 01:03:55] "GET /apple-touch-icon-152x152-precomposed.png HTTP/1.0" 404 2585
+Not Found: /apple-touch-icon-152x152.png
+[23/Jan/2018 01:03:55] "GET /apple-touch-icon-152x152.png HTTP/1.0" 404 2549
+Not Found: /apple-touch-icon-precomposed.png
+[23/Jan/2018 01:03:55] "GET /apple-touch-icon-precomposed.png HTTP/1.0" 404 2561
+Not Found: /apple-touch-icon.png
+[23/Jan/2018 01:03:55] "GET /apple-touch-icon.png HTTP/1.0" 404 2525
+Not Found: /favicon.ico
+[23/Jan/2018 01:03:55] "GET /favicon.ico HTTP/1.0" 404 2498
+Not Found: /favicon.ico
+[23/Jan/2018 01:03:55] "GET /favicon.ico HTTP/1.0" 404 2498
+Not Found: /apple-touch-icon-152x152-precomposed.png
+[23/Jan/2018 01:03:55] "GET /apple-touch-icon-152x152-precomposed.png HTTP/1.0" 404 2585
+Not Found: /apple-touch-icon-152x152.png
+[23/Jan/2018 01:03:55] "GET /apple-touch-icon-152x152.png HTTP/1.0" 404 2549
+Not Found: /apple-touch-icon-precomposed.png
+[23/Jan/2018 01:03:55] "GET /apple-touch-icon-precomposed.png HTTP/1.0" 404 2561
+Not Found: /apple-touch-icon.png
+[23/Jan/2018 01:03:55] "GET /apple-touch-icon.png HTTP/1.0" 404 2525
+Not Found: /favicon.ico
+[23/Jan/2018 01:03:55] "GET /favicon.ico HTTP/1.0" 404 2498
+Not Found: /favicon.ico
+[23/Jan/2018 01:03:55] "GET /favicon.ico HTTP/1.0" 404 2498
+[23/Jan/2018 04:10:52] "GET / HTTP/1.0" 200 4557
+[23/Jan/2018 04:10:52] "GET /static/res/bootstrap-4.0.0/css/bootstrap.css HTTP/1.0" 200 159202
+[23/Jan/2018 04:10:52] "GET /static/res/bootstrap-4.0.0/css/bootstrap-reboot.css HTTP/1.0" 200 4964
+[23/Jan/2018 04:10:52] "GET /static/res/bootstrap-4.0.0/css/jumbotron.css HTTP/1.0" 200 107
+[23/Jan/2018 04:10:52] "GET /static/res/bootstrap-4.0.0/css/bootstrap-grid.css HTTP/1.0" 200 32403
+[23/Jan/2018 04:10:52] "GET /static/res/bootstrap-4.0.0/css/album.css HTTP/1.0" 200 790
+[23/Jan/2018 04:10:52] "GET /static/res/bootstrap-4.0.0/css/grid.css HTTP/1.0" 200 366
+[23/Jan/2018 04:10:52] "GET /static/res/bootstrap-4.0.0/js/bootstrap.min.js HTTP/1.0" 200 50564
+[23/Jan/2018 04:10:52] "GET /static/res/bootstrap-4.0.0/js/jquery-3.2.1.min.js HTTP/1.0" 200 86659
+[23/Jan/2018 04:10:52] "GET /static/res/bootstrap-4.0.0/js/popper.min.js HTTP/1.0" 200 19197
+[23/Jan/2018 04:10:52] "GET /static/res/bootstrap-markdown/js/bootstrap-markdown.js HTTP/1.0" 200 49558
+[23/Jan/2018 04:10:52] "GET /static/res/bootstrap-4.0.0/js/holder.min.js HTTP/1.0" 200 32283
+Not Found: /favicon.ico
+[23/Jan/2018 04:10:56] "GET /favicon.ico HTTP/1.0" 404 2498
+[23/Jan/2018 04:11:01] "GET /news HTTP/1.0" 200 19699
+[23/Jan/2018 05:41:49] "GET / HTTP/1.0" 200 4557
+[23/Jan/2018 05:41:49] "GET /static/res/bootstrap-4.0.0/css/bootstrap.css HTTP/1.0" 200 159202
+[23/Jan/2018 05:41:49] "GET /static/res/bootstrap-4.0.0/css/bootstrap-grid.css HTTP/1.0" 200 32403
+[23/Jan/2018 05:41:49] "GET /static/res/bootstrap-4.0.0/css/album.css HTTP/1.0" 200 790
+[23/Jan/2018 05:41:49] "GET /static/res/bootstrap-4.0.0/css/grid.css HTTP/1.0" 200 366
+[23/Jan/2018 05:41:49] "GET /static/res/bootstrap-4.0.0/css/bootstrap-reboot.css HTTP/1.0" 200 4964
+[23/Jan/2018 05:41:49] "GET /static/res/bootstrap-4.0.0/css/jumbotron.css HTTP/1.0" 200 107
+[23/Jan/2018 05:41:49] "GET /static/res/bootstrap-4.0.0/js/jquery-3.2.1.min.js HTTP/1.0" 200 86659
+[23/Jan/2018 05:41:49] "GET /static/res/bootstrap-4.0.0/js/bootstrap.min.js HTTP/1.0" 200 50564
+[23/Jan/2018 05:41:49] "GET /static/res/bootstrap-markdown/js/bootstrap-markdown.js HTTP/1.0" 200 49558
+[23/Jan/2018 05:41:49] "GET /static/res/bootstrap-4.0.0/js/popper.min.js HTTP/1.0" 200 19197
+[23/Jan/2018 05:41:50] "GET /static/res/bootstrap-4.0.0/js/holder.min.js HTTP/1.0" 200 32283
+Not Found: /favicon.ico
+[23/Jan/2018 05:41:54] "GET /favicon.ico HTTP/1.0" 404 2498
+[23/Jan/2018 05:41:56] "GET /ref HTTP/1.0" 200 8852
+[23/Jan/2018 07:10:32] "GET / HTTP/1.0" 200 4557
+[23/Jan/2018 07:10:34] "GET /admin HTTP/1.0" 301 0
+[23/Jan/2018 07:10:34] "GET /admin/ HTTP/1.0" 302 0
+[23/Jan/2018 07:10:34] "GET /admin/login/?next=/admin/ HTTP/1.0" 200 1650
+[23/Jan/2018 07:10:34] "GET /static/admin/css/login.css HTTP/1.0" 200 1203
+[23/Jan/2018 07:10:34] "GET /static/admin/css/base.css HTTP/1.0" 200 16066
+[23/Jan/2018 07:10:34] "GET /static/admin/css/fonts.css HTTP/1.0" 200 423
+[23/Jan/2018 07:10:34] "GET /static/admin/fonts/Roboto-Regular-webfont.woff HTTP/1.0" 200 80304
+[23/Jan/2018 07:10:34] "GET /static/admin/fonts/Roboto-Light-webfont.woff HTTP/1.0" 200 81348
+[23/Jan/2018 07:10:39] "POST /admin/login/?next=/admin/ HTTP/1.0" 302 0
+[23/Jan/2018 07:10:39] "GET /admin/ HTTP/1.0" 200 7041
+[23/Jan/2018 07:10:39] "GET /static/admin/css/dashboard.css HTTP/1.0" 200 412
+[23/Jan/2018 07:10:39] "GET /static/admin/img/icon-addlink.svg HTTP/1.0" 200 331
+[23/Jan/2018 07:10:39] "GET /static/admin/fonts/Roboto-Bold-webfont.woff HTTP/1.0" 200 82564
+[23/Jan/2018 07:10:39] "GET /static/admin/img/icon-changelink.svg HTTP/1.0" 200 380
+[23/Jan/2018 07:10:41] "GET /admin/ChristmasModel/refmodel/ HTTP/1.0" 200 10529
+[23/Jan/2018 07:10:41] "GET /static/admin/css/changelists.css HTTP/1.0" 200 6170
+[23/Jan/2018 07:10:41] "GET /static/admin/js/core.js HTTP/1.0" 200 7976
+[23/Jan/2018 07:10:41] "GET /static/admin/js/jquery.init.js HTTP/1.0" 200 363
+[23/Jan/2018 07:10:41] "GET /static/admin/js/vendor/jquery/jquery.js HTTP/1.0" 200 258648
+[23/Jan/2018 07:10:41] "GET /static/admin/js/admin/RelatedObjectLookups.js HTTP/1.0" 200 6591
+[23/Jan/2018 07:10:41] "GET /admin/jsi18n/ HTTP/1.0" 200 3217
+[23/Jan/2018 07:10:41] "GET /static/admin/js/actions.js HTTP/1.0" 200 6501
+[23/Jan/2018 07:10:41] "GET /static/admin/js/urlify.js HTTP/1.0" 200 8186
+[23/Jan/2018 07:10:41] "GET /static/admin/js/prepopulate.js HTTP/1.0" 200 1538
+[23/Jan/2018 07:10:41] "GET /static/admin/js/vendor/xregexp/xregexp.js HTTP/1.0" 200 128820
+[23/Jan/2018 07:10:43] "GET /static/admin/img/tooltag-add.svg HTTP/1.0" 200 331
+[23/Jan/2018 07:10:46] "GET /admin/ChristmasModel/refmodel/add/ HTTP/1.0" 200 4848
+[23/Jan/2018 07:10:46] "GET /static/admin/css/forms.css HTTP/1.0" 200 8173
+[23/Jan/2018 07:10:46] "GET /static/admin/js/change_form.js HTTP/1.0" 200 712
+[23/Jan/2018 07:10:46] "GET /static/admin/js/prepopulate_init.js HTTP/1.0" 200 495
+[23/Jan/2018 07:10:46] "GET /static/admin/css/widgets.css HTTP/1.0" 200 10340
+[23/Jan/2018 07:10:46] "GET /admin/jsi18n/ HTTP/1.0" 200 3217
+[23/Jan/2018 07:11:08] "POST /admin/ChristmasModel/refmodel/add/ HTTP/1.0" 302 0
+[23/Jan/2018 07:11:09] "GET /admin/ChristmasModel/refmodel/ HTTP/1.0" 200 10974
+[23/Jan/2018 07:11:09] "GET /admin/jsi18n/ HTTP/1.0" 200 3217
+[23/Jan/2018 07:11:09] "GET /static/admin/img/icon-yes.svg HTTP/1.0" 200 436
+[23/Jan/2018 07:11:19] "GET /admin/ChristmasModel/refmodel/add/ HTTP/1.0" 200 4848
+[23/Jan/2018 07:11:19] "GET /admin/jsi18n/ HTTP/1.0" 200 3217
+[23/Jan/2018 07:11:33] "POST /admin/ChristmasModel/refmodel/add/ HTTP/1.0" 302 0
+[23/Jan/2018 07:11:33] "GET /admin/ChristmasModel/refmodel/ HTTP/1.0" 200 11216
+[23/Jan/2018 07:11:33] "GET /admin/jsi18n/ HTTP/1.0" 200 3217
+Not Found: /a
+[23/Jan/2018 07:16:20] "GET /a HTTP/1.0" 404 2468
+[23/Jan/2018 07:16:22] "GET / HTTP/1.0" 200 4557
+[23/Jan/2018 07:16:23] "GET /ref HTTP/1.0" 200 9333
+[23/Jan/2018 08:25:23] "GET / HTTP/1.0" 200 4557
+[23/Jan/2018 08:25:23] "GET /static/res/bootstrap-4.0.0/css/bootstrap.css HTTP/1.0" 200 159202
+[23/Jan/2018 08:25:23] "GET /static/res/bootstrap-4.0.0/css/bootstrap-reboot.css HTTP/1.0" 200 4964
+[23/Jan/2018 08:25:23] "GET /static/res/bootstrap-4.0.0/css/bootstrap-grid.css HTTP/1.0" 200 32403
+[23/Jan/2018 08:25:23] "GET /static/res/bootstrap-4.0.0/css/jumbotron.css HTTP/1.0" 200 107
+[23/Jan/2018 08:25:23] "GET /static/res/bootstrap-4.0.0/css/album.css HTTP/1.0" 200 790
+[23/Jan/2018 08:25:23] "GET /static/res/bootstrap-4.0.0/css/grid.css HTTP/1.0" 200 366
+[23/Jan/2018 08:25:23] "GET /static/res/bootstrap-4.0.0/js/bootstrap.min.js HTTP/1.0" 200 50564
+[23/Jan/2018 08:25:23] "GET /static/res/bootstrap-4.0.0/js/popper.min.js HTTP/1.0" 200 19197
+[23/Jan/2018 08:25:23] "GET /static/res/bootstrap-markdown/js/bootstrap-markdown.js HTTP/1.0" 200 49558
+[23/Jan/2018 08:25:23] "GET /static/res/bootstrap-4.0.0/js/jquery-3.2.1.min.js HTTP/1.0" 200 86659
+[23/Jan/2018 08:25:23] "GET /static/res/bootstrap-4.0.0/js/holder.min.js HTTP/1.0" 200 32283
+[23/Jan/2018 08:25:27] "GET /ref HTTP/1.0" 200 9333
+[23/Jan/2018 08:25:30] "GET /admin HTTP/1.0" 301 0
+[23/Jan/2018 08:25:30] "GET /admin/ HTTP/1.0" 302 0
+[23/Jan/2018 08:25:30] "GET /admin/login/?next=/admin/ HTTP/1.0" 200 1650
+[23/Jan/2018 08:25:30] "GET /static/admin/css/login.css HTTP/1.0" 200 1203
+[23/Jan/2018 08:25:30] "GET /static/admin/css/base.css HTTP/1.0" 200 16066
+[23/Jan/2018 08:25:30] "GET /static/admin/css/fonts.css HTTP/1.0" 200 423
+[23/Jan/2018 08:25:30] "GET /static/admin/fonts/Roboto-Regular-webfont.woff HTTP/1.0" 200 80304
+[23/Jan/2018 08:25:30] "GET /static/admin/fonts/Roboto-Light-webfont.woff HTTP/1.0" 200 81348
+[23/Jan/2018 08:25:36] "POST /admin/login/?next=/admin/ HTTP/1.0" 302 0
+[23/Jan/2018 08:25:36] "GET /admin/ HTTP/1.0" 200 7041
+[23/Jan/2018 08:25:36] "GET /static/admin/css/dashboard.css HTTP/1.0" 200 412
+[23/Jan/2018 08:25:36] "GET /static/admin/img/icon-addlink.svg HTTP/1.0" 200 331
+[23/Jan/2018 08:25:36] "GET /static/admin/fonts/Roboto-Bold-webfont.woff HTTP/1.0" 200 82564
+[23/Jan/2018 08:25:36] "GET /static/admin/img/icon-changelink.svg HTTP/1.0" 200 380
+[23/Jan/2018 08:25:38] "GET /admin/ChristmasModel/refmodel/ HTTP/1.0" 200 11013
+[23/Jan/2018 08:25:38] "GET /static/admin/js/core.js HTTP/1.0" 200 7976
+[23/Jan/2018 08:25:38] "GET /static/admin/css/changelists.css HTTP/1.0" 200 6170
+[23/Jan/2018 08:25:38] "GET /static/admin/js/vendor/jquery/jquery.js HTTP/1.0" 200 258648
+[23/Jan/2018 08:25:38] "GET /static/admin/js/jquery.init.js HTTP/1.0" 200 363
+[23/Jan/2018 08:25:38] "GET /static/admin/js/admin/RelatedObjectLookups.js HTTP/1.0" 200 6591
+[23/Jan/2018 08:25:38] "GET /static/admin/js/actions.js HTTP/1.0" 200 6501
+[23/Jan/2018 08:25:38] "GET /static/admin/js/urlify.js HTTP/1.0" 200 8186
+[23/Jan/2018 08:25:38] "GET /admin/jsi18n/ HTTP/1.0" 200 3217
+[23/Jan/2018 08:25:38] "GET /static/admin/js/prepopulate.js HTTP/1.0" 200 1538
+[23/Jan/2018 08:25:38] "GET /static/admin/js/vendor/xregexp/xregexp.js HTTP/1.0" 200 128820
+[23/Jan/2018 08:25:40] "GET /static/admin/img/tooltag-add.svg HTTP/1.0" 200 331
+[23/Jan/2018 08:25:41] "GET /admin/ChristmasModel/refmodel/add/ HTTP/1.0" 200 4848
+[23/Jan/2018 08:25:41] "GET /static/admin/css/forms.css HTTP/1.0" 200 8173
+[23/Jan/2018 08:25:41] "GET /static/admin/js/change_form.js HTTP/1.0" 200 712
+[23/Jan/2018 08:25:41] "GET /static/admin/js/prepopulate_init.js HTTP/1.0" 200 495
+[23/Jan/2018 08:25:41] "GET /static/admin/css/widgets.css HTTP/1.0" 200 10340
+[23/Jan/2018 08:25:41] "GET /admin/jsi18n/ HTTP/1.0" 200 3217
+[23/Jan/2018 08:25:53] "POST /admin/ChristmasModel/refmodel/add/ HTTP/1.0" 302 0
+[23/Jan/2018 08:25:53] "GET /admin/ChristmasModel/refmodel/ HTTP/1.0" 200 11458
+[23/Jan/2018 08:25:53] "GET /admin/jsi18n/ HTTP/1.0" 200 3217
+[23/Jan/2018 08:25:53] "GET /static/admin/img/icon-yes.svg HTTP/1.0" 200 436
+[23/Jan/2018 10:20:26] "GET / HTTP/1.0" 200 4557
+[23/Jan/2018 10:20:27] "GET /admin/ HTTP/1.0" 200 7041
+[23/Jan/2018 10:20:29] "GET /admin/ChristmasModel/refmodel/ HTTP/1.0" 200 11255
+[23/Jan/2018 10:20:29] "GET /admin/jsi18n/ HTTP/1.0" 200 3217
+[23/Jan/2018 10:20:30] "GET /admin/ChristmasModel/refmodel/add/ HTTP/1.0" 200 4848
+[23/Jan/2018 10:20:30] "GET /admin/jsi18n/ HTTP/1.0" 200 3217
+[23/Jan/2018 10:20:50] "POST /admin/ChristmasModel/refmodel/add/ HTTP/1.0" 302 0
+[23/Jan/2018 10:20:50] "GET /admin/ChristmasModel/refmodel/ HTTP/1.0" 200 11700
+[23/Jan/2018 10:20:50] "GET /admin/jsi18n/ HTTP/1.0" 200 3217
+[23/Jan/2018 10:21:16] "GET / HTTP/1.0" 200 4557
+[23/Jan/2018 10:21:18] "GET /ref HTTP/1.0" 200 9722
+[23/Jan/2018 10:21:23] "GET /admin/ HTTP/1.0" 200 7041
+[23/Jan/2018 10:21:24] "GET /admin/ChristmasModel/refmodel/ HTTP/1.0" 200 11497
+[23/Jan/2018 10:21:24] "GET /admin/jsi18n/ HTTP/1.0" 200 3217
+[23/Jan/2018 10:21:25] "GET /admin/ChristmasModel/refmodel/add/ HTTP/1.0" 200 4848
+[23/Jan/2018 10:21:25] "GET /admin/jsi18n/ HTTP/1.0" 200 3217
+[23/Jan/2018 10:21:34] "POST /admin/ChristmasModel/refmodel/add/ HTTP/1.0" 302 0
+[23/Jan/2018 10:21:34] "GET /admin/ChristmasModel/refmodel/ HTTP/1.0" 200 11942
+[23/Jan/2018 10:21:34] "GET /admin/jsi18n/ HTTP/1.0" 200 3217
+[23/Jan/2018 11:03:27] "GET / HTTP/1.0" 200 4557
+[23/Jan/2018 11:03:28] "GET /admin/ HTTP/1.0" 200 7041
+[23/Jan/2018 11:03:29] "GET /admin/ChristmasModel/refmodel/ HTTP/1.0" 200 11739
+[23/Jan/2018 11:03:29] "GET /admin/jsi18n/ HTTP/1.0" 200 3217
+[23/Jan/2018 11:03:30] "GET /admin/ChristmasModel/refmodel/add/ HTTP/1.0" 200 4848
+[23/Jan/2018 11:03:30] "GET /admin/jsi18n/ HTTP/1.0" 200 3217
+[23/Jan/2018 11:03:46] "POST /admin/ChristmasModel/refmodel/add/ HTTP/1.0" 302 0
+[23/Jan/2018 11:03:46] "GET /admin/ChristmasModel/refmodel/ HTTP/1.0" 200 12184
+[23/Jan/2018 11:03:46] "GET /admin/jsi18n/ HTTP/1.0" 200 3217
+[23/Jan/2018 11:03:57] "GET /admin/ChristmasModel/refmodel/add/ HTTP/1.0" 200 4848
+[23/Jan/2018 11:03:57] "GET /admin/jsi18n/ HTTP/1.0" 200 3217
+[23/Jan/2018 11:04:07] "POST /admin/ChristmasModel/refmodel/add/ HTTP/1.0" 302 0
+[23/Jan/2018 11:04:07] "GET /admin/ChristmasModel/refmodel/ HTTP/1.0" 200 12426
+[23/Jan/2018 11:04:07] "GET /admin/jsi18n/ HTTP/1.0" 200 3217
+[23/Jan/2018 12:46:34] "GET / HTTP/1.0" 200 4557
+Not Found: /apple-touch-icon-precomposed.png
+[23/Jan/2018 12:46:34] "GET /apple-touch-icon-precomposed.png HTTP/1.0" 404 2561
+Not Found: /apple-touch-icon.png
+[23/Jan/2018 12:46:34] "GET /apple-touch-icon.png HTTP/1.0" 404 2525
+Not Found: /favicon.ico
+[23/Jan/2018 12:46:34] "GET /favicon.ico HTTP/1.0" 404 2498
+Not Found: /favicon.ico
+[23/Jan/2018 12:46:34] "GET /favicon.ico HTTP/1.0" 404 2498
+Not Found: /apple-touch-icon-precomposed.png
+[23/Jan/2018 12:46:34] "GET /apple-touch-icon-precomposed.png HTTP/1.0" 404 2561
+Not Found: /apple-touch-icon.png
+[23/Jan/2018 12:46:34] "GET /apple-touch-icon.png HTTP/1.0" 404 2525
+Not Found: /favicon.ico
+[23/Jan/2018 12:46:35] "GET /favicon.ico HTTP/1.0" 404 2498
+Not Found: /favicon.ico
+[23/Jan/2018 12:46:35] "GET /favicon.ico HTTP/1.0" 404 2498
+[23/Jan/2018 12:46:35] "GET / HTTP/1.0" 200 4557
+Not Found: /apple-touch-icon-precomposed.png
+[23/Jan/2018 12:46:35] "GET /apple-touch-icon-precomposed.png HTTP/1.0" 404 2561
+Not Found: /apple-touch-icon.png
+[23/Jan/2018 12:46:35] "GET /apple-touch-icon.png HTTP/1.0" 404 2525
+Not Found: /favicon.ico
+[23/Jan/2018 12:46:35] "GET /favicon.ico HTTP/1.0" 404 2498
+Not Found: /favicon.ico
+[23/Jan/2018 12:46:35] "GET /favicon.ico HTTP/1.0" 404 2498
+Not Found: /apple-touch-icon-precomposed.png
+[23/Jan/2018 12:46:35] "GET /apple-touch-icon-precomposed.png HTTP/1.0" 404 2561
+Not Found: /apple-touch-icon.png
+[23/Jan/2018 12:46:35] "GET /apple-touch-icon.png HTTP/1.0" 404 2525
+Not Found: /favicon.ico
+[23/Jan/2018 12:46:35] "GET /favicon.ico HTTP/1.0" 404 2498
+Not Found: /favicon.ico
+[23/Jan/2018 12:46:35] "GET /favicon.ico HTTP/1.0" 404 2498
+[23/Jan/2018 14:55:33] "GET / HTTP/1.0" 200 4557
+Not Found: /apple-touch-icon-precomposed.png
+[23/Jan/2018 14:55:33] "GET /apple-touch-icon-precomposed.png HTTP/1.0" 404 2561
+Not Found: /apple-touch-icon.png
+[23/Jan/2018 14:55:33] "GET /apple-touch-icon.png HTTP/1.0" 404 2525
+Not Found: /favicon.ico
+[23/Jan/2018 14:55:33] "GET /favicon.ico HTTP/1.0" 404 2498
+Not Found: /favicon.ico
+[23/Jan/2018 14:55:33] "GET /favicon.ico HTTP/1.0" 404 2498
+Not Found: /apple-touch-icon-precomposed.png
+[23/Jan/2018 14:55:33] "GET /apple-touch-icon-precomposed.png HTTP/1.0" 404 2561
+Not Found: /apple-touch-icon.png
+[23/Jan/2018 14:55:33] "GET /apple-touch-icon.png HTTP/1.0" 404 2525
+Not Found: /favicon.ico
+[23/Jan/2018 14:55:33] "GET /favicon.ico HTTP/1.0" 404 2498
+Not Found: /favicon.ico
+[23/Jan/2018 14:55:33] "GET /favicon.ico HTTP/1.0" 404 2498
+[23/Jan/2018 14:55:33] "GET / HTTP/1.0" 200 4557
+Not Found: /apple-touch-icon-precomposed.png
+[23/Jan/2018 14:55:33] "GET /apple-touch-icon-precomposed.png HTTP/1.0" 404 2561
+Not Found: /apple-touch-icon.png
+[23/Jan/2018 14:55:33] "GET /apple-touch-icon.png HTTP/1.0" 404 2525
+Not Found: /favicon.ico
+[23/Jan/2018 14:55:33] "GET /favicon.ico HTTP/1.0" 404 2498
+Not Found: /favicon.ico
+[23/Jan/2018 14:55:33] "GET /favicon.ico HTTP/1.0" 404 2498
+Not Found: /apple-touch-icon-precomposed.png
+[23/Jan/2018 14:55:33] "GET /apple-touch-icon-precomposed.png HTTP/1.0" 404 2561
+Not Found: /apple-touch-icon.png
+[23/Jan/2018 14:55:33] "GET /apple-touch-icon.png HTTP/1.0" 404 2525
+Not Found: /favicon.ico
+[23/Jan/2018 14:55:33] "GET /favicon.ico HTTP/1.0" 404 2498
+Not Found: /favicon.ico
+[23/Jan/2018 14:55:33] "GET /favicon.ico HTTP/1.0" 404 2498
+[23/Jan/2018 16:09:57] "GET / HTTP/1.0" 200 4557
+Not Found: /apple-touch-icon-precomposed.png
+[23/Jan/2018 16:09:57] "GET /apple-touch-icon-precomposed.png HTTP/1.0" 404 2561
+Not Found: /apple-touch-icon.png
+[23/Jan/2018 16:09:57] "GET /apple-touch-icon.png HTTP/1.0" 404 2525
+Not Found: /favicon.ico
+[23/Jan/2018 16:09:57] "GET /favicon.ico HTTP/1.0" 404 2498
+Not Found: /favicon.ico
+[23/Jan/2018 16:09:57] "GET /favicon.ico HTTP/1.0" 404 2498
+Not Found: /apple-touch-icon-precomposed.png
+[23/Jan/2018 16:09:57] "GET /apple-touch-icon-precomposed.png HTTP/1.0" 404 2561
+Not Found: /apple-touch-icon.png
+[23/Jan/2018 16:09:57] "GET /apple-touch-icon.png HTTP/1.0" 404 2525
+Not Found: /favicon.ico
+[23/Jan/2018 16:09:57] "GET /favicon.ico HTTP/1.0" 404 2498
+Not Found: /favicon.ico
+[23/Jan/2018 16:09:57] "GET /favicon.ico HTTP/1.0" 404 2498
+[23/Jan/2018 16:09:57] "GET / HTTP/1.0" 200 4557
+Not Found: /apple-touch-icon-precomposed.png
+[23/Jan/2018 16:09:57] "GET /apple-touch-icon-precomposed.png HTTP/1.0" 404 2561
+Not Found: /apple-touch-icon.png
+[23/Jan/2018 16:09:57] "GET /apple-touch-icon.png HTTP/1.0" 404 2525
+Not Found: /favicon.ico
+[23/Jan/2018 16:09:57] "GET /favicon.ico HTTP/1.0" 404 2498
+Not Found: /favicon.ico
+[23/Jan/2018 16:09:57] "GET /favicon.ico HTTP/1.0" 404 2498
+Not Found: /apple-touch-icon-precomposed.png
+[23/Jan/2018 16:09:57] "GET /apple-touch-icon-precomposed.png HTTP/1.0" 404 2561
+Not Found: /apple-touch-icon.png
+[23/Jan/2018 16:09:57] "GET /apple-touch-icon.png HTTP/1.0" 404 2525
+Not Found: /favicon.ico
+[23/Jan/2018 16:09:57] "GET /favicon.ico HTTP/1.0" 404 2498
+Not Found: /favicon.ico
+[23/Jan/2018 16:09:57] "GET /favicon.ico HTTP/1.0" 404 2498
+[23/Jan/2018 17:39:52] "GET / HTTP/1.0" 200 4557
+[23/Jan/2018 19:17:41] "GET / HTTP/1.0" 200 4557
+Not Found: /explicit_not_exist_path
+[23/Jan/2018 19:17:41] "GET /explicit_not_exist_path HTTP/1.0" 404 2534
+Not Found: /index.html
+[23/Jan/2018 19:17:42] "GET /index.html HTTP/1.0" 404 2495
+Not Found: /index.php
+[23/Jan/2018 19:17:42] "GET /index.php HTTP/1.0" 404 2492
+Not Found: /index.jsp
+[23/Jan/2018 19:17:42] "GET /index.jsp HTTP/1.0" 404 2492
+[23/Jan/2018 19:17:42] "GET /admin/ HTTP/1.0" 302 0
+[23/Jan/2018 19:17:42] "GET /admin/login/?next=/admin/ HTTP/1.0" 200 1650
+Not Found: /favicon.ico
+[23/Jan/2018 19:17:42] "GET /favicon.ico HTTP/1.0" 404 2498
+Not Found: /robots.txt
+[23/Jan/2018 19:17:42] "GET /robots.txt HTTP/1.0" 404 2495
+Not Found: /README
+[23/Jan/2018 19:17:42] "GET /README HTTP/1.0" 404 2483
+[23/Jan/2018 19:17:43] "GET /static/admin/css/base.css HTTP/1.0" 200 16066
+[23/Jan/2018 19:17:43] "GET /static/admin/js/admin/RelatedObjectLookups.js HTTP/1.0" 200 6591
+[23/Jan/2018 19:17:43] "GET /static/admin/css/dashboard.css HTTP/1.0" 200 412
+[23/Jan/2018 19:17:43] "GET /static/admin/img/icon-no.gif HTTP/1.0" 404 1676
+[23/Jan/2018 19:17:43] "GET /static/admin/js/LICENSE-JQUERY.txt HTTP/1.0" 404 1694
+[23/Jan/2018 19:17:43] "GET /static/admin/fonts/Roboto-Light-webfont.woff HTTP/1.0" 200 81348
+[23/Jan/2018 19:17:43] "GET /static/admin/css/fonts.css HTTP/1.0" 200 423
+[23/Jan/2018 19:17:43] "GET /static/admin/img/icon-no.svg HTTP/1.0" 200 560
+Not Found: /404.html
+[23/Jan/2018 19:17:44] "GET /404.html HTTP/1.0" 404 2489
+Not Found: /500.html
+[23/Jan/2018 19:17:44] "GET /500.html HTTP/1.0" 404 2489
+Not Found: /stylesheets/application.css
+[23/Jan/2018 19:17:44] "GET /stylesheets/application.css HTTP/1.0" 404 2546
+Not Found: /wp-login.php
+[23/Jan/2018 19:17:44] "GET /wp-login.php HTTP/1.0" 404 2501
+Not Found: /readme.html
+[23/Jan/2018 19:17:44] "GET /readme.html HTTP/1.0" 404 2498
+Not Found: /license.txt
+[23/Jan/2018 19:17:44] "GET /license.txt HTTP/1.0" 404 2498
+Not Found: /wp-includes/js/wplink.js
+[23/Jan/2018 19:17:44] "GET /wp-includes/js/wplink.js HTTP/1.0" 404 2537
+Not Found: /wp-admin/js/customize-controls.js
+[23/Jan/2018 19:17:44] "GET /wp-admin/js/customize-controls.js HTTP/1.0" 404 2564
+Not Found: /wp-admin/js/nav-menu.js
+[23/Jan/2018 19:17:44] "GET /wp-admin/js/nav-menu.js HTTP/1.0" 404 2534
+Not Found: /wp-includes/js/plupload/handlers.js
+[23/Jan/2018 19:17:44] "GET /wp-includes/js/plupload/handlers.js HTTP/1.0" 404 2570
+Not Found: /wp-includes/js/tinymce/wp-tinymce.js.gz
+[23/Jan/2018 19:17:44] "GET /wp-includes/js/tinymce/wp-tinymce.js.gz HTTP/1.0" 404 2582
+Not Found: /solr/
+[23/Jan/2018 19:17:44] "GET /solr/ HTTP/1.0" 404 2480
+Not Found: /wcm/
+[23/Jan/2018 19:17:44] "GET /wcm/ HTTP/1.0" 404 2477
+Not Found: /phpMyAdmin/
+[23/Jan/2018 19:17:44] "GET /phpMyAdmin/ HTTP/1.0" 404 2498
+Not Found: /phpmyadmin/
+[23/Jan/2018 19:17:44] "GET /phpmyadmin/ HTTP/1.0" 404 2498
+Not Found: /pma/
+[23/Jan/2018 19:17:44] "GET /pma/ HTTP/1.0" 404 2477
+[24/Jan/2018 03:22:09] "GET / HTTP/1.0" 200 4557
+Not Found: /favicon.ico
+[24/Jan/2018 03:22:10] "GET /favicon.ico HTTP/1.0" 404 2498
+[24/Jan/2018 03:22:11] "GET /ref HTTP/1.0" 200 10316
+[24/Jan/2018 08:49:59] "GET / HTTP/1.0" 200 4557
+[24/Jan/2018 12:04:00] "GET / HTTP/1.0" 200 4557
+Not Found: /apple-touch-icon-precomposed.png
+[24/Jan/2018 12:04:01] "GET /apple-touch-icon-precomposed.png HTTP/1.0" 404 2561
+Not Found: /apple-touch-icon.png
+[24/Jan/2018 12:04:02] "GET /apple-touch-icon.png HTTP/1.0" 404 2525
+Not Found: /favicon.ico
+[24/Jan/2018 12:04:02] "GET /favicon.ico HTTP/1.0" 404 2498
+Not Found: /favicon.ico
+[24/Jan/2018 12:04:02] "GET /favicon.ico HTTP/1.0" 404 2498
+Not Found: /apple-touch-icon-precomposed.png
+[24/Jan/2018 12:04:02] "GET /apple-touch-icon-precomposed.png HTTP/1.0" 404 2561
+Not Found: /apple-touch-icon.png
+[24/Jan/2018 12:04:02] "GET /apple-touch-icon.png HTTP/1.0" 404 2525
+Not Found: /favicon.ico
+[24/Jan/2018 12:04:02] "GET /favicon.ico HTTP/1.0" 404 2498
+Not Found: /favicon.ico
+[24/Jan/2018 12:04:02] "GET /favicon.ico HTTP/1.0" 404 2498
+[24/Jan/2018 12:04:02] "GET / HTTP/1.0" 200 4557
+Not Found: /apple-touch-icon-precomposed.png
+[24/Jan/2018 12:04:03] "GET /apple-touch-icon-precomposed.png HTTP/1.0" 404 2561
+Not Found: /apple-touch-icon.png
+[24/Jan/2018 12:04:03] "GET /apple-touch-icon.png HTTP/1.0" 404 2525
+Not Found: /favicon.ico
+[24/Jan/2018 12:04:03] "GET /favicon.ico HTTP/1.0" 404 2498
+Not Found: /favicon.ico
+[24/Jan/2018 12:04:03] "GET /favicon.ico HTTP/1.0" 404 2498
+Not Found: /apple-touch-icon-precomposed.png
+[24/Jan/2018 12:04:03] "GET /apple-touch-icon-precomposed.png HTTP/1.0" 404 2561
+Not Found: /apple-touch-icon.png
+[24/Jan/2018 12:04:03] "GET /apple-touch-icon.png HTTP/1.0" 404 2525
+Not Found: /favicon.ico
+[24/Jan/2018 12:04:03] "GET /favicon.ico HTTP/1.0" 404 2498
+Not Found: /favicon.ico
+[24/Jan/2018 12:04:03] "GET /favicon.ico HTTP/1.0" 404 2498
+[24/Jan/2018 14:56:17] "GET / HTTP/1.0" 200 4557
+Not Found: /apple-touch-icon-precomposed.png
+[24/Jan/2018 14:56:17] "GET /apple-touch-icon-precomposed.png HTTP/1.0" 404 2561
+Not Found: /apple-touch-icon.png
+[24/Jan/2018 14:56:17] "GET /apple-touch-icon.png HTTP/1.0" 404 2525
+Not Found: /favicon.ico
+[24/Jan/2018 14:56:17] "GET /favicon.ico HTTP/1.0" 404 2498
+Not Found: /favicon.ico
+[24/Jan/2018 14:56:17] "GET /favicon.ico HTTP/1.0" 404 2498
+Not Found: /apple-touch-icon-precomposed.png
+[24/Jan/2018 14:56:17] "GET /apple-touch-icon-precomposed.png HTTP/1.0" 404 2561
+Not Found: /apple-touch-icon.png
+[24/Jan/2018 14:56:17] "GET /apple-touch-icon.png HTTP/1.0" 404 2525
+Not Found: /favicon.ico
+[24/Jan/2018 14:56:17] "GET /favicon.ico HTTP/1.0" 404 2498
+Not Found: /favicon.ico
+[24/Jan/2018 14:56:17] "GET /favicon.ico HTTP/1.0" 404 2498
+[24/Jan/2018 14:56:17] "GET / HTTP/1.0" 200 4557
+Not Found: /apple-touch-icon-precomposed.png
+[24/Jan/2018 14:56:17] "GET /apple-touch-icon-precomposed.png HTTP/1.0" 404 2561
+Not Found: /apple-touch-icon.png
+[24/Jan/2018 14:56:17] "GET /apple-touch-icon.png HTTP/1.0" 404 2525
+Not Found: /favicon.ico
+[24/Jan/2018 14:56:17] "GET /favicon.ico HTTP/1.0" 404 2498
+Not Found: /favicon.ico
+[24/Jan/2018 14:56:17] "GET /favicon.ico HTTP/1.0" 404 2498
+Not Found: /apple-touch-icon-precomposed.png
+[24/Jan/2018 14:56:17] "GET /apple-touch-icon-precomposed.png HTTP/1.0" 404 2561
+Not Found: /apple-touch-icon.png
+[24/Jan/2018 14:56:17] "GET /apple-touch-icon.png HTTP/1.0" 404 2525
+Not Found: /favicon.ico
+[24/Jan/2018 14:56:17] "GET /favicon.ico HTTP/1.0" 404 2498
+Not Found: /favicon.ico
+[24/Jan/2018 14:56:17] "GET /favicon.ico HTTP/1.0" 404 2498
+[24/Jan/2018 18:09:22] "GET / HTTP/1.0" 200 4557
+[24/Jan/2018 20:08:38] "GET / HTTP/1.0" 200 4557
+Not Found: /apple-touch-icon-precomposed.png
+[24/Jan/2018 20:08:38] "GET /apple-touch-icon-precomposed.png HTTP/1.0" 404 2561
+Not Found: /apple-touch-icon.png
+[24/Jan/2018 20:08:38] "GET /apple-touch-icon.png HTTP/1.0" 404 2525
+Not Found: /favicon.ico
+[24/Jan/2018 20:08:38] "GET /favicon.ico HTTP/1.0" 404 2498
+Not Found: /favicon.ico
+[24/Jan/2018 20:08:38] "GET /favicon.ico HTTP/1.0" 404 2498
+Not Found: /apple-touch-icon-precomposed.png
+[24/Jan/2018 20:08:39] "GET /apple-touch-icon-precomposed.png HTTP/1.0" 404 2561
+Not Found: /apple-touch-icon.png
+[24/Jan/2018 20:08:39] "GET /apple-touch-icon.png HTTP/1.0" 404 2525
+Not Found: /favicon.ico
+[24/Jan/2018 20:08:39] "GET /favicon.ico HTTP/1.0" 404 2498
+Not Found: /favicon.ico
+[24/Jan/2018 20:08:39] "GET /favicon.ico HTTP/1.0" 404 2498
+[24/Jan/2018 20:08:39] "GET / HTTP/1.0" 200 4557
+Not Found: /apple-touch-icon-precomposed.png
+[24/Jan/2018 20:08:39] "GET /apple-touch-icon-precomposed.png HTTP/1.0" 404 2561
+Not Found: /apple-touch-icon.png
+[24/Jan/2018 20:08:39] "GET /apple-touch-icon.png HTTP/1.0" 404 2525
+Not Found: /favicon.ico
+[24/Jan/2018 20:08:39] "GET /favicon.ico HTTP/1.0" 404 2498
+Not Found: /favicon.ico
+[24/Jan/2018 20:08:39] "GET /favicon.ico HTTP/1.0" 404 2498
+Not Found: /apple-touch-icon-precomposed.png
+[24/Jan/2018 20:08:39] "GET /apple-touch-icon-precomposed.png HTTP/1.0" 404 2561
+Not Found: /apple-touch-icon.png
+[24/Jan/2018 20:08:39] "GET /apple-touch-icon.png HTTP/1.0" 404 2525
+Not Found: /favicon.ico
+[24/Jan/2018 20:08:39] "GET /favicon.ico HTTP/1.0" 404 2498
+Not Found: /favicon.ico
+[24/Jan/2018 20:08:39] "GET /favicon.ico HTTP/1.0" 404 2498
+[25/Jan/2018 01:37:22] "GET / HTTP/1.0" 200 4557
+Not Found: /favicon.ico
+[25/Jan/2018 01:37:22] "GET /favicon.ico HTTP/1.0" 404 2498
+[25/Jan/2018 01:37:24] "GET /ref HTTP/1.0" 200 10316
+[25/Jan/2018 01:39:35] "GET / HTTP/1.0" 200 4557
+[25/Jan/2018 01:39:37] "GET /ref HTTP/1.0" 200 10316
